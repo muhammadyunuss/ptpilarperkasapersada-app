@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome1');
+    return view('home');
 });
 
 Route::get('tentang-perusahaan', function () {
@@ -32,3 +32,15 @@ Route::get('portofolio', function () {
 Route::get('hubungi-kami', function () {
     return view('hubungi-kami');
 })->name('hubungi-kami');
+
+Route::get('portofolio-single', function () {
+    return view('portofolio-single');
+})->name('portofolio-single');
+
+Route::get('service', function () {
+    return view('service');
+})->name('service');
+
+Route::get('blog-detail', function () {
+    return view('blog-detail');
+})->name('blog-detail');

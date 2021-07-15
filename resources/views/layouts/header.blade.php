@@ -1,7 +1,7 @@
 <header class="stick style1 w-100">
     <div class="container">
         <div class="logo-menu-wrap d-flex flex-wrap justify-content-between align-items-center w-100">
-            <div class="logo"><h1 class="mb-0"><a href="{{ url('/') }}" title="Home"><img width="70px" class="img-fluid default-logo" src="{{ asset('front') }}/assets/images/logo.png" srcset="{{ asset('front') }}/assets/images/logo.png" alt="Logo"><img width="70px" class="img-fluid hover-logo" src="{{ asset('front') }}/assets/images/logo.png" srcset="{{ asset('front') }}/assets/images/logo.png" alt="Hover Logo"></a></h1></div><!-- Logo -->
+            <div class="logo"><h1 class="mb-0"><a href="{{ url('/') }}" title="Home"><img class="img-fluid default-logo" src="{{ asset('front') }}/assets/images/logo.png" srcset="{{ asset('front') }}/assets/images/logo.png" alt="Logo"><img class="img-fluid hover-logo" src="{{ asset('front') }}/assets/images/logo.png" srcset="{{ asset('front') }}/assets/images/logo.png" alt="Hover Logo"></a></h1></div><!-- Logo -->
             <nav class="d-flex flex-wrap justify-content-between align-items-center">
                 <div class="nav-left">
                     <ul class="mb-0 list-unstyled d-inline-flex flex-wrap w-100">
