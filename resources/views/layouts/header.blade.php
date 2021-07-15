@@ -5,11 +5,11 @@
             <nav class="d-flex flex-wrap justify-content-between align-items-center">
                 <div class="nav-left">
                     <ul class="mb-0 list-unstyled d-inline-flex flex-wrap w-100">
-                        <li><a href="{{ url('/') }}" title=""><span>Beranda</span></a></li>
-                        <li><a href="{{ route('tentang-perusahaan') }}" title=""><span>Tentang Perusahaan</span></a></li>
+                        <li><a href="{{ url('/') }}" title=""><span>Home</span></a></li>
+                        <li><a href="{{ route('tentang-perusahaan') }}" title=""><span>About us</span></a></li>
                         <li><a href="{{ route('blog') }}" title=""><span>Blog</span></a></li>
                         <li><a href="{{ route('portofolio') }}" title=""><span>Portofolio</span></a></li>
-                        <li><a href="{{ route('hubungi-kami') }}" title=""><span>Hubungi Kami</span></a></li>
+                        <li><a href="{{ route('hubungi-kami') }}" title=""><span>Contact us</span></a></li>
                     </ul>
                 </div>
             </nav>

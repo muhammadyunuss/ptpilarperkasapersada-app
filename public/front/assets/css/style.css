@@ -2010,7 +2010,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {line-height: 5rem;}
 .feat-cap > a:focus {margin-left: 7px;}
 .thm-btn {
   font-size: 1rem;
-  color: var(--color1);
+  color: white;
   font-weight: 500;
   text-transform: uppercase;
   padding: 1.125rem 3.875rem;
@@ -2021,7 +2021,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {line-height: 5rem;}
 .thm-btn.bg-color1:focus {color: var(--color1)}
 .thm-btn.thm-bg:hover, 
 .thm-btn.thm-bg:focus {
-  background-color: var(--color1);
+  background-color: #ea5e23;
   color: #fff;
 }
 .thm-btn span.brd-btm-rgt {
@@ -3623,7 +3623,7 @@ footer + .copyright {border-top: 1px solid rgba(255,255,255,.1);}
   background-position: center;
 }
 .photo-info-box.v1 {
-  left: 50%;
+  left: 35%;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   -o-transform: translateX(-50%);
@@ -3631,25 +3631,25 @@ footer + .copyright {border-top: 1px solid rgba(255,255,255,.1);}
   top: 5.625rem;
 }
 .photo-info-box.v2 {
-  top: 50%;
-  right: 20%;
+  top: 70%;
+  right: 10%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
 .photo-info-box.v3 {
-  left: 16%;
-  bottom: 6.5625rem;
+  left: 10%;
+  bottom: 12.5625rem;
 }
 .photo-info-box.v4 {
   margin-left: 6rem;
-  left: 50%;
+  left: 40%;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
-  bottom: 11.5px;
+  bottom: 25%;
 }
 .photo-info-box.active {z-index: 1;}
 .photo-info-box > span {
@@ -4925,7 +4925,7 @@ iframe.cont-map {
 }
 .video-img:before {
   content: "";
-  position: ;
+  position: "";
   position: absolute;
   left: 0;
   right: 0;
@@ -6186,11 +6186,11 @@ blockquote.blockquote > i {
 }
 .blog-tag.thm-bg:hover, 
 .blog-tag.thm-bg:focus {
-  background-color: var(--color1);
+  background-color: #ea5e23;
   color: #fff;
 }
 .blog-tag:not(.thm-bg):hover, 
-.blog-tag:not(.thm-bg):focus {color: var(--color1);}
+.blog-tag:not(.thm-bg):focus {color: #ea5e23;}
 .blog-post-box2.v2 .blog-post-img2 + .blog-post-info2, 
 .blog-post-box2.v2 iframe + .blog-post-info2 {margin-top: 2.5rem;}
 .blog-post-box2.v2 .blog-post-info-bottom {

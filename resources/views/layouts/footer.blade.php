@@ -6,8 +6,8 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-lg-3">
                         <div class="widget-box w-100">
-                            <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img class="img-fluid" src="{{ asset('front') }}/assets/images/logo2.png" srcset="{{ asset('front') }}/assets/images/logo.png" alt="Logo 2"></a></h1></div><!-- Logo -->
-                            <p class="mb-0">Nemo enim ipsam voluptatem voluptas sit aspernatur aut odit fugit, sed quia consequuntur</p>
+                            <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img style="width:50%" class="img-fluid" src="{{ asset('front') }}/assets/images/logo2.png" srcset="{{ asset('front') }}/assets/images/logo.png" alt="Logo 2"></a></h1></div><!-- Logo -->
+                            <p class="mb-0">PT. Pilar Perkasa is a construction company based in (City), Indonesia. Established in (Year), the company started to expand its business as general contractor engaging in building construction and property</p>
                             <div class="scl-links d-flex flex-wrap w-100">
                                 <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -21,7 +21,7 @@
                             <ul class="cont-list mb-0 list-unstyled w-100">
                                 <li><i class="icon-map-marker-alt thm-clr"></i>120 Park Avenue, New York, NY 10002, USA</li>
                                 <li><i class="icon-phone thm-clr"></i>+ 1 (234) 567 89 90</li>
-                                <li><i class="icon-envelope thm-clr"></i><a href="mailto:inspire@mail.com" title="">inspire@mail.com</a></li>
+                                <li><i class="icon-envelope thm-clr"></i><a href="mailto:inspire@mail.com" title="">pilarperkasa@mail.com</a></li>
                             </ul>
                         </div>
                     </div>
@@ -29,12 +29,10 @@
                         <div class="widget-box w-100">
                             <h3 class="widget-title">Our Portfolio</h3>
                             <ul class="mb-0 list-unstyled w-100">
-                                <li><a href="portfolio-single.html" title="">Modern Natural Materials</a></li>
-                                <li><a href="portfolio-single.html" title="">Minimal Smart House</a></li>
-                                <li><a href="portfolio-single.html" title="">Beautiful Wooden Stairs</a></li>
-                                <li><a href="portfolio-single.html" title="">Scandinavian Style Room</a></li>
-                                <li><a href="portfolio-single.html" title="">Abstract Architecture</a></li>
-                                <li><a href="portfolio-single.html" title="">Design Your Space</a></li>
+                                <li><a href="portfolio-single.html" title="">Mall Project</a></li>
+                                <li><a href="portfolio-single.html" title="">Bridge Project</a></li>
+                                <li><a href="portfolio-single.html" title="">Office Project</a></li>
+                                <li><a href="portfolio-single.html" title="">Education Project</a></li>
                             </ul>
                         </div>
                     </div>
@@ -64,7 +62,7 @@
 <div class="copyright bg-color1 w-100">
     <div class="container">
         <div class="copyright-inner d-flex flex-wrap justify-content-between align-items-center w-100">
-            <p class="mb-0">Copyright &copy; 2021 <a href="index.html" title="Inspire">Inspire</a>. All Rights Reserved</p>
+            <p class="mb-0">Copyright &copy; 2021 <a href="index.html" title="Inspire">PT Pilar Perkasa</a>. All Rights Reserved</p>
             <ul class="d-inline-flex flex-wrap mb-0 list-unstyled">
                 <li><a href="javascript:void(0);" title="">Terms of use</a></li>
                 <li><a href="javascript:void(0);" title="">Privacy Environmental Policy</a></li>

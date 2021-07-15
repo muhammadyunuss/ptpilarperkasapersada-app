@@ -1,5 +1,5 @@
 :root {
-  --theme-color: #f4c36d;
+    --theme-color: #284592;
 }
 
 /*===== Background Color =====*/
@@ -17,10 +17,26 @@ nav ul ul li > a span:before,
 .area-filter .noUi-handle,
 .price-filter .noUi-handle,
 .price-filter .noUi-connect,
-.proj-calc-body-box .quantity .bootstrap-touchspin > span.input-group-btn button:hover:before,
-.proj-calc-body-box .quantity .bootstrap-touchspin > span.input-group-btn button:focus:before,
-.proj-calc-body-box .quantity .bootstrap-touchspin > span.input-group-btn button:hover:after,
-.proj-calc-body-box .quantity .bootstrap-touchspin > span.input-group-btn button:focus:after,
+.proj-calc-body-box
+    .quantity
+    .bootstrap-touchspin
+    > span.input-group-btn
+    button:hover:before,
+.proj-calc-body-box
+    .quantity
+    .bootstrap-touchspin
+    > span.input-group-btn
+    button:focus:before,
+.proj-calc-body-box
+    .quantity
+    .bootstrap-touchspin
+    > span.input-group-btn
+    button:hover:after,
+.proj-calc-body-box
+    .quantity
+    .bootstrap-touchspin
+    > span.input-group-btn
+    button:focus:after,
 .fact-box > h2 + h5::before,
 .package-box.active,
 .package-box:hover,
@@ -66,9 +82,8 @@ nav ul ul li > a span:before,
 .shop-img > a:not(.shop-like):hover,
 .shop-img > a:not(.shop-like):focus,
 .menu-close:hover,
-.menu-close:focus
-{
-	background-color: var(--theme-color);
+.menu-close:focus {
+    background-color: var(--theme-color);
 }
 
 /*===== Text Color =====*/
@@ -158,24 +173,21 @@ ol.breadcrumb > li.breadcrumb-item a:focus,
 .shop-detail-bottom ul li a:focus,
 .shop-detail-bottom ul li span a:hover,
 .shop-detail-bottom ul li span a:focus,
-.minicart-info > h6 a:hover, 
-.minicart-info > h6 a:focus
-{
-	color: var(--theme-color);
+.minicart-info > h6 a:hover,
+.minicart-info > h6 a:focus {
+    color: var(--theme-color);
 }
 
 /*===== SVG Fill Color =====*/
 svg.fill-clr *,
-.reviw-info > i svg path:first-child
-{
-	fill: var(--theme-color);
+.reviw-info > i svg path:first-child {
+    fill: var(--theme-color);
 }
 
 /*===== SVG Stroke Color =====*/
 svg.stroke-clr *,
-.reviw-info > i svg path:last-child
-{
-	stroke: var(--theme-color);
+.reviw-info > i svg path:last-child {
+    stroke: var(--theme-color);
 }
 
 /*===== Border Color =====*/
@@ -210,27 +222,22 @@ svg.stroke-clr *,
 .slick-current .shop-nav-img,
 .slick-slider:not(.feat-caro) ul.slick-dots > li.slick-active button,
 .slick-slider:not(.feat-caro) ul.slick-dots > li button:hover,
-.slick-slider:not(.feat-caro) ul.slick-dots > li button:focus
-{
-	border-color: var(--theme-color);
+.slick-slider:not(.feat-caro) ul.slick-dots > li button:focus {
+    border-color: var(--theme-color);
 }
 
-
-{
-	border-top-color: var(--theme-color);
+ {
+    border-top-color: var(--theme-color);
 }
 
-
-{
-	border-bottom-color: var(--theme-color);
+ {
+    border-bottom-color: var(--theme-color);
 }
 
-
-{
-	border-left-color: var(--theme-color);
+ {
+    border-left-color: var(--theme-color);
 }
 
-
-{
-	border-right-color: var(--theme-color);
+ {
+    border-right-color: var(--theme-color);
 }

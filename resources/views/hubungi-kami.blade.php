@@ -32,45 +32,17 @@
             </div><!-- Sec Title -->
             <div class="cont-info-wrap res-row position-relative w-100">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 col-lg-4">
                         <div class="cont-info-box-wrap position-relative w-100">
                             <div class="cont-info-box position-relative w-100">
-                                <span class="bg-color1 position-absolute text-center">01<svg viewBox="0 0 43 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M43 8L35.5 14.9282L35.5 1.0718L43 8Z" fill="#1E1E20"/><path d="M36 8L0 8" stroke="#1E1E20"/></svg></span>
-                                <ul class="cont-info-list mb-0 list-unstyled w-100">
-                                    <li><i class="thm-clr icon-map-marker-alt"></i>120 Park Avenue, New York, NY 10002, USA</li>
-                                    <li><i class="thm-clr icon-phone"></i>+ 1 (234) 567 89 90</li>
-                                    <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">inspire@mail.com</a></li>
-                                    <li><i class="thm-clr icon-clock"></i>Mon - Sat 10 AM - 6 PM</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 col-lg-4">
-                        <div class="cont-info-box-wrap position-relative w-100">
-                            <div class="cont-info-box position-relative w-100">
-                                <span class="bg-color1 position-absolute text-center">02<svg viewBox="0 0 43 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M43 8L35.5 14.9282L35.5 1.0718L43 8Z" fill="#1E1E20"/><path d="M36 8L0 8" stroke="#1E1E20"/></svg></span>
+                                <span class="thm-bg position-absolute text-center">01<svg viewBox="0 0 43 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M43 8L35.5 14.9282L35.5 1.0718L43 8Z" fill="#1E1E20"/><path d="M36 8L0 8" stroke="#1E1E20"/></svg></span>
                                 <ul class="cont-info-list mb-0 list-unstyled w-100">
                                     <li><i class="thm-clr icon-map-marker-alt"></i>275 West Avenue, New York, NY 10002, USA</li>
                                     <li><i class="thm-clr icon-phone"></i>+ 1 (234) 567 89 90</li>
                                     <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">inspire@mail.com</a></li>
-                                    <li><i class="thm-clr icon-clock"></i>Mon - Sat 10 AM - 6 PM</li>
+                                    <li><i class="th    m-clr icon-clock"></i>Mon - Sat 10 AM - 6 PM</li>
                                 </ul>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 col-lg-4">
-                        <div class="cont-info-box-wrap position-relative w-100">
-                            <div class="cont-info-box position-relative w-100">
-                                <span class="bg-color1 position-absolute text-center">03<svg viewBox="0 0 43 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M43 8L35.5 14.9282L35.5 1.0718L43 8Z" fill="#1E1E20"/><path d="M36 8L0 8" stroke="#1E1E20"/></svg></span>
-                                <ul class="cont-info-list mb-0 list-unstyled w-100">
-                                    <li><i class="thm-clr icon-map-marker-alt"></i>120 Park Avenue, New York, NY 10002, USA</li>
-                                    <li><i class="thm-clr icon-phone"></i>+ 1 (234) 567 89 90</li>
-                                    <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">inspire@mail.com</a></li>
-                                    <li><i class="thm-clr icon-clock"></i>Mon - Sat 10 AM - 6 PM</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div><!-- Contact Info Wrap -->
         </div>
