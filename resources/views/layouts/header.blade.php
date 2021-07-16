@@ -12,6 +12,12 @@
                         <li><a href="{{ route('hubungi-kami') }}" title=""><span>Contact us</span></a></li>
                     </ul>
                 </div>
+                <div class="nav-right d-inline-flex flex-wrap">
+                    <ul class="d-flex flex-wrap mb-0 list-unstyled">
+                        <li><a class="search-btn" href="javascript:void(0);" title=""><i class="icon-search"></i></a></li>
+                        <li class="res-menu-btn-wrap"><a class="res-menu-btn" href="javascript:void(0);" title=""><i class="fas fa-align-justify"></i></a></li>
+                    </ul>
+                </div>
             </nav>
         </div><!-- Logo Menu Wrap -->
     </div>
