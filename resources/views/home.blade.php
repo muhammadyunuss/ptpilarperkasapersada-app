@@ -239,7 +239,7 @@
                 </div>
             </div><!-- Projects Wrap 2 -->
             <div class="view-all mt-60 text-center w-100">
-                <a class="thm-btn thm-bg d-inline-block position-relative" href="portfolio-3columns.html" title="">All Projects<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('portofolio') }}"title="">All Projects<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
             </div><!-- View All -->
         </div>
     </div>

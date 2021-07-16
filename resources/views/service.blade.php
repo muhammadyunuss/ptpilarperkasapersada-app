@@ -134,7 +134,7 @@
                         <div class="about-serv-desc w-100">
                             <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness which of us ever undertakes.</p>
                             <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
-                            <a class="thm-btn thm-bg d-inline-block position-relative" href="portfolio-masonry.html" title="">Our Projects<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                            <a class="thm-btn thm-bg d-inline-block position-relative" href="portfolio.html" title="">Our Projects<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                         </div>
                     </div>
                 </div>
@@ -232,32 +232,10 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-90 dark-layer opc7 pb-90 position-relative">
-        <div class="fixed-bg" style="background-image: url({{ asset('front') }}/assets/images/parallax-bg3.jpg);"></div>
-        <span class="frame thm-brd-clr position-absolute"></span>
-        <div class="container">
-            <div class="sec-title2 position-relative text-center w-100">
-                <div class="sec-title2-inner d-inline-block">
-                    <h2 class="mb-0">Get architectural news</h2>
-                </div>
-            </div><!-- Sec Title 2 -->
-            <div class="newsletter-wrap position-relative text-center w-100">
-                <div class="newsletter-inner d-inline-block">
-                    <form class="position-relative w-100" id="subscribe-form" method="post" action="#">
-                        <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-envelope"></i><input name="email" class="email" type="email" placeholder="Your Email"></span>
-                        <button class="thm-btn thm-bg position-absolute" type="submit" id="subscribe-button">Sign Up<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></button>
-                        <div class="response w-100"></div>
-                    </form>
-                </div>
-            </div><!-- Newsletter Wrap -->
-        </div>
-    </div>
-</section>
-<section>
-    <div class="w-100 pt-130 position-relative">
+    <div class="w-100 pt-130 pb-100 position-relative">
         <div class="container">
             <div class="port-tabs-wrap position-relative w-100">
-                <span class="position-absolute sec-watermark v-center font-200">Port <br> <i>folio</i></span>
+                <span class="position-absolute sec-watermark v-center font-200">Gallery</span>
                 <div class="row align-items-center">
                     <div class="col-md-4 col-sm-12 col-lg-4">
                         <ul class="nav nav-tabs">
@@ -313,59 +291,6 @@
                     </div>
                 </div>
             </div><!-- Portfolio Tabs Wrap -->
-        </div>
-    </div>
-</section>
-<section>
-    <div class="w-100 pt-130 pb-180 position-relative">
-        <span class="position-absolute sec-watermark center-watermark v3 overlap-btmshap120 font-200">Prices</span>
-        <div class="container">
-            <div class="sec-title text-center w-100">
-                <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Our Prices</span>
-                    <h2 class="mb-0">Choose the package that suits you<i></i></h2>
-                </div>
-            </div><!-- Sec Title -->
-            <div class="packages-wrap res-row position-relative w-100">
-                <div class="row align-items-center">
-                    <div class="col-md-6 col-sm-6 col-lg-4">
-                        <div class="package-box bg-color3 text-center position-relative w-100">
-                            <div class="package-head w-100">
-                                <h4 class="mb-0">Minimal</h4>
-                                <h2 class="mb-0">$ 120 <small>/&nbsp;&nbsp;&nbsp; per m2</small></h2>
-                            </div>
-                            <div class="package-body w-100">
-                                <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accu santium doloremque laudantium, totam rem</p>
-                                <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Buy Plan<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 col-lg-4">
-                        <div class="package-box active text-center position-relative w-100">
-                            <div class="package-head w-100">
-                                <h4 class="mb-0">Standard</h4>
-                                <h2 class="mb-0">$ 180 <small>/&nbsp;&nbsp;&nbsp; per m2</small></h2>
-                            </div>
-                            <div class="package-body w-100">
-                                <p class="mb-0">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas</p>
-                                <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Buy Plan<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 col-lg-4">
-                        <div class="package-box bg-color3 text-center position-relative w-100">
-                            <div class="package-head w-100">
-                                <h4 class="mb-0">Premium</h4>
-                                <h2 class="mb-0">$ 250 <small>/&nbsp;&nbsp;&nbsp; per m2</small></h2>
-                            </div>
-                            <div class="package-body w-100">
-                                <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accu santium doloremque laudantium, totam rem</p>
-                                <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Buy Plan<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- Packages Wrap -->
         </div>
     </div>
 </section>
