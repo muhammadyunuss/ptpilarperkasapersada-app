@@ -38,7 +38,7 @@
                                 <ul class="cont-info-list mb-0 list-unstyled w-100">
                                     <li><i class="thm-clr icon-map-marker-alt"></i>275 West Avenue, New York, NY 10002, USA</li>
                                     <li><i class="thm-clr icon-phone"></i>+ 1 (234) 567 89 90</li>
-                                    <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">inspire@mail.com</a></li>
+                                    <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">pilarperkasa@mail.com</a></li>
                                     <li><i class="th    m-clr icon-clock"></i>Mon - Sat 10 AM - 6 PM</li>
                                 </ul>
                             </div>
@@ -64,6 +64,7 @@
                         <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-user"></i><input class="fname" type="text" name="fname" placeholder="Your Name" required></span>
                         <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-envelope"></i><input class="email" type="email" name="email" placeholder="Your Email" required></span>
                         <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-phone"></i><input class="phone" type="tel" name="phone" placeholder="Your Phone" required></span>
+                        <span class="field-box d-block w-100 h-500 position-relative"><i class="thm-clr icon-envelope"></i><input class="text" type="text" name="text" placeholder="Your Text Here" required></span>
                         <button class="thm-btn thm-bg d-inline-block position-relative" type="submit" id="submit">Send<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></button>
                     </form>
                 </div>

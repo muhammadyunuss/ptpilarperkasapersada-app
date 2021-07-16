@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-lg-3">
                         <div class="widget-box w-100">
-                            <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img style="width:50%" class="img-fluid" src="{{ asset('front') }}/assets/images/logo2.png" srcset="{{ asset('front') }}/assets/images/logo.png" alt="Logo 2"></a></h1></div><!-- Logo -->
+                            <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img style="width:50%" class="img-fluid" src="{{ asset('front') }}/assets/images/logo-.png" srcset="{{ asset('front') }}/assets/images/logo-.png" alt="Logo 2"></a></h1></div><!-- Logo -->
                             <p class="mb-0">PT. Pilar Perkasa is a construction company based in (City), Indonesia. Established in (Year), the company started to expand its business as general contractor engaging in building construction and property</p>
                             <div class="scl-links d-flex flex-wrap w-100">
                                 <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>

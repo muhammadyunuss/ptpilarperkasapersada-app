@@ -71,7 +71,7 @@
                             <i class="icon-interior-design thm-clr"></i>
                             <h3 class="mb-0">Building Construction</h3>
                             <p class="mb-0">Nemo enim ipsam voluptatem voluptas sit aspernatur aut odit</p>
-                            <a class="thm-btn thm-bg d-inline-block position-relative" href="services.html" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                            <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('service') }}" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6 col-lg-4">
