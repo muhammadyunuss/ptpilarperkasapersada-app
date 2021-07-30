@@ -8,13 +8,13 @@
                 <div class="page-top-inner d-flex flex-wrap align-items-center position-relative w-100">
                     <div class="page-title-info position-relative">
                         <i class="position-absolute"><svg viewBox="0 0 359 354" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M358.5 351H323V300.316L250.863 264.339V331.541H278.904V170.438L201.566 91.0182L200.661 327.921L223.727 351L224.179 71.1066L166.063 3V142.381L126.489 156.862L149.781 267.507L171.49 289.455V212.75H115.635L80.3576 331.541H171.49V306.651H34V351H0" stroke="#f1f1f1" stroke-width="2"/></svg></i>
-                        <h1 class="mb-0 thm-clr">About us</h1>
+                        <h1 class="mb-0 thm-clr">Profile Perusahaan</h1>
                         <ol class="breadcrumb mb-0 list-unstyled">
                             <li class="breadcrumb-item"><a href="index.html" title=""><i class="icon-home"></i>Home</a></li>
-                            <li class="breadcrumb-item active">About us</li>
+                            <li class="breadcrumb-item active">Profile Perusahaan</li>
                         </ol>
                     </div>
-                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">About</span></div>
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Perusahaan</span></div>
                 </div>
             </div>
         </div><!-- Page Top Wrap -->
@@ -40,13 +40,15 @@
                     <div class="col-md-6 col-sm-6 col-lg-6">
                         <div class="sec-title w-100">
                             <div class="sec-title-inner d-inline-block">
-                                <span class="d-block thm-clr">About us</span>
-                                <h2 class="mb-0">PT Pilar Perkasa<i></i></h2>
+                                <span class="d-block">Tentang Perusahaan</span>
+                                <h2 class="mb-0 thm-clr">PT. PILARPERKASA PERSADA  <i></i></h2>
                             </div>
                         </div><!-- Sec Title -->
-                        
+
                         <div class="about-me-desc w-100">
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <p class="mb-0">Perseroan yang didirikan oleh  pemilik untuk berkonsentrasi dalam bidang Jasa Pelaksana Pekerjaan Bangunan Gedung , Jasa Pelaksana Pekerjaan Sipil dan Supplier.
+                                Pendiri/Pemilik  memiliki pengalaman dibisnis Pertambangan Batubara dan Pertambangan Batu Adesit yang telah dilakukan oleh pendiri/pemilik sejak tahun 1999. Dengan berkembangnya kegiatan bisnis yang dilakukan dibidang Pertambangan yang juga banyak aktivitas pekerjaan Konstruksi dan infrastruktur maka pendiri/pemilik mengembangkan usaha dengan menitik beratkan bidang usaha Pekerjaan Pelaksana Jasa Konstruksi Bangunan Gedung, Pelaksana Konstruksi Bangunan Sipil ,Instalasi Mekanikal dan Elektrikal serta Supplier Barang dan Alat Berat dengan mendirikan <strong>PT.PILARPERKASA PERSADA yang disingkat dengan PTPILAR </strong>
+                            </p>
                          </div>
                     </div>
                 </div>
@@ -60,36 +62,62 @@
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                     <h2 class="mb-0">What is our services<i></i></h2>
+                     <h2 class="mb-0">Bidang Pekerjaan  yang dititik beratkan oleh Pendiri/Pemilik PTPILAR adalah sebagai berikut :</h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="serv-create-wrap res-row position-relative w-100">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 col-lg-4">
+                    <div class="col-md-9 col-sm-9 col-lg-6">
                         <div class="serv-create-box text-center position-relative w-100">
-                            <span class="position-absolute">01</span>
                             <i class="icon-interior-design thm-clr"></i>
-                            <h3 class="mb-0">Building Construction</h3>
-                            <p class="mb-0">Nemo enim ipsam voluptatem voluptas sit aspernatur aut odit</p>
-                            <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('service') }}" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                            <h3 class="mb-0">Pelaksana Pekerjaan Penambangan</h3>
+                            <p class="mb-0">
+                                Jasa Pelaksana Pekerjaan Landclearing <br>
+                                Jasa Pelaksana pekerjaan OB Removal <br>
+                                Jasa Pelaksana Pekerjaan Coal Getting <br>
+                                Jasa Pelaksana Pekerjaan Coal Houling <br>
+                                Jasa Pelaksana Penambangan Batu Andesit dan Stone Crushing Plant
+                                </p>
+                                <i></i><span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></i>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 col-lg-4">
+                    <div class="col-md-9 col-sm-9 col-lg-6">
                         <div class="serv-create-box text-center position-relative w-100">
-                            <span class="position-absolute">02</span>
-                            <i class="icon-build thm-clr"></i>
-                            <h3 class="mb-0">Architectural Project</h3>
-                            <p class="mb-0">Nemo enim ipsam voluptatem voluptas sit aspernatur aut odit</p>
-                            <a class="thm-btn thm-bg d-inline-block position-relative" href="services.html" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 col-lg-4">
-                        <div class="serv-create-box text-center position-relative w-100">
-                            <span class="position-absolute">03</span>
                             <i class="icon-brick thm-clr"></i>
-                            <h3 class="mb-0">Renovation</h3>
-                            <p class="mb-0">Nemo enim ipsam voluptatem voluptas sit aspernatur aut odit</p>
-                            <a class="thm-btn thm-bg d-inline-block position-relative" href="services.html" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                            <h3 class="mb-0">Pelaksana Konstruksi Bangunan Gedung</h3>
+                            <p class="mb-0">
+                                Jasa Pelaksana Konstruksi Bangunan Hunian Tunggal Dan Kopel <br>
+                                Jasa Pelaksana Konstruksi Bangunan Komersial <br>
+                                Jasa Pelaksana Konstruksi Bangunan Pendidikan <br>
+                                Jasa Pelaksana Konstruksi Bangunan Kesehatan <br>
+                                Jasa Pelaksana Konstruksi Bangunan Gedung Lainnya
+                            </p>
+                            <i></i><span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></i>
+                        </div>
+                    </div>
+                </div><br><br><br>
+                <div class="row">
+                    <div class="col-md-9 col-sm-9 col-lg-6">
+                        <div class="serv-create-box text-center position-relative w-100">
+                            <i class="icon-brick thm-clr"></i>
+                            <h3 class="mb-0">Pelaksana Konstruksi Bangunan Sipil</h3>
+                            <p class="mb-0">
+                                Jasa Pelaksana Untuk Konstruksi Saluran Air,Pelabuhan,Dam, dan Prasarana Sumber Daya Air lainnya <br>
+                                Jasa Pelaksana Untuk Konstruksi Jalan Raya ( Kecuali Jalan Layang ) ,Jalan,Rel Kereta Api, dan Landas Pacu Bandara <br>
+                                Jasa Pelaksanaan Untuk Konstruksi Jembatan,Jalan Layang,Terowongan dan Subways
+                            </p>
+                            <i></i><span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></i>
+                        </div>
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-6">
+                        <div class="serv-create-box text-center position-relative w-100">
+                            <i class="icon-build thm-clr"></i>
+                            <h3 class="mb-0">Instalasi Mekanikal dan Elektrikal</h3>
+                            <p class="mb-0">
+                                Jasa Pelaksana Instalasi Tenaga Listrik Gedung dan Pabrik <br>
+                                Jasa Pelaksana Konstruksi Pemasangan Pipa Air ( Plumbing )
+                            </p>
+                            <i></i><span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></i>
                         </div>
                     </div>
                 </div>

@@ -21,6 +21,14 @@ Route::get('tentang-perusahaan', function () {
     return view('tentang-perusahaan');
 })->name('tentang-perusahaan');
 
+Route::get('profile-dewan-komisaris', function () {
+    return view('profile_dewan_komisaris');
+})->name('profile-dewan-komisaris');
+
+Route::get('profile-direksi', function () {
+    return view('profile_direksi');
+})->name('profile-direksi');
+
 Route::get('blog', function () {
     return view('blog');
 })->name('blog');

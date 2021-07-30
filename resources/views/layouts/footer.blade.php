@@ -21,7 +21,7 @@
                             <ul class="cont-list mb-0 list-unstyled w-100">
                                 <li><i class="icon-map-marker-alt thm-clr"></i>120 Park Avenue, New York, NY 10002, USA</li>
                                 <li><i class="icon-phone thm-clr"></i>+ 1 (234) 567 89 90</li>
-                                <li><i class="icon-envelope thm-clr"></i><a href="mailto:inspire@mail.com" title="">pilarperkasa@mail.com</a></li>
+                                <li><i class="icon-envelope thm-clr"></i><a href="mailto:pilarperkasa@mail.com" title="">pilarperkasa@mail.com</a></li>
                             </ul>
                         </div>
                     </div>
