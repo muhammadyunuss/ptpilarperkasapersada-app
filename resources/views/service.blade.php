@@ -75,6 +75,90 @@
 </section>
 <section>
     <div class="w-100 position-relative">
+        <svg class="sec-btm-rgt-shp overlap-btmshap70 opc-6 stroke-clr position-absolute" width="444" height="721" viewBox="0 0 444 721" fill="none" xmlns="http://www.w3.org/2000/svg"><g><path d="M0.769252 365.057L117.32 627.406H292.971L176.421 365.057H0.769252Z" stroke="#000000"/><path d="M605.475 68.2185L488.925 330.567L313.273 330.567L429.823 68.2185H605.475Z" stroke="#000000"/><path d="M157.597 458.151L274.147 720.5H449.799L333.249 458.151H157.597Z" stroke="#000000"/><path d="M449.8 161.312L333.249 423.661L157.598 423.661L274.148 161.312H449.8Z" stroke="#000000"/><path d="M233.605 297.339L350.155 559.688H525.807L409.256 297.339H233.605Z" stroke="#000000"/><path d="M372.64 0.499969L256.089 262.849L80.4375 262.849L196.988 0.499969H372.64Z" stroke="#000000"/></g></svg>
+        <span class="position-absolute sec-watermark right-watermark overlap-btm-shap20 sec-btm-rgt-shp font-200 pos-rgt-400">FAQ</span>
+        <div class="container">
+            <div class="sec-title text-center w-100">
+                <div class="sec-title-inner d-inline-block">
+                    <span class="d-block thm-clr">Faq</span>
+                    <h2 class="mb-0">Pengalaman Perusahaan<i></i></h2>
+                </div>
+            </div><!-- Sec Title -->
+            <div class="faq-que-wrap position-relative w-100">
+                <div class="faq-que-caro">
+                    @foreach ($projects as $key => $project)
+                    <div class="faq-que-box-wrap text-center d-block w-100">
+                        <div class="faq-que-box position-relative w-100">
+                            <span class="position-absolute qu">{{ $key }}</span>
+                            <i class="thm-clr icon-check-list"></i>
+                            <h4 class="mb-0 position-relative">{{ $project['nama_project'] }}</h4>
+                            <div class="faq-que-box-desc w-100">
+                                <p class="mb-0">
+                                    {{ $project['nama_sub_project'] }} <br>
+                                    Pemilik Pekerjaan : <Strong>{{ $project['pemilik_pekerjaan'] }}</Strong> <br>
+                                    @if ($project['status']=='1')
+                                        Sudah selesai dikerjakan
+                                    @else
+                                        Sedang dikerjakan
+                                    @endif
+                                </p>
+                            </div>
+                            <span class="faq-btn position-absolute thm-bg text-center">
+                                <svg class="qu-arw" viewBox="0 0 16 29" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 28.002L1.0718 20.502L14.9282 20.502L8 28.002Z" fill="#1e1e20"/><path d="M8 21.002L8 0.00195312" stroke="#1e1e20"/></svg>
+                                <svg class="qu-cls" viewBox="0 0 43 44" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.2471 11.0399L32.4603 32.2531" stroke="#1e1e20" stroke-linecap="round"/><path d="M32.4602 11.747L11.247 32.9602" stroke="#1e1e20" stroke-linecap="round"/></svg>
+                            </span>
+                        </div>
+                    </div>
+                    @endforeach
+                    <div class="faq-que-box-wrap text-center d-block w-100">
+                        <div class="faq-que-box position-relative w-100">
+                            <span class="position-absolute qu">02</span>
+                            <i class="thm-clr icon-competitor"></i>
+                            <h4 class="mb-0 position-relative">What Determines The Cost Of The Project?</h4>
+                            <div class="faq-que-box-desc w-100">
+                                <p class="mb-0">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                            </div>
+                            <span class="faq-btn position-absolute thm-bg text-center">
+                                <svg class="qu-arw" viewBox="0 0 16 29" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 28.002L1.0718 20.502L14.9282 20.502L8 28.002Z" fill="#1e1e20"/><path d="M8 21.002L8 0.00195312" stroke="#1e1e20"/></svg>
+                                <svg class="qu-cls" viewBox="0 0 43 44" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.2471 11.0399L32.4603 32.2531" stroke="#1e1e20" stroke-linecap="round"/><path d="M32.4602 11.747L11.247 32.9602" stroke="#1e1e20" stroke-linecap="round"/></svg>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="faq-que-box-wrap text-center d-block w-100">
+                        <div class="faq-que-box position-relative w-100">
+                            <span class="position-absolute qu">03</span>
+                            <i class="thm-clr icon-clock2"></i>
+                            <h4 class="mb-0 position-relative">How Long Does It Take To Develope A Project?</h4>
+                            <div class="faq-que-box-desc w-100">
+                                <p class="mb-0">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                            </div>
+                            <span class="faq-btn position-absolute thm-bg text-center">
+                                <svg class="qu-arw" viewBox="0 0 16 29" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 28.002L1.0718 20.502L14.9282 20.502L8 28.002Z" fill="#1e1e20"/><path d="M8 21.002L8 0.00195312" stroke="#1e1e20"/></svg>
+                                <svg class="qu-cls" viewBox="0 0 43 44" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.2471 11.0399L32.4603 32.2531" stroke="#1e1e20" stroke-linecap="round"/><path d="M32.4602 11.747L11.247 32.9602" stroke="#1e1e20" stroke-linecap="round"/></svg>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="faq-que-box-wrap text-center d-block w-100">
+                        <div class="faq-que-box position-relative w-100">
+                            <span class="position-absolute qu">04</span>
+                            <i class="thm-clr icon-winner"></i>
+                            <h4 class="mb-0 position-relative">What Are The Stages Of Creating An Interior Design?</h4>
+                            <div class="faq-que-box-desc w-100">
+                                <p class="mb-0">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                            </div>
+                            <span class="faq-btn position-absolute thm-bg text-center">
+                                <svg class="qu-arw" viewBox="0 0 16 29" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 28.002L1.0718 20.502L14.9282 20.502L8 28.002Z" fill="#1e1e20"/><path d="M8 21.002L8 0.00195312" stroke="#1e1e20"/></svg>
+                                <svg class="qu-cls" viewBox="0 0 43 44" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.2471 11.0399L32.4603 32.2531" stroke="#1e1e20" stroke-linecap="round"/><path d="M32.4602 11.747L11.247 32.9602" stroke="#1e1e20" stroke-linecap="round"/></svg>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Faq Question Wrap -->
+        </div>
+    </div>
+</section>
+<section>
+    <div class="w-100 position-relative">
         <div class="services-banner-wrap res-row pb-60 position-relative w-100">
             <div class="row mrg">
                 <div class="col-md-6 col-sm-6 col-lg-4">
