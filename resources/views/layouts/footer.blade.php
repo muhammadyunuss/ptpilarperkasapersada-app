@@ -2,12 +2,17 @@
     <div class="w-100 pt-70 pb-20 bg-color1 position-relative">
         <div class="container">
             <div class="footer-data position-relative w-100">
-                <a class="clc-tp-btn thm-bg position-absolute" href="javascript:void(0);" title=""><svg viewBox="0 0 16 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 0L14.9282 7.5H1.0718L8 0Z" fill="#1E1E20"/><path d="M8 7L8 28" stroke="#1E1E20"/></svg></a>
+                <a class="clc-tp-btn thm-bg position-absolute" href="javascript:void(0);" title=""><svg viewBox="0 0 16 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M8 0L14.9282 7.5H1.0718L8 0Z" fill="#1E1E20" />
+                        <path d="M8 7L8 28" stroke="#1E1E20" />
+                    </svg></a>
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-lg-3">
                         <div class="widget-box w-100">
-                            <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img style="width:50%" class="img-fluid" src="{{ asset('front') }}/assets/images/logo-.png" srcset="{{ asset('front') }}/assets/images/logo-.png" alt="Logo 2"></a></h1></div><!-- Logo -->
-                            <p class="mb-0">PT. Pilar Perkasa is a construction company based in (City), Indonesia. Established in (Year), the company started to expand its business as general contractor engaging in building construction and property</p>
+                            <div class="logo">
+                                <h1 class="mb-0"><a href="index.html" title="Home"><img style="width:50%" class="img-fluid" src="{{ asset('front') }}/assets/images/logofix-footer.png" srcset="{{ asset('front') }}/assets/images/logofix-footer.png" alt="Logo 2"></a></h1>
+                            </div><!-- Logo -->
+                            <p class="mb-0">PT. Pilarperkasa Persada is a construction company based in (City), Indonesia. Established in (Year), the company started to expand its business as general contractor engaging in building construction and property</p>
                             <div class="scl-links d-flex flex-wrap w-100">
                                 <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -19,7 +24,7 @@
                         <div class="widget-box w-100">
                             <h3 class="widget-title">Contacts</h3>
                             <ul class="cont-list mb-0 list-unstyled w-100">
-                                <li><i class="icon-map-marker-alt thm-clr"></i>120 Park Avenue, New York, NY 10002, USA</li>
+                                <li><i class="icon-map-marker-alt thm-clr"></i>Ruko Sentra Tropodo Blok C-15, Kel Tropodo, Kec. Waru, Kab. Sidoarjo, Prov. Jawa Timur</li>
                                 <li><i class="icon-phone thm-clr"></i>+ 1 (234) 567 89 90</li>
                                 <li><i class="icon-envelope thm-clr"></i><a href="mailto:pilarperkasa@mail.com" title="">pilarperkasa@mail.com</a></li>
                             </ul>
@@ -29,10 +34,10 @@
                         <div class="widget-box w-100">
                             <h3 class="widget-title">Our Portfolio</h3>
                             <ul class="mb-0 list-unstyled w-100">
-                                <li><a href="portfolio-single.html" title="">Mall Project</a></li>
-                                <li><a href="portfolio-single.html" title="">Bridge Project</a></li>
-                                <li><a href="portfolio-single.html" title="">Office Project</a></li>
-                                <li><a href="portfolio-single.html" title="">Education Project</a></li>
+                                <li><a href="portfolio-single.html" title="">Tambang</a></li>
+                                <li><a href="portfolio-single.html" title="">Konstruksi</a></li>
+                                <li><a href="portfolio-single.html" title="">Jalan Tol</a></li>
+                                <li><a href="portfolio-single.html" title="">Supplier</a></li>
                             </ul>
                         </div>
                     </div>
@@ -62,7 +67,7 @@
 <div class="copyright bg-color1 w-100">
     <div class="container">
         <div class="copyright-inner d-flex flex-wrap justify-content-between align-items-center w-100">
-            <p class="mb-0">Copyright &copy; 2021 <a href="index.html" title="Inspire">PT Pilar Perkasa</a>. All Rights Reserved</p>
+            <p class="mb-0">Copyright &copy; 2021 <a href="index.html" title="Inspire">PT Pilarperkasa Persada</a>. All Rights Reserved</p>
             <ul class="d-inline-flex flex-wrap mb-0 list-unstyled">
                 <li><a href="javascript:void(0);" title="">Terms of use</a></li>
                 <li><a href="javascript:void(0);" title="">Privacy Environmental Policy</a></li>

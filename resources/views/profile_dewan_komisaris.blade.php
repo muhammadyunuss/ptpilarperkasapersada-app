@@ -8,7 +8,7 @@
                 <div class="page-top-inner d-flex flex-wrap align-items-center position-relative w-100">
                     <div class="page-title-info position-relative">
                         <i class="position-absolute"><svg viewBox="0 0 359 354" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M358.5 351H323V300.316L250.863 264.339V331.541H278.904V170.438L201.566 91.0182L200.661 327.921L223.727 351L224.179 71.1066L166.063 3V142.381L126.489 156.862L149.781 267.507L171.49 289.455V212.75H115.635L80.3576 331.541H171.49V306.651H34V351H0" stroke="#f1f1f1" stroke-width="2"/></svg></i>
-                        <h1 class="mb-0">Dewan Komisaris</h1>
+                        <h1 class="mb-0  thm-clr">Dewan Komisaris</h1>
                         <ol class="breadcrumb mb-0 list-unstyled">
                             <li class="breadcrumb-item"><a href="index.html" title=""><i class="icon-home"></i>Beranda</a></li>
                             <li class="breadcrumb-item active">Struktur Organisasi</li>
@@ -27,7 +27,7 @@
             <div class="founder-wrap position-relative w-100">
                 <div class="row">
                     <div class="col-md-5 col-sm-12 col-lg-5">
-                        <div class="founder-img w-100"><img class="img-fluid w-100 pt-20" src="{{ asset('front') }}/assets/images/logo-.png" alt="Founder Image"></div>
+                        <div class="founder-img w-100"><img class="img-fluid w-100 pt-20" src="{{ asset('front') }}/assets/images/logofix-footer.png" alt="Founder Image"></div>
                     </div>
                     <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="founder-desc-wrap w-100">
@@ -49,7 +49,7 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pb-170 position-relative">
+    <div class="w-100 pb-50 position-relative">
         <img class="img-fluid overlap-tpshap60 sec-tp-lft-shp opc-03 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap8.jpg" alt="Sec Shape 8">
         <div class="container">
             <div class="sec-title text-center w-100">
@@ -83,7 +83,7 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-100 pb-130 position-relative">
+    <div class="w-100 pt-50 pb-130 position-relative">
         <img class="img-fluid overlap-tp-shap50 sec-tp-rgt-shp opc-4 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap7.jpg" alt="Sec Shape 7">
         <div class="container">
             <div class="sec-title text-center w-100">
@@ -156,50 +156,6 @@
                 <a class="thm-btn thm-bg d-inline-block position-relative" href="team.html" title="">All Team<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
             </div><!-- View All -->
         </div>
-    </div>
-</section>
-<section>
-    <div class="w-100 pt-110 bg-color3 pb-110 position-relative">
-        <span class="position-absolute sec-tp-rgt-shp sec-watermark overlap-tp-shap120 pos-rgt-50 font-200">Partners</span>
-        <div class="spnsrs-wrap position-relative w-100">
-            <ul class="spnsrs-list justify-content-center align-items-center d-flex flex-wrap mb-0 list-unstyled">
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img1.png" alt="Sponsor Image 1"></a>
-                    </div>
-                </li>
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img2.png" alt="Sponsor Image 2"></a>
-                    </div>
-                </li>
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img3.png" alt="Sponsor Image 3"></a>
-                    </div>
-                </li>
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img4.png" alt="Sponsor Image 4"></a>
-                    </div>
-                </li>
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img5.png" alt="Sponsor Image 5"></a>
-                    </div>
-                </li>
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img6.png" alt="Sponsor Image 6"></a>
-                    </div>
-                </li>
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img7.png" alt="Sponsor Image 7"></a>
-                    </div>
-                </li>
-            </ul>
-        </div><!-- Sponsors Wrap -->
     </div>
 </section>
 @endsection
