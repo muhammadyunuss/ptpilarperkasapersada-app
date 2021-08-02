@@ -49,52 +49,6 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-50 pb-130 position-relative">
-        <img class="img-fluid overlap-tp-shap50 sec-tp-rgt-shp opc-4 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap7.jpg" alt="Sec Shape 7">
-        <div class="container">
-            <div class="sec-title text-center w-100">
-                <div class="sec-title-inner d-inline-block">
-                    <h2 class="mb-0 thm-clr">Kebijakan dan Pengalaman Kerja<i></i></h2>
-                </div>
-            </div><!-- Sec Title -->
-            <div class="team-wrap2 res-row position-relative w-100">
-                <div class="row mrg55">
-                    <div class="col-md-4 col-sm-4 col-lg-3">
-
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-lg-3">
-                        <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="{{ route('K3KebijakanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-1.jpg" alt="Team Image 1"></a></div>
-                            <div class="team-info2 position-relative w-100">
-                                <h3 class="mb-0"><a href="team-detail.html" title="">KEBIJAKAN KESELAMATAN DAN KESEHATAN KERJA</a></h3>
-                                <span class="d-block thm-clr">
-                                <a href="{{ route('K3KebijakanPDF') }}" target="_blank" rel="noopener noreferrer">Download</a> &nbsp;&nbsp;
-                                <a href="{{ route('LihatK3KebijakanPDF') }}" target="_blank" rel="noopener noreferrer">Lihat</a> &nbsp;&nbsp;
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-lg-3">
-                        <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="{{ route('pengalamanPekerjaanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-2.jpg" alt="Team Image 2"></a></div>
-                            <div class="team-info2 position-relative w-100">
-                                <h3 class="mb-0"><a href="team-detail.html" title="">Pengalaman <br> Pekerjaan</a></h3>
-                                <span class="d-block thm-clr">
-                                    <a href="{{ route('pengalamanPekerjaanPDF') }}" target="_blank" rel="noopener noreferrer">Download</a> &nbsp;&nbsp;
-                                    <a href="{{ route('LihatpengalamanPekerjaanPDF') }}" target="_blank" rel="noopener noreferrer">Lihat</a> &nbsp;&nbsp;
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-lg-3">
-
-                    </div>
-                </div>
-            </div><!-- Blog Wrap -->
-        </div>
-    </div>
-</section>
-<section>
     <div class="w-100 pb-50 position-relative">
         <img class="img-fluid overlap-tpshap60 sec-tp-lft-shp opc-03 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap8.jpg" alt="Sec Shape 8">
         <div class="container">

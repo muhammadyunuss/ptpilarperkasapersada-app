@@ -95,38 +95,4 @@
         </div>
     </div>
 </section>
-<section>
-    <div class="w-100 pb-50 position-relative">
-        <img class="img-fluid overlap-tpshap60 sec-tp-lft-shp opc-03 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap8.jpg" alt="Sec Shape 8">
-        <div class="container">
-            <div class="sec-title text-center w-100">
-                <div class="sec-title-inner d-inline-block">
-                    <h2><span class="d-block thm-clr">Dewan Komisaris</span></h2>
-                </div>
-            </div><!-- Sec Title -->
-            <div class="roadmap-wrap position-relative w-100">
-                <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-1.jpg" alt="Roadmap Image 1"></div>
-                    <div class="roadmap-info-wrap position-relative">
-                        <div class="roadmap-info w-100">
-                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris Utama</span>
-                            <h1 class="d-inline-block position-relative">Anton Yulianto,ST.</h1>
-                            <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-2.jpg" alt="Roadmap Image 2"></div>
-                    <div class="roadmap-info-wrap position-relative">
-                        <div class="roadmap-info w-100">
-                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris</span>
-                            <h1 class="d-inline-block position-relative">I Nyoman Timur Jaya Ambara,SH.</h1>
-                            <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- Roadmap Wrap -->
-        </div>
-    </div>
-</section>
 @endsection
