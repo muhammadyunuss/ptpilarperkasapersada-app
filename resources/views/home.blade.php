@@ -5,25 +5,32 @@
     <div class="w-100 pb-80 position-relative">
         <div class="feat-wrap3 position-relative w-100">
             <div class="feat-caro3">
+            <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-6.jpg);"> </div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
                     <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-4.png);"> </div>
                     <div class="feat-cap3 position-absolute">
                         <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
-                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Learn More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                     </div>
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
                     <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-3.jpg);"></div>
                     <div class="feat-cap3 position-absolute">
                         <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
-                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Learn More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                     </div>
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
                     <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-5.jpg);"></div>
                     <div class="feat-cap3 position-absolute">
                         <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
-                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Learn More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                     </div>
                 </div>
             </div>
@@ -31,170 +38,166 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-30 position-relative">
+    <div class="w-100 pb-50 position-relative">
+        <img class="img-fluid overlap-btm-shap200 sec-btm-rgt-shp opc-2 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap1.jpg" alt="Sec Shape 1">
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Our Service</span>
-                    <h2 class="mb-0">What services do we provide<i></i></h2>
+                    <span class="d-block thm-clr">Bisnis</span>
+                    <h2 class="mb-0">Bisnis PT Pilarperkasa Persada<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
-            <div class="stages-wrap res-row position-relative w-100">
-                <div class="row">
-                    <div class="col-md-4 col-sm-6 col-lg-3">
-                        <div class="stage-box w-100">
-                            <div class="stage-head position-relative w-100">
-                                <span>1</span>
-                                <i class="icon-support thm-clr"></i>
-                            </div>
-                            <div class="stage-body w-100">
-                                <h3 class="mb-0 position-relative">Tambang</h3>
-                                <p class="mb-0">Tambang Batu Andesit</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 col-lg-3">
-                        <div class="stage-box w-100">
-                            <div class="stage-head position-relative w-100">
-                                <span>2</span>
-                                <i class="icon-cost thm-clr"></i>
-                            </div>
-                            <div class="stage-body w-100">
-                                <h3 class="mb-0 position-relative">Konstruksi</h3>
-                                <p class="mb-0">Bangunan Gedung</p>
-                                <p class="mb-0">Bangunan Sipil</p>
-                                <p class="mb-0">Mekanikal</p>
-                                <p class="mb-0">Elektrikal</p>
+            <div class="serv-wrap2 position-relative w-100">
+                <div class="row align-items-end serv-caro">
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
+                            <span class="position-absolute">01</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-11.jpeg" alt="Service Image 1"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="services.html" title="">Tambang</a></h3>
+                                    <p class="mb-0">Tambang batu andesit</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6 col-lg-3">
-                        <div class="stage-box w-100">
-                            <div class="stage-head position-relative w-100">
-                                <span>3</span>
-                                <i class="icon-brick thm-clr"></i>
-                            </div>
-                            <div class="stage-body w-100">
-                                <h3 class="mb-0 position-relative">Jalan Tol</h3>
-                                <p class="mb-0">Pembangunan</p>
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap position-relative d-block w-100">
+                            <span class="position-absolute">02</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-12.jpg" alt="Service Image 2"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="services.html" title="">Konstruksi</a></h3>
+                                    <p class="mb-0">Gedung, sipil, mekanikal dan elekterikal</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6 col-lg-3">
-                        <div class="stage-box w-100">
-                            <div class="stage-head position-relative w-100">
-                                <span>4</span>
-                                <i class="icon-check-list thm-clr"></i>
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
+                            <span class="position-absolute">03</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-13.jpg" alt="Service Image 3"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="services.html" title="">Jalan Tol</a></h3>
+                                    <p class="mb-0">Pembangunan jalan tol</p>
+                                </div>
                             </div>
-                            <div class="stage-body w-100">
-                                <h3 class="mb-0 position-relative">Supplier</h3>
-                                <p class="mb-0">Alat berat</p>
-                                <p class="mb-0">Material</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap position-relative d-block w-100">
+                            <span class="position-absolute">04</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-14.jpg" alt="Service Image 4"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="services.html" title="">Supplier</a></h3>
+                                    <p class="mb-0">Alat berat dan material</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div><!-- Stages Wrap -->
+            </div><!-- Services Wrap 2 -->
         </div>
     </div>
 </section>
-<section>
-    <div class="w-100 pt-100 pb-130 position-relative">
-        <img class="img-fluid sec-btm-lft-shp opc-4 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap2.jpg" alt="Sec Shape 2">
-        <div class="container">
-            <div class="sec-title text-center w-100">
-                <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Last Projects</span>
-                    <h2 class="mb-0">Beautiful created by us<i></i></h2>
-                </div>
-            </div><!-- Sec Title -->
-            <div class="projects-wrap2 position-relative w-100">
-                <div class="proj-box2 position-relative w-100">
-                    <div class="row">
-                        <div class="col-md-7 col-sm-12 col-lg-7">
-                            <div class="proj-img2 position-relative w-100">
-                                <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg1-2.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-7.jpg" alt="Project Image 1"></a>
-                            </div>
+<div class="w-100 pt-50 pb-130 position-relative">
+    <img class="img-fluid sec-btm-lft-shp opc-4 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap2.jpg" alt="Sec Shape 2">
+    <div class="container">
+        <div class="sec-title text-center w-100">
+            <div class="sec-title-inner d-inline-block">
+                <span class="d-block thm-clr">Proyek</span>
+                <h2 class="mb-0">Beberapa proyek dari kami<i></i></h2>
+            </div>
+        </div><!-- Sec Title -->
+        <div class="projects-wrap2 position-relative w-100">
+            <div class="proj-box2 position-relative w-100">
+                <div class="row">
+                    <div class="col-md-7 col-sm-12 col-lg-7">
+                        <div class="proj-img2 position-relative w-100">
+                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg1-2.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-7.jpg" alt="Project Image 1"></a>
                         </div>
-                        <div class="col-md-5 col-sm-12 col-lg-5">
-                            <div class="proj-info2 position-relative w-100">
-                                <h3 class="mb-0"><i class="icon-construction thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Gedung Dodiklatpur Situbondo</a></h3>
-                                <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
-                                <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Learn More</a>
-                                <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
-                                    <ul class="proj-info-list2 mb-0 list-unstyled">
-                                        <li>Location: <span>Madrid</span></li>
-                                        <li>Building area: <span>1 300 m2</span></li>
-                                        <li>Deadlines: <span>22 mont h</span></li>
-                                        <li>Price: <span>5 000 000 $</span></li>
-                                    </ul>
-                                </div>
+                    </div>
+                    <div class="col-md-5 col-sm-12 col-lg-5">
+                        <div class="proj-info2 position-relative w-100">
+                            <h3 class="mb-0"><i class="icon-construction thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Gedung Dodiklatpur Situbondo</a></h3>
+                            <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
+                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
+                            <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
+                                <ul class="proj-info-list2 mb-0 list-unstyled">
+                                    <li>Location: <span>Madrid</span></li>
+                                    <li>Building area: <span>1 300 m2</span></li>
+                                    <li>Deadlines: <span>22 mont h</span></li>
+                                    <li>Price: <span>5 000 000 $</span></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="proj-box2 rev position-relative w-100">
-                    <div class="row">
-                        <div class="col-md-7 col-sm-12 col-lg-7 order-md-1">
-                            <div class="proj-img2 position-relative w-100">
-                                <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg2-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-8.jpg" alt="Project Image 2"></a>
-                            </div>
+            </div>
+            <div class="proj-box2 rev position-relative w-100">
+                <div class="row">
+                    <div class="col-md-7 col-sm-12 col-lg-7 order-md-1">
+                        <div class="proj-img2 position-relative w-100">
+                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg2-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-8.jpg" alt="Project Image 2"></a>
                         </div>
-                        <div class="col-md-5 col-sm-12 col-lg-5">
-                            <div class="proj-info2 position-relative w-100">
-                                <h3 class="mb-0"><i class="icon-hotel thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Jembatan KBSB Kodim Bojonegoro</a></h3>
-                                <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
-                                <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Learn More</a>
-                                <div class="proj-info-list-wrap d-flex flex-wrap justify-content-start w-100">
-                                    <ul class="proj-info-list2 mb-0 list-unstyled">
-                                        <li>Location: <span>New York</span></li>
-                                        <li>Building area: <span>650 m2</span></li>
-                                        <li>Deadlines: <span>12 month</span></li>
-                                        <li>Price: <span>1 800 000 $</span></li>
-                                    </ul>
-                                </div>
+                    </div>
+                    <div class="col-md-5 col-sm-12 col-lg-5">
+                        <div class="proj-info2 position-relative w-100">
+                            <h3 class="mb-0"><i class="icon-hotel thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Jembatan KBSB Kodim Bojonegoro</a></h3>
+                            <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
+                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
+                            <div class="proj-info-list-wrap d-flex flex-wrap justify-content-start w-100">
+                                <ul class="proj-info-list2 mb-0 list-unstyled">
+                                    <li>Location: <span>New York</span></li>
+                                    <li>Building area: <span>650 m2</span></li>
+                                    <li>Deadlines: <span>12 month</span></li>
+                                    <li>Price: <span>1 800 000 $</span></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="proj-box2 position-relative w-100">
-                    <div class="row">
-                        <div class="col-md-7 col-sm-12 col-lg-7">
-                            <div class="proj-img2 position-relative w-100">
-                                <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg3-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-10.jpg" alt="Project Image 3"></a>
-                            </div>
+            </div>
+            <div class="proj-box2 position-relative w-100">
+                <div class="row">
+                    <div class="col-md-7 col-sm-12 col-lg-7">
+                        <div class="proj-img2 position-relative w-100">
+                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg3-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-10.jpg" alt="Project Image 3"></a>
                         </div>
-                        <div class="col-md-5 col-sm-12 col-lg-5">
-                            <div class="proj-info2 position-relative w-100">
-                                <h3 class="mb-0"><i class="icon-real-estate thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Tol Solo - Kertosono</a></h3>
-                                <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
-                                <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Learn More</a>
-                                <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
-                                    <ul class="proj-info-list2 mb-0 list-unstyled">
-                                        <li>Location: <span>Miami</span></li>
-                                        <li>Building area: <span>196 m2</span></li>
-                                        <li>Deadlines: <span>7 month</span></li>
-                                        <li>Price: <span>900 000 $</span></li>
-                                    </ul>
-                                </div>
+                    </div>
+                    <div class="col-md-5 col-sm-12 col-lg-5">
+                        <div class="proj-info2 position-relative w-100">
+                            <h3 class="mb-0"><i class="icon-real-estate thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Tol Solo - Kertosono</a></h3>
+                            <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
+                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
+                            <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
+                                <ul class="proj-info-list2 mb-0 list-unstyled">
+                                    <li>Location: <span>Miami</span></li>
+                                    <li>Building area: <span>196 m2</span></li>
+                                    <li>Deadlines: <span>7 month</span></li>
+                                    <li>Price: <span>900 000 $</span></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div><!-- Projects Wrap 2 -->
-            <div class="view-all mt-60 text-center w-100">
-                <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('portofolio') }}" title="">All Projects<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-            </div><!-- View All -->
-        </div>
+            </div>
+        </div><!-- Projects Wrap 2 -->
+        <div class="view-all mt-60 text-center w-100">
+            <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('portofolio') }}" title="">Semua Proyek<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+        </div><!-- View All -->
     </div>
+</div>
 </section>
 <section>
     <div class="w-100 pb-110 position-relative">
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Our Slogan</span>
-                    <h2 class="mb-0">Why you should choose us<i></i></h2>
+                    <span class="d-block thm-clr">Slogan</span>
+                    <h2 class="mb-0">Kenapa harus memilih kami<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="why-choose-wrap position-relative w-100">
@@ -251,8 +254,8 @@
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Latest News</span>
-                    <h2 class="mb-0">Interesting about PT Pilar Perkasa<i></i></h2>
+                    <span class="d-block thm-clr">Berita terbaru</span>
+                    <h2 class="mb-0">Berita tentang PT Pilarperkasa Persada<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="blog-wrap res-row position-relative w-100">
@@ -308,7 +311,7 @@
                 </div>
             </div><!-- Blog Wrap -->
             <div class="view-all mt-25 text-center w-100">
-                <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('blog') }}" title="">More News<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('blog') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
             </div><!-- View All -->
         </div>
         </div>
@@ -318,8 +321,8 @@
         <div class="spnsrs-wrap position-relative w-100">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Our Client</span>
-                    <h2 class="mb-0">Who is our clients<i></i></h2>
+                    <span class="d-block thm-clr">Klien</span>
+                    <h2 class="mb-0">Siapa saja klien kita<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
             <ul class="spnsrs-list justify-content-center align-items-center d-flex flex-wrap mb-0 list-unstyled">

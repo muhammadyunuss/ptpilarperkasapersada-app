@@ -14,9 +14,10 @@
                                 <li><a href="{{ route('tentang-perusahaan') }}" title=""><span>Profile Perusahaan</span></a></li>
                                 <li><a href="{{ route('profile-dewan-komisaris') }}" title=""><span>Profile Dewan Komisaris</span></a></li>
                                 <li><a href="{{ route('profile-direksi') }}" title=""><span>Profile Direksi</span></a></li>
+                                <li><a href="{{ route('visi-misi') }}" title=""><span>Visi dan Misi</span></a></li>
                             </ul>
                         </li>
-                        <li><a href="{{ route('service') }}" title=""><span>Jasa</span></a></li>
+                        <li><a href="{{ route('service') }}" title=""><span>Bisnis</span></a></li>
                         <li><a href="{{ route('blog') }}" title=""><span>Blog</span></a></li>
                         <li><a href="{{ route('portofolio') }}" title=""><span>Portofolio</span></a></li>
                         <li><a href="{{ route('hubungi-kami') }}" title=""><span>Hubungi Kami</span></a></li>

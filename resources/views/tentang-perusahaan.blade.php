@@ -76,7 +76,7 @@
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <h2 class="mb-0">Bidang Pekerjaan yang dititik beratkan oleh Pendiri/Pemilik PTPILAR adalah sebagai berikut :</h2>
+                    <h2 class="mb-0">Bisnis PT Pilarperkasa Persada :</h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="serv-create-wrap res-row position-relative w-100">
@@ -138,7 +138,7 @@
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
                     <span class="d-block thm-clr">Timeline</span>
-                    <h2 class="mb-0">What projects do we create<i></i></h2>
+                    <h2 class="mb-0">Proyek yang pernah kami kerjakan<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="timeline-wrap position-relative w-100">
@@ -146,7 +146,7 @@
                     <li>
                         <div class="timeline-box-wrap active position-relative w-100">
                             <div class="timeline-box-head">
-                                <h4 class="">2015<i>year</i></h4>
+                                <h4 class="">2015<i>tahun</i></h4>
                                 <span class="d-inline-block position-relative"><i><svg viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M0.5 15.5H30.5" stroke="#1E1E20" stroke-linecap="round" />
                                             <path d="M16 1L16 31" stroke="#1E1E20" stroke-linecap="round" />
@@ -163,7 +163,7 @@
                     <li>
                         <div class="timeline-box-wrap position-relative w-100">
                             <div class="timeline-box-head">
-                                <h4 class="">2016<i>year</i></h4>
+                                <h4 class="">2016<i>tahun</i></h4>
                                 <span class="d-inline-block position-relative"><i><svg viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M0.5 15.5H30.5" stroke="#1E1E20" stroke-linecap="round" />
                                             <path d="M16 1L16 31" stroke="#1E1E20" stroke-linecap="round" />
@@ -180,7 +180,7 @@
                     <li>
                         <div class="timeline-box-wrap position-relative w-100">
                             <div class="timeline-box-head">
-                                <h4 class="">2017<i>year</i></h4>
+                                <h4 class="">2017<i>tahun</i></h4>
                                 <span class="d-inline-block position-relative"><i><svg viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M0.5 15.5H30.5" stroke="#1E1E20" stroke-linecap="round" />
                                             <path d="M16 1L16 31" stroke="#1E1E20" stroke-linecap="round" />
@@ -197,7 +197,7 @@
                     <li>
                         <div class="timeline-box-wrap position-relative w-100">
                             <div class="timeline-box-head">
-                                <h4 class="">2018<i>year</i></h4>
+                                <h4 class="">2018<i>tahun</i></h4>
                                 <span class="d-inline-block position-relative"><i><svg viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M0.5 15.5H30.5" stroke="#1E1E20" stroke-linecap="round" />
                                             <path d="M16 1L16 31" stroke="#1E1E20" stroke-linecap="round" />
@@ -214,7 +214,7 @@
                     <li>
                         <div class="timeline-box-wrap position-relative w-100">
                             <div class="timeline-box-head">
-                                <h4 class="">2019<i>year</i></h4>
+                                <h4 class="">2019<i>tahun</i></h4>
                                 <span class="d-inline-block position-relative"><i><svg viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M0.5 15.5H30.5" stroke="#1E1E20" stroke-linecap="round" />
                                             <path d="M16 1L16 31" stroke="#1E1E20" stroke-linecap="round" />
