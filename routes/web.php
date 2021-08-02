@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\KebijakanController;
 use App\Http\Controllers\ServiceController;
 use Illuminate\Support\Facades\Route;
 
@@ -50,4 +51,8 @@ Route::get('blog-detail', function () {
     return view('blog-detail');
 })->name('blog-detail');
 
-Route::get('/service', [ServiceController::class, 'index'])->name('service');;
+Route::get('/service', [ServiceController::class, 'index'])->name('service');
+Route::get('/kebijakan-k3-pdf', [KebijakanController::class, 'K3KebijakanPDF'])->name('K3KebijakanPDF');
+Route::get('/lihat-kebijakan-k3-pdf', [KebijakanController::class, 'LihatK3KebijakanPDF'])->name('LihatK3KebijakanPDF');
+Route::get('/pengalaman-pekerjaan-pdf', [KebijakanController::class, 'pengalamanPekerjaanPDF'])->name('pengalamanPekerjaanPDF');
+Route::get('/lihat-pengalaman-pekerjaan-pdf', [KebijakanController::class, 'LihatpengalamanPekerjaanPDF'])->name('LihatpengalamanPekerjaanPDF');

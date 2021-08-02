@@ -3,7 +3,7 @@
         <div class="logo-menu-wrap d-flex flex-wrap justify-content-between align-items-center w-100 ml-100">
             <div class="logo">
                 <h1 class="mb-0 "><a href="{{ url('/') }}" title="Home"><img class="ml-5 img-fluid default-logo" src="{{ asset('front') }}/assets/images/logofix.png" srcset="{{ asset('front') }}/assets/images/logofix.png" alt="Logo">
-                        <img class="ml-5 img-fluid hover-logo" src="{{ asset('front') }}/assets/images/logofix.png" srcset="{{ asset('front') }}/assets/images/logofix.png" alt="Hover Logo"></a></h1>
+                <img class="ml-5 img-fluid hover-logo" src="{{ asset('front') }}/assets/images/logofix.png" srcset="{{ asset('front') }}/assets/images/logofix.png" alt="Hover Logo"></a></h1>
             </div><!-- Logo -->
             <nav class="d-flex flex-wrap justify-content-between align-items-center">
                 <div class="nav-left">
@@ -12,7 +12,7 @@
                         <li class="menu-item-has-children"><a href="javascript:void(0);" title=""><span>Perusahaan</span></a>
                             <ul class="mb-0 list-unstyled position-absolute">
                                 <li><a href="{{ route('tentang-perusahaan') }}" title=""><span>Profile Perusahaan</span></a></li>
-                                <li><a href="{{ route('profile-dewan-komisaris') }}" title=""><span>Profile Dewan Komisari</span></a></li>
+                                <li><a href="{{ route('profile-dewan-komisaris') }}" title=""><span>Profile Dewan Komisaris</span></a></li>
                                 <li><a href="{{ route('profile-direksi') }}" title=""><span>Profile Direksi</span></a></li>
                             </ul>
                         </li>

@@ -195,41 +195,6 @@
     </div>
 </section>
 <section>
-    <div class="w-100 position-relative">
-        <div class="services-banner-wrap res-row pb-60 position-relative w-100">
-            <div class="row mrg">
-                <div class="col-md-6 col-sm-6 col-lg-4">
-                    <div class="serv-banner-box mt-80 right-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/serv-banner-img1.jpg);"></div>
-                        <div class="serv-banner-info position-absolute">
-                            <h3 class="mb-0 position-relative">Home Decoration</h3>
-                            <a class="thm-btn bg-color1 d-inline-block position-relative" href="about.html" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-lg-4">
-                    <div class="serv-banner-box v2 right-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/serv-banner-img2.jpg);"></div>
-                        <div class="serv-banner-info position-absolute">
-                            <h3 class="mb-0 position-relative"><span>Natural Materials</span> <br> <span>in Interior</span></h3>
-                            <a class="d-inline-block thm-clr" href="about.html" title="">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-lg-4">
-                    <div class="serv-banner-box mt-160 left-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/serv-banner-img3.jpg);"></div>
-                        <div class="serv-banner-info position-absolute">
-                            <h3 class="mb-0 position-relative">Architecture of the Future</h3>
-                            <a class="thm-btn bg-color1 d-inline-block position-relative" href="about.html" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div><!-- Banners Wrap -->
-    </div>
-</section>
-<section>
     <div class="w-100 pt-70 pb-130 position-relative">
         <img class="img-fluid overlap-btm-shap250 sec-btm-lft-shp opc-1 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap4.jpg" alt="Sec Shape 4">
         <div class="container">
@@ -239,23 +204,23 @@
                         <div class="about-serv-img position-relative w-100">
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/about-serv-img.jpg" alt="About Service Image">
                             <div class="about-serv-info position-absolute text-center w-100">
-                                <span class="position-relative d-inline-block"><i class="icon-winner"></i></span>
-                                <h3 class="mb-0">We Have Received Many Architectural Awards</h3>
-                                <a class="d-inline-block float-right" href="about.html" title="">More</a>
+                                <span class="position-relative d-inline-block"><i class="far fa-file-pdf"></i></span>
+                                <h3 class="mb-0">Kami Telah Menerima Banyak Proyek</h3>
+                                <a class="d-inline-block float-right" target="_blank" href="{{ route('pengalamanPekerjaanPDF') }}" title="">Unduh</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12 col-lg-6">
                         <div class="sec-title w-100">
                             <div class="sec-title-inner d-inline-block">
-                                <span class="d-block thm-clr">About Services</span>
-                                <h2 class="mb-0">Company providing <br> the best design services<i></i></h2>
+                                <span class="d-block thm-clr">Project Kami</span>
+                                <h2 class="mb-0">Pelayanan Perusahaan <br> Terbaik <i></i></h2>
                             </div>
                         </div><!-- Sec Title -->
                         <div class="about-serv-desc w-100">
                             <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness which of us ever undertakes.</p>
                             <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
-                            <a class="thm-btn thm-bg d-inline-block position-relative" href="portfolio.html" title="">Our Projects<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                            <a class="thm-btn thm-bg d-inline-block position-relative" target="_blank" href="{{ route('LihatpengalamanPekerjaanPDF') }}" title="">Lihat<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                         </div>
                     </div>
                 </div>

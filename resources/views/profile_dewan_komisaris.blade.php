@@ -49,76 +49,37 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pb-50 position-relative">
-        <img class="img-fluid overlap-tpshap60 sec-tp-lft-shp opc-03 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap8.jpg" alt="Sec Shape 8">
-        <div class="container">
-            <div class="sec-title text-center w-100">
-                <div class="sec-title-inner d-inline-block">
-                    <h2><span class="d-block thm-clr">Dewan Komisaris</span></h2>
-                </div>
-            </div><!-- Sec Title -->
-            <div class="roadmap-wrap position-relative w-100">
-                <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-1.jpg" alt="Roadmap Image 1"></div>
-                    <div class="roadmap-info-wrap position-relative">
-                        <div class="roadmap-info w-100">
-                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris Utama</span>
-                            <h1 class="d-inline-block position-relative">Anton Yulianto,ST.</h1>
-                            <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-2.jpg" alt="Roadmap Image 2"></div>
-                    <div class="roadmap-info-wrap position-relative">
-                        <div class="roadmap-info w-100">
-                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris</span>
-                            <h1 class="d-inline-block position-relative">I Nyoman Timur Jaya Ambara,SH.</h1>
-                            <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- Roadmap Wrap -->
-        </div>
-    </div>
-</section>
-<section>
     <div class="w-100 pt-50 pb-130 position-relative">
         <img class="img-fluid overlap-tp-shap50 sec-tp-rgt-shp opc-4 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap7.jpg" alt="Sec Shape 7">
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Our Team</span>
-                    <h2 class="mb-0">The best employees<i></i></h2>
+                    <h2 class="mb-0 thm-clr">Kebijakan dan Pengalaman Kerja<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="team-wrap2 res-row position-relative w-100">
                 <div class="row mrg55">
                     <div class="col-md-4 col-sm-4 col-lg-3">
                         <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="team-detail.html" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-1.jpg" alt="Team Image 1"></a></div>
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('K3KebijakanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-1.jpg" alt="Team Image 1"></a></div>
                             <div class="team-info2 position-relative w-100">
-                                <h3 class="mb-0"><a href="team-detail.html" title="">Samuel Adamson</a></h3>
-                                <span class="d-block thm-clr">foreman</span>
-                                <div class="scl-links v2 d-flex flex-wrap w-100">
-                                    <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                                </div>
+                                <h3 class="mb-0"><a href="team-detail.html" title="">KEBIJAKAN KESELAMATAN DAN KESEHATAN KERJA</a></h3>
+                                <span class="d-block thm-clr">
+                                <a href="{{ route('K3KebijakanPDF') }}" target="_blank" rel="noopener noreferrer">Download</a> &nbsp;&nbsp;
+                                <a href="{{ route('LihatK3KebijakanPDF') }}" target="_blank" rel="noopener noreferrer">Lihat</a> &nbsp;&nbsp;
+                                </span>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4 col-lg-3">
                         <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="team-detail.html" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-2.jpg" alt="Team Image 2"></a></div>
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('pengalamanPekerjaanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-2.jpg" alt="Team Image 2"></a></div>
                             <div class="team-info2 position-relative w-100">
-                                <h3 class="mb-0"><a href="team-detail.html" title="">Brad Wilson</a></h3>
-                                <span class="d-block thm-clr">foreman</span>
-                                <div class="scl-links v2 d-flex flex-wrap w-100">
-                                    <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                                </div>
+                                <h3 class="mb-0"><a href="team-detail.html" title="">Pengalaman <br> Pekerjaan</a></h3>
+                                <span class="d-block thm-clr">
+                                    <a href="{{ route('pengalamanPekerjaanPDF') }}" target="_blank" rel="noopener noreferrer">Download</a> &nbsp;&nbsp;
+                                    <a href="{{ route('LihatpengalamanPekerjaanPDF') }}" target="_blank" rel="noopener noreferrer">Lihat</a> &nbsp;&nbsp;
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -152,9 +113,40 @@
                     </div>
                 </div>
             </div><!-- Blog Wrap -->
-            <div class="view-all mt-25 text-center w-100">
-                <a class="thm-btn thm-bg d-inline-block position-relative" href="team.html" title="">All Team<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-            </div><!-- View All -->
+        </div>
+    </div>
+</section>
+<section>
+    <div class="w-100 pb-50 position-relative">
+        <img class="img-fluid overlap-tpshap60 sec-tp-lft-shp opc-03 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap8.jpg" alt="Sec Shape 8">
+        <div class="container">
+            <div class="sec-title text-center w-100">
+                <div class="sec-title-inner d-inline-block">
+                    <h2><span class="d-block thm-clr">Dewan Komisaris</span></h2>
+                </div>
+            </div><!-- Sec Title -->
+            <div class="roadmap-wrap position-relative w-100">
+                <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-1.jpg" alt="Roadmap Image 1"></div>
+                    <div class="roadmap-info-wrap position-relative">
+                        <div class="roadmap-info w-100">
+                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris Utama</span>
+                            <h1 class="d-inline-block position-relative">Anton Yulianto,ST.</h1>
+                            <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-2.jpg" alt="Roadmap Image 2"></div>
+                    <div class="roadmap-info-wrap position-relative">
+                        <div class="roadmap-info w-100">
+                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris</span>
+                            <h1 class="d-inline-block position-relative">I Nyoman Timur Jaya Ambara,SH.</h1>
+                            <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Roadmap Wrap -->
         </div>
     </div>
 </section>
