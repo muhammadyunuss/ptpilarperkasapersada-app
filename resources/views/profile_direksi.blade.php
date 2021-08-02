@@ -60,6 +60,9 @@
             <div class="team-wrap2 res-row position-relative w-100">
                 <div class="row mrg55">
                     <div class="col-md-4 col-sm-4 col-lg-3">
+
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-lg-3">
                         <div class="team-box2 w-100">
                             <div class="team-img2 position-relative w-100"><a href="{{ route('K3KebijakanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-1.jpg" alt="Team Image 1"></a></div>
                             <div class="team-info2 position-relative w-100">
@@ -84,32 +87,7 @@
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4 col-lg-3">
-                        <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="team-detail.html" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-3.jpg" alt="Team Image 3"></a></div>
-                            <div class="team-info2 position-relative w-100">
-                                <h3 class="mb-0"><a href="team-detail.html" title="">Chris Johnson</a></h3>
-                                <span class="d-block thm-clr">builder</span>
-                                <div class="scl-links v2 d-flex flex-wrap w-100">
-                                    <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-lg-3">
-                        <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="team-detail.html" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-4.jpg" alt="Team Image 4"></a></div>
-                            <div class="team-info2 position-relative w-100">
-                                <h3 class="mb-0"><a href="team-detail.html" title="">Dave Flatcher</a></h3>
-                                <span class="d-block thm-clr">builder</span>
-                                <div class="scl-links v2 d-flex flex-wrap w-100">
-                                    <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div><!-- Blog Wrap -->
