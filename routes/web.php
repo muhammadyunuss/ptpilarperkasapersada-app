@@ -52,7 +52,7 @@ Route::get('blog-detail', function () {
 })->name('blog-detail');
 
 Route::get('visi-misi', function () {
-    return view('visi-misi');
+    return view('visi_misi');
 })->name('visi-misi');
 
 Route::get('/service', [ServiceController::class, 'index'])->name('service');
