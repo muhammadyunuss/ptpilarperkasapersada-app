@@ -89,7 +89,7 @@
                         <div class="serv-box2-wrap position-relative d-block w-100">
                             <span class="position-absolute">04</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-14.jpg" alt="Service Image 4"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/.jpg" alt="Service Image 4"></div>
                                 <div class="serv-info2 position-relative w-100">
                                     <h3 class="mb-0"><a href="services.html" title="">Supplier</a></h3>
                                     <p class="mb-0">Alat berat dan material</p>
