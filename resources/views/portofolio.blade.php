@@ -28,16 +28,73 @@
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
                     <span class="d-block thm-clr">Portfolio</span>
-                    <h2 class="mb-0">Beautiful created by us<i></i></h2>
+                    <h2 class="mb-0">Tambang<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="port-wrap2 position-relative w-100">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-lg-5">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-1.jpg" alt="Portfolio Image 1">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image1.jpeg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Tambang</a></h3>
+                                <span class="d-block position-relative">Architecture</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-7">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6 col-lg-6">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image2.jpg" alt="Portfolio Image 2">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Tambang</a></h3>
+                                        <span class="d-block position-relative">Architecture</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-lg-6">
+                                <div class="port-cover-box text-center position-relative d-flex flex-wrap align-items-center justify-content-center w-100">
+                                    <div class="port-cover-info position-relative d-inline-block">
+                                        <i class="thm-clr icon-pictures-folder"></i>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Tambang Gallery</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 col-lg-12">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image3.jpeg" alt="Portfolio Image 3">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                        <span class="d-block position-relative">Architecture</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Portfolio Wrap 2 -->
+        </div>
+    </div>
+</section>
+<section>
+    <div class="w-100 pt-80 pb-100 position-relative">
+        <img class="img-fluid overlap-tpshap160 sec-tp-lft-shp opc-03 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap8.jpg" alt="Sec Shape 8">
+        <div class="container">
+            <div class="sec-title text-center w-100">
+                <div class="sec-title-inner d-inline-block">
+                    <span class="d-block thm-clr">Gedung</span>
+                    <h2 class="mb-0">Gedung gallery<i></i></h2>
+                </div>
+            </div>
+            <div class="port-wrap2 position-relative w-100">
+                <!-- Sec Title -->
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-lg-5">
+                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image5.jpg" alt="Portfolio Image 1">
+                            <div class="port-info2 position-absolute">
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
                                 <span class="d-block position-relative">Architecture</span>
                                 <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                             </div>
@@ -47,9 +104,9 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6 col-lg-6">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-2.jpg" alt="Portfolio Image 2">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image4.jpg" alt="Portfolio Image 2">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
                                         <span class="d-block position-relative">Interior</span>
                                         <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                                     </div>
@@ -66,11 +123,10 @@
                             </div>
                             <div class="col-md-12 col-sm-12 col-lg-12">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-3-1.jpg" alt="Portfolio Image 3">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image6.jpg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
                                         <span class="d-block position-relative">Architecture</span>
-                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -78,50 +134,73 @@
                     </div>
                     <div class="col-md-12 col-sm-12 col-lg-8">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-4.jpg" alt="Portfolio Image 4">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image7.jpeg" alt="Portfolio Image 4">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
                                 <span class="d-block position-relative">Interior</span>
-                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 col-sm-12 col-lg-4">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-5.jpg" alt="Portfolio Image 5">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image8.jpg" alt="Portfolio Image 5">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
                                 <span class="d-block position-relative">Architecture</span>
-                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-5">
+                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image9.jpg" alt="Portfolio Image 8">
+                            <div class="port-info2 position-absolute">
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
+                                <span class="d-block position-relative">Interior</span>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 col-sm-12 col-lg-7">
                         <div class="row">
-                            <div class="col-md-6 col-sm-6 col-lg-6">
-                                <div class="port-cover-box text-center position-relative d-flex flex-wrap align-items-center justify-content-center w-100">
-                                    <div class="port-cover-info position-relative d-inline-block">
-                                        <i class="thm-clr icon-pictures-folder"></i>
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Abstract Architecture</a></h3>
-                                        <span class="d-block">7 photo</span>
+                            <div class="col-md-12 col-sm-12 col-lg-12">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image10.jpg" alt="Portfolio Image 7">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
+                                        <span class="d-block position-relative">Architecture</span>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-sm-6 col-lg-6">
+                            <div class="col-md-12 col-sm-12 col-lg-12">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-6.jpg" alt="Portfolio Image 6">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image11.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
-                                        <span class="d-block position-relative">Interior</span>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
+                                        <span class="d-block position-relative">Architecture</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ROW -->
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-lg-7">
+                        <div class="row">
+                            <div class="col-md-12 col-sm-12 col-lg-12">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image12.jpeg" alt="Portfolio Image 3">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung RS. Ewa Pangalila</a></h3>
+                                        <span class="d-block position-relative">Architecture</span>
                                         <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 col-lg-12">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-7-1.jpg" alt="Portfolio Image 7">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image13.jpeg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung RS. Ewa Pangalila</a></h3>
                                         <span class="d-block position-relative">Architecture</span>
                                         <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                                     </div>
@@ -131,9 +210,63 @@
                     </div>
                     <div class="col-md-12 col-sm-12 col-lg-5">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/port-img3-8.jpg" alt="Portfolio Image 8">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image14.jpeg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung RS. Ewa Pangalila</a></h3>
+                                <span class="d-block position-relative">Architecture</span>
+                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-8">
+                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image15.jpeg" alt="Portfolio Image 4">
+                            <div class="port-info2 position-absolute">
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Rumah Tinggal Ibu Lilik</a></h3>
+                                <span class="d-block position-relative">Interior</span>
+                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-4">
+                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image16.jpeg" alt="Portfolio Image 5">
+                            <div class="port-info2 position-absolute">
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Rumah Tinggal Ibu Lilik</a></h3>
+                                <span class="d-block position-relative">Architecture</span>
+                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-7">
+                        <div class="row">
+                            <div class="col-md-12 col-sm-12 col-lg-12">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image17.jpg" alt="Portfolio Image 7">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Zipur Kepanjen</a></h3>
+                                        <span class="d-block position-relative">Architecture</span>
+                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 col-lg-12">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image18.jpg" alt="Portfolio Image 7">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Zipur Kepanjen</a></h3>
+                                        <span class="d-block position-relative">Architecture</span>
+                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-5">
+                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image19.jpg" alt="Portfolio Image 8">
+                            <div class="port-info2 position-absolute">
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Zipur Kepanjen</a></h3>
                                 <span class="d-block position-relative">Interior</span>
                                 <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                             </div>
