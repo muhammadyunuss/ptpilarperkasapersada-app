@@ -95,8 +95,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image5.jpg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
-                                <span class="d-block position-relative">Architecture</span>
-                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                <span class="d-block position-relative">Interior</span>
                             </div>
                         </div>
                     </div>
@@ -108,7 +107,6 @@
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
                                         <span class="d-block position-relative">Interior</span>
-                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -116,8 +114,7 @@
                                 <div class="port-cover-box text-center position-relative d-flex flex-wrap align-items-center justify-content-center w-100">
                                     <div class="port-cover-info position-relative d-inline-block">
                                         <i class="thm-clr icon-pictures-folder"></i>
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Smart House Gallery</a></h3>
-                                        <span class="d-block">3 photo</span>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Gallery</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -137,7 +134,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image7.jpeg" alt="Portfolio Image 4">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
-                                <span class="d-block position-relative">Interior</span>
+                                <span class="d-block position-relative">Architecture</span>
                             </div>
                         </div>
                     </div>
@@ -146,7 +143,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image8.jpg" alt="Portfolio Image 5">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
-                                <span class="d-block position-relative">Architecture</span>
+                                <span class="d-block position-relative">Interior</span>
                             </div>
                         </div>
                     </div>
@@ -166,7 +163,7 @@
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image10.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
-                                        <span class="d-block position-relative">Architecture</span>
+                                        <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
                             </div>
@@ -175,7 +172,7 @@
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image11.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
-                                        <span class="d-block position-relative">Architecture</span>
+                                        <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
                             </div>
@@ -191,8 +188,7 @@
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image12.jpeg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung RS. Ewa Pangalila</a></h3>
-                                        <span class="d-block position-relative">Architecture</span>
-                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                        <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
                             </div>
@@ -201,8 +197,7 @@
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image13.jpeg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung RS. Ewa Pangalila</a></h3>
-                                        <span class="d-block position-relative">Architecture</span>
-                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                        <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
                             </div>
@@ -213,8 +208,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image14.jpeg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung RS. Ewa Pangalila</a></h3>
-                                <span class="d-block position-relative">Architecture</span>
-                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                <span class="d-block position-relative">Interior</span>
                             </div>
                         </div>
                     </div>
@@ -223,8 +217,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image15.jpeg" alt="Portfolio Image 4">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Rumah Tinggal Ibu Lilik</a></h3>
-                                <span class="d-block position-relative">Interior</span>
-                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                <span class="d-block position-relative">Architecture</span>
                             </div>
                         </div>
                     </div>
@@ -233,8 +226,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image16.jpeg" alt="Portfolio Image 5">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Rumah Tinggal Ibu Lilik</a></h3>
-                                <span class="d-block position-relative">Architecture</span>
-                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                <span class="d-block position-relative">Interior</span>
                             </div>
                         </div>
                     </div>
@@ -246,7 +238,6 @@
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Zipur Kepanjen</a></h3>
                                         <span class="d-block position-relative">Architecture</span>
-                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -256,7 +247,6 @@
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Zipur Kepanjen</a></h3>
                                         <span class="d-block position-relative">Architecture</span>
-                                        <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -267,8 +257,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image19.jpg" alt="Portfolio Image 8">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Zipur Kepanjen</a></h3>
-                                <span class="d-block position-relative">Interior</span>
-                                <a class="d-inline-block" href="portfolio-single.html" title=""><i class="icon-share-alt"></i></a>
+                                <span class="d-block position-relative">Architecture</span>
                             </div>
                         </div>
                     </div>
