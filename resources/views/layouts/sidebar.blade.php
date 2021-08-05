@@ -11,7 +11,7 @@
         </li>
         <li><a href="{{ route('service') }}" title=""><span>Jasa</span></a></li>
         <li><a href="{{ route('blog') }}" title=""><span>Blog</span></a></li>
-        <li><a href="{{ route('portofolio') }}" title=""><span>Portofolio</span></a></li>
+        <li><a href="javascript:void(0);" title=""><span>Portofolio</span></a></li>
         <li><a href="{{ route('hubungi-kami') }}" title=""><span>Hubungi Kami</span></a></li>
     </ul>
     <div class="scl-links v2 d-flex flex-wrap w-100">

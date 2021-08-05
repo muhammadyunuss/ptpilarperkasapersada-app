@@ -24,8 +24,8 @@
                         <div class="widget-box w-100">
                             <h3 class="widget-title">Contacts</h3>
                             <ul class="cont-list mb-0 list-unstyled w-100">
-                                <li><i class="icon-map-marker-alt thm-clr"></i>Ruko Sentra Tropodo Blok C-15, Kab. Sidoarjo</li>
-                                <li><i class="icon-phone thm-clr"></i>+ 1 (234) 567 89 90</li>
+                                <li><i class="icon-map-marker-alt thm-clr"></i>Sidoarjo, Jawa Timur</li>
+                                <li><i class="icon-phone thm-clr"></i></li>
                                 <li><i class="icon-envelope thm-clr"></i><a href="mailto:pilarperkasa@mail.com" title=""></a></li>
                             </ul>
                         </div>

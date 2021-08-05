@@ -38,9 +38,9 @@
                                 </div>
                             </div><!-- Sec Title -->
                             <div class="founder-desc w-100">
-                                <blockquote class="blockquote position-relative"><div class="blockquote-footer position-relative">Visi</div><i class="lft-qut icon-quote-left thm-clr position-absolute"></i><p class="mb-0">Menjadi perusahaan dibidang penyedia barang dan jasa, earth work, general kontraktor dan supplier dengan ditunjang total quality management yang memberikan total service bagi pengguna jasa diseluruh Indonesia</p><i class="rgt-qut icon-quote-right thm-clr position-absolute"></i></blockquote>
+                                <blockquote class="blockquote position-relative"><div class="blockquote-footer position-relative">Visi</div><i class="lft-qut icon-quote-left thm-clr position-absolute"></i><p class="mb-0">Menjadi perusahaan dibidang penyedia barang dan jasa, earth work, general kontraktor dan supplier dengan ditunjang total quality management yang memberikan total service bagi pengguna jasa diseluruh Indonesia</p><i class="rgt-qut icon-quote-right thm-clr position-absolute"></i> <br>
 
-                                <blockquote class="blockquote position-relative"><div class="blockquote-footer position-relative">Misi</div><i class="lft-qut icon-quote-left thm-clr position-absolute"></i><p class="mb-0">1.	Memberikan pelayanan, mutu dan kepuasan yang terbaik kepada pelanggan</p><p class="mb-0">2.	Membangun serta menciptakan citra terbaik perusahaan</p><p class="mb-0">3.	Turut berpartisipasi dalam pembangunan negara kesatuan republik Indonesia</p><i class="rgt-qut icon-quote-right thm-clr position-absolute"></i></blockquote>
+                                <div class="blockquote-footer position-relative">Misi</div><i class="lft-qut icon-quote-left thm-clr position-absolute"></i><p class="mb-0">1.	Memberikan pelayanan, mutu dan kepuasan yang terbaik kepada pelanggan</p><p class="mb-0">2.	Membangun serta menciptakan citra terbaik perusahaan</p><p class="mb-0">3.	Turut berpartisipasi dalam pembangunan negara kesatuan republik Indonesia</p><i class="rgt-qut icon-quote-right thm-clr position-absolute"></i></blockquote>
                            </div>
                         </div>
                     </div>

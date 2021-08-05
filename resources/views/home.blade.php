@@ -5,31 +5,87 @@
     <div class="w-100 pb-80 position-relative">
         <div class="feat-wrap3 position-relative w-100">
             <div class="feat-caro3">
-            <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-6.jpg);"> </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-A.jpg);"> </div>
                     <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
                         <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                     </div>
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-4.png);"> </div>
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-B.jpg);"> </div>
                     <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
                         <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                     </div>
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-3.jpg);"></div>
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-C.jpg);"></div>
                     <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
                         <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                     </div>
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-5.jpg);"></div>
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-D.jpg);"></div>
                     <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-E.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-F.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-G.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-H.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-I.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-J.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-K.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
+                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                    </div>
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-L.jpg);"></div>
+                    <div class="feat-cap3 position-absolute">
+                        <h2 class="mb-0 prototype">PT PILARPERKASA PERSADA</h2>
                         <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
                     </div>
                 </div>
@@ -186,7 +242,7 @@
             </div>
         </div><!-- Projects Wrap 2 -->
         <div class="view-all mt-60 text-center w-100">
-            <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('portofolio') }}" title="">Semua Proyek<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+            <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Semua Proyek<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
         </div><!-- View All -->
     </div>
 </div>
@@ -370,3 +426,12 @@
 <script>
 </script>
 @endpush
+
+<style>
+    .prototype {
+        font-family: prototype;
+        font-weight: 400;
+        font-style: normal;
+        transform: scale(1, 1.1);
+    }
+</style>

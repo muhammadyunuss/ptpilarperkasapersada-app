@@ -8,7 +8,8 @@
             <nav class="d-flex flex-wrap justify-content-between align-items-center">
                 <div class="nav-left">
                     <ul class="mb-0 list-unstyled d-inline-flex flex-wrap w-180">
-                        <li><a href="{{ url('/') }}" title=""><span>Beranda</span></a></li>
+                        <li><a href="{{ url('/') }}" title=""><span>Beranda</span></a></li>                        
+                        <li><a href="{{ route('service') }}" title=""><span>Bisnis</span></a></li>
                         <li class="menu-item-has-children"><a href="javascript:void(0);" title=""><span>Perusahaan</span></a>
                             <ul class="mb-0 list-unstyled position-absolute">
                                 <li><a href="{{ route('tentang-perusahaan') }}" title=""><span>Profile Perusahaan</span></a></li>
@@ -17,9 +18,15 @@
                                 <li><a href="{{ route('visi-misi') }}" title=""><span>Visi dan Misi</span></a></li>
                             </ul>
                         </li>
-                        <li><a href="{{ route('service') }}" title=""><span>Bisnis</span></a></li>
+                        <li class="menu-item-has-children"><a href="javascript:void(0);" title=""><span>Portofolio</span></a>
+                            <ul class="mb-0 list-unstyled position-absolute">
+                                <li><a href="{{ route('portofolio-tambang') }}" title=""><span>Tambang</span></a></li>
+                                <li><a href="{{ route('portofolio-konstruksi') }}" title=""><span>Konstruksi</span></a></li>
+                                <li><a href="{{ route('portofolio-jalantol') }}" title=""><span>Tambang</span></a></li>
+                                <li><a href="{{ route('portofolio-suplier') }}" title=""><span>Suplier</span></a></li>
+                            </ul>
+                        </li>                        
                         <li><a href="{{ route('blog') }}" title=""><span>Blog</span></a></li>
-                        <li><a href="{{ route('portofolio') }}" title=""><span>Portofolio</span></a></li>
                         <li><a href="{{ route('hubungi-kami') }}" title=""><span>Hubungi Kami</span></a></li>
                     </ul>
                 </div>
