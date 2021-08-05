@@ -39,6 +39,10 @@ Route::get('portofolio', function () {
     return view('portofolio');
 })->name('portofolio');
 
+Route::get('portofolio2', function () {
+    return view('portofolio2');
+})->name('portofolio2');
+
 Route::get('hubungi-kami', function () {
     return view('hubungi-kami');
 })->name('hubungi-kami');

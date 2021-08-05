@@ -28,16 +28,16 @@
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
                     <span class="d-block thm-clr">Portfolio</span>
-                    <h2 class="mb-0">Tambang<i></i></h2>
+                    <h2 class="mb-0">Jalan Tol<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="port-wrap2 position-relative w-100">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-lg-5">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image1.jpeg" alt="Portfolio Image 1">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image21.jpg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Tambang</a></h3>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN-MALANG (PAMAL)</a></h3>
                                 <span class="d-block position-relative">Architecture</span>
                             </div>
                         </div>
@@ -46,9 +46,9 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6 col-lg-6">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image2.jpg" alt="Portfolio Image 2">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image20.jpg" alt="Portfolio Image 2">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Tambang</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN-MALANG (PAMAL)</a></h3>
                                         <span class="d-block position-relative">Architecture</span>
                                     </div>
                                 </div>
@@ -57,16 +57,47 @@
                                 <div class="port-cover-box text-center position-relative d-flex flex-wrap align-items-center justify-content-center w-100">
                                     <div class="port-cover-info position-relative d-inline-block">
                                         <i class="thm-clr icon-pictures-folder"></i>
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Tambang Gallery</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Jalan Tol Gallery</a></h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 col-lg-12">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image3.jpeg" alt="Portfolio Image 3">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image22.jpg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Modern natural materials</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN-MALANG (PAMAL)</a></h3>
                                         <span class="d-block position-relative">Architecture</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-5">
+                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image24.jpg" alt="Portfolio Image 8">
+                            <div class="port-info2 position-absolute">
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO-KERTOSONO (SOKER)</a></h3>
+                                <span class="d-block position-relative">Interior</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-lg-7">
+                        <div class="row">
+                            <div class="col-md-12 col-sm-12 col-lg-12">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image23.jpg" alt="Portfolio Image 7">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO-KERTOSONO (SOKER)</a></h3>
+                                        <span class="d-block position-relative">Interior</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 col-lg-12">
+                                <div class="port-box2 text-center position-relative overflow-hidden w-100">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image25.jpg" alt="Portfolio Image 7">
+                                    <div class="port-info2 position-absolute">
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO-KERTOSONO (SOKER)</a></h3>
+                                        <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
                             </div>
@@ -83,8 +114,8 @@
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Gedung</span>
-                    <h2 class="mb-0">Gedung gallery<i></i></h2>
+                    <span class="d-block thm-clr">Portofolio</span>
+                    <h2 class="mb-0">Alat Berat dan Quary gallery<i></i></h2>
                 </div>
             </div>
             <div class="port-wrap2 position-relative w-100">
@@ -92,9 +123,9 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-lg-5">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image5.jpg" alt="Portfolio Image 1">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image27.jpg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Quary</a></h3>
                                 <span class="d-block position-relative">Interior</span>
                             </div>
                         </div>
@@ -103,9 +134,9 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6 col-lg-6">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image4.jpg" alt="Portfolio Image 2">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image26.jpg" alt="Portfolio Image 2">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Quary</a></h3>
                                         <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
@@ -114,44 +145,26 @@
                                 <div class="port-cover-box text-center position-relative d-flex flex-wrap align-items-center justify-content-center w-100">
                                     <div class="port-cover-info position-relative d-inline-block">
                                         <i class="thm-clr icon-pictures-folder"></i>
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Gallery</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Alat Berat dan Quary Gallery</a></h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 col-lg-12">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image6.jpg" alt="Portfolio Image 3">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image28.jpg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Quary</a></h3>
                                         <span class="d-block position-relative">Architecture</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-12 col-sm-12 col-lg-8">
-                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image7.jpeg" alt="Portfolio Image 4">
-                            <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
-                                <span class="d-block position-relative">Architecture</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-lg-4">
-                        <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image8.jpg" alt="Portfolio Image 5">
-                            <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
-                                <span class="d-block position-relative">Interior</span>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-md-12 col-sm-12 col-lg-5">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image9.jpg" alt="Portfolio Image 8">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image29.jpg" alt="Portfolio Image 8">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Alat Berat</a></h3>
                                 <span class="d-block position-relative">Interior</span>
                             </div>
                         </div>
@@ -160,18 +173,18 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-lg-12">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image10.jpg" alt="Portfolio Image 7">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image30.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Alat Berat</a></h3>
                                         <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 col-lg-12">
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image11.jpg" alt="Portfolio Image 7">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image31.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Alat Berat</a></h3>
                                         <span class="d-block position-relative">Interior</span>
                                     </div>
                                 </div>
@@ -264,7 +277,7 @@
                 </div>
             </div><!-- Portfolio Wrap 2 -->
             <div class="view-all text-center w-100">
-                <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('portofolio2') }}" title="">Melihat Jalan Tol dan Supplier<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+                <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('portofolio') }}" title="">Sebelumnya<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
             </div><!-- View All -->
         </div>
     </div>

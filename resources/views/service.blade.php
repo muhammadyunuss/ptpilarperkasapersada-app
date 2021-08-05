@@ -30,7 +30,7 @@
             <div class="row mrg">
                 <div class="col-md-6 col-sm-6 col-lg-3">
                     <div class="serv-banner-box mt-80 right-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/serv-banner-img1.jpg);"></div>
+                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image1.jpeg);"></div>
                         <div class="serv-banner-info position-absolute">
                             <h3 class="mb-0 position-relative"><span>Tambang</span></h3>
                         </div>
@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-lg-3">
                     <div class="serv-banner-box v2 right-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/serv-banner-img2.jpg);"></div>
+                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image2.jpg);"></div>
                         <div class="serv-banner-info position-absolute">
                             <h3 class="mb-0 position-relative"><span>Konstruksi</span></h3>
                         </div>
@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-lg-3">
                     <div class="serv-banner-box mt-160 left-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/serv-banner-img3.jpg);"></div>
+                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image4.jpg);"></div>
                         <div class="serv-banner-info position-absolute">
                             <h3 class="mb-0 position-relative"><span>Jalan Tol</span></h3>
                         </div>
@@ -55,7 +55,7 @@
 
                 <div class="col-md-6 col-sm-6 col-lg-3">
                     <div class="serv-banner-box v2 right-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/serv-banner-img2.jpg);"></div>
+                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image3.jpg);"></div>
                         <div class="serv-banner-info position-absolute">
                             <h3 class="mb-0 position-relative"><span>Suplier</span></h3>
                         </div>
