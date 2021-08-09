@@ -10,7 +10,7 @@
                         <i class="position-absolute"><svg viewBox="0 0 359 354" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M358.5 351H323V300.316L250.863 264.339V331.541H278.904V170.438L201.566 91.0182L200.661 327.921L223.727 351L224.179 71.1066L166.063 3V142.381L126.489 156.862L149.781 267.507L171.49 289.455V212.75H115.635L80.3576 331.541H171.49V306.651H34V351H0" stroke="#f1f1f1" stroke-width="2" />
                             </svg></i>
-                        <h1 class="mb-0">Bisnis kami</h1>
+                        <h1 class="mb-0 thm-clr">Bisnis kami</h1>
                         <ol class="breadcrumb mb-0 list-unstyled">
                             <li class="breadcrumb-item"><a href="index.html" title=""><i class="icon-home"></i>Home</a></li>
                             <li class="breadcrumb-item active">Bisnis Kami</li>
@@ -32,7 +32,7 @@
                     <div class="serv-banner-box mt-80 right-cont position-relative w-100">
                         <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image1.jpeg);"></div>
                         <div class="serv-banner-info position-absolute">
-                            <h3 class="mb-0 position-relative"><span>Tambang</span></h3>
+                            <h3 class="thm-clr mb-0 position-relative"><span>Tambang</span></h3>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                     <div class="serv-banner-box v2 right-cont position-relative w-100">
                         <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image2.jpg);"></div>
                         <div class="serv-banner-info position-absolute">
-                            <h3 class="mb-0 position-relative"><span>Konstruksi</span></h3>
+                            <h3 class="thm-clr mb-0 position-relative"><span>Konstruksi</span></h3>
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                     <div class="serv-banner-box mt-160 left-cont position-relative w-100">
                         <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image4.jpg);"></div>
                         <div class="serv-banner-info position-absolute">
-                            <h3 class="mb-0 position-relative"><span>Jalan Tol</span></h3>
+                            <h3 class="thm-clr mb-0 position-relative"><span>Jalan Tol</span></h3>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                     <div class="serv-banner-box v2 right-cont position-relative w-100">
                         <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image3.jpg);"></div>
                         <div class="serv-banner-info position-absolute">
-                            <h3 class="mb-0 position-relative"><span>Suplier</span></h3>
+                            <h3 class="thm-clr mb-0 position-relative"><span>Suplier</span></h3>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
     <div class="w-100 position-relative">
         <div class="faq-wrap position-relative w-100">
             <div class="faq-inner dark-layer opc8 position-relative w-100">
-                <div class="fixed-bg faq-img" style="background-image: url({{ asset('front') }}/assets/images/parallax-bg4.png);"></div>
+                <div class="fixed-bg faq-img" style="background-image: url({{ asset('front') }}/assets/images/parallax-bg4A.jpg);"></div>
                 <div class="container">
                     <div class="toggle w-100" id="toggle">
                         <div class="toggle-item w-100">
