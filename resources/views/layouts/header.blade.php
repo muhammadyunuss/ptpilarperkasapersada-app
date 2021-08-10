@@ -3,12 +3,12 @@
         <div class="logo-menu-wrap d-flex flex-wrap justify-content-between align-items-center w-100 ml-100">
             <div class="logo">
                 <h1 class="mb-0 "><a href="{{ url('/') }}" title="Home"><img class="ml-5 img-fluid default-logo" src="{{ asset('front') }}/assets/images/logofix.png" srcset="{{ asset('front') }}/assets/images/logofix.png" alt="Logo">
-                <img class="ml-5 img-fluid hover-logo" src="{{ asset('front') }}/assets/images/logofix.png" srcset="{{ asset('front') }}/assets/images/logofix.png" alt="Hover Logo"></a></h1>
+                        <img class="ml-5 img-fluid hover-logo" src="{{ asset('front') }}/assets/images/logofix.png" srcset="{{ asset('front') }}/assets/images/logofix.png" alt="Hover Logo"></a></h1>
             </div><!-- Logo -->
             <nav class="d-flex flex-wrap justify-content-between align-items-center">
                 <div class="nav-left">
                     <ul class="mb-0 list-unstyled d-inline-flex flex-wrap w-180">
-                        <li><a href="{{ url('/') }}" title=""><span>Beranda</span></a></li>                        
+                        <li><a href="{{ url('/') }}" title=""><span>Beranda</span></a></li>
                         <li><a href="{{ route('service') }}" title=""><span>Bisnis</span></a></li>
                         <li class="menu-item-has-children"><a href="javascript:void(0);" title=""><span>Perusahaan</span></a>
                             <ul class="mb-0 list-unstyled position-absolute">
@@ -25,7 +25,7 @@
                                 <li><a href="{{ route('portofolio-jalantol') }}" title=""><span>Tambang</span></a></li>
                                 <li><a href="{{ route('portofolio-suplier') }}" title=""><span>Suplier</span></a></li>
                             </ul>
-                        </li>                        
+                        </li>
                         <li><a href="{{ route('blog') }}" title=""><span>Blog</span></a></li>
                         <li><a href="{{ route('hubungi-kami') }}" title=""><span>Hubungi Kami</span></a></li>
                     </ul>
