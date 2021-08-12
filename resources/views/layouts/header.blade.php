@@ -22,7 +22,7 @@
                             <ul class="mb-0 list-unstyled position-absolute">
                                 <li><a href="{{ route('portofolio-tambang') }}" title=""><span>Tambang</span></a></li>
                                 <li><a href="{{ route('portofolio-konstruksi') }}" title=""><span>Konstruksi</span></a></li>
-                                <li><a href="{{ route('portofolio-jalantol') }}" title=""><span>Tambang</span></a></li>
+                                <li><a href="{{ route('portofolio-jalantol') }}" title=""><span>Jalan Tol</span></a></li>
                                 <li><a href="{{ route('portofolio-suplier') }}" title=""><span>Suplier</span></a></li>
                             </ul>
                         </li>

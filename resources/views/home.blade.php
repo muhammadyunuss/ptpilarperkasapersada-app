@@ -54,12 +54,12 @@
 
                 </div>
             </div>
-            
+
         </div><!-- Featured Area Wrap 3 -->
         <div class="view-all text-center w-100">
             <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
         </div><!-- View All -->
-        
+
     </div>
 </section>
 <section>
@@ -78,9 +78,9 @@
                         <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
                             <span class="position-absolute">01</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-1.jpeg" alt="Service Image 1"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-tambang') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-1.jpeg" alt="Service Image 1"></div>
                                 <div class="serv-info2 position-relative w-100">
-                                    <h3 class="mb-0"><a href="services.html" title="">Tambang</a></h3>
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">Tambang</a></h3>
                                     <p class="mb-0">Tambang batu andesit</p>
                                 </div>
                             </div>
@@ -90,9 +90,9 @@
                         <div class="serv-box2-wrap position-relative d-block w-100">
                             <span class="position-absolute">02</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 2"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-konstruksi') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 2"></div>
                                 <div class="serv-info2 position-relative w-100">
-                                    <h3 class="mb-0"><a href="services.html" title="">Konstruksi</a></h3>
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-konstruksi') }}" title="">Konstruksi</a></h3>
                                     <p class="mb-0">Gedung, sipil, mekanikal dan elekterikal</p>
                                 </div>
                             </div>
@@ -102,9 +102,9 @@
                         <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
                             <span class="position-absolute">03</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 3"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-jalantol') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 3"></div>
                                 <div class="serv-info2 position-relative w-100">
-                                    <h3 class="mb-0"><a href="services.html" title="">Jalan Tol</a></h3>
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-jalantol') }}" title="">Jalan Tol</a></h3>
                                     <p class="mb-0">Pembangunan jalan tol</p>
                                 </div>
                             </div>
@@ -114,9 +114,9 @@
                         <div class="serv-box2-wrap position-relative d-block w-100">
                             <span class="position-absolute">04</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/.jpg" alt="Service Image 4"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-suplier') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/.jpg" alt="Service Image 4"></div>
                                 <div class="serv-info2 position-relative w-100">
-                                    <h3 class="mb-0"><a href="services.html" title="">Supplier</a></h3>
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-suplier') }}" title="">Supplier</a></h3>
                                     <p class="mb-0">Alat berat dan material</p>
                                 </div>
                             </div>
