@@ -2,6 +2,7 @@
     <span class="menu-close"><i class="fas fa-times"></i></span>
     <ul class="mb-0 list-unstyled w-100">
         <li><a href="{{ url('/') }}" title=""><span>Beranda</span></a></li>
+        <li><a href="{{ route('service') }}" title=""><span>Bisnis</span></a></li>
         <li class="menu-item-has-children"><a href="javascript:void(0);" title=""><span>Perusahaan</span></a>
             <ul class="mb-0 list-unstyled">
                 <li><a href="{{ route('tentang-perusahaan') }}" title=""><span>Profile Perusahaan</span></a></li>
@@ -9,9 +10,15 @@
                 <li><a href="{{ route('profile-direksi') }}" title=""><span>Profile Direksi</span></a></li>
             </ul>
         </li>
-        <li><a href="{{ route('service') }}" title=""><span>Jasa</span></a></li>
+        <li class="menu-item-has-children"><a href="javascript:void(0);" title=""><span>Portofolio</span></a>
+            <ul class="mb-0 list-unstyled">
+                <li><a href="{{ route('portofolio-tambang') }}" title=""><span>Tambang</span></a></li>
+                <li><a href="{{ route('portofolio-konstruksi') }}" title=""><span>Konstruksi</span></a></li>
+                <li><a href="{{ route('portofolio-jalantol') }}" title=""><span>Tambang</span></a></li>
+                <li><a href="{{ route('portofolio-suplier') }}" title=""><span>Suplier</span></a></li>
+            </ul>
+        </li>
         <li><a href="{{ route('blog') }}" title=""><span>Blog</span></a></li>
-        <li><a href="{{ route('portofolio') }}" title=""><span>Portofolio</span></a></li>
         <li><a href="{{ route('hubungi-kami') }}" title=""><span>Hubungi Kami</span></a></li>
     </ul>
     <div class="scl-links v2 d-flex flex-wrap w-100">

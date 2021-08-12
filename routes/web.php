@@ -35,13 +35,21 @@ Route::get('blog', function () {
     return view('blog');
 })->name('blog');
 
-Route::get('portofolio', function () {
-    return view('portofolio');
-})->name('portofolio');
+Route::get('portofolio-tambang', function () {
+    return view('portofolio-tambang');
+})->name('portofolio-tambang');
 
-Route::get('portofolio2', function () {
-    return view('portofolio2');
-})->name('portofolio2');
+Route::get('portofolio-konstruksi', function () {
+    return view('portofolio-konstruksi');
+})->name('portofolio-konstruksi');
+
+Route::get('portofolio-jalantol', function () {
+    return view('portofolio-jalantol');
+})->name('portofolio-jalantol');
+
+Route::get('portofolio-suplier', function () {
+    return view('portofolio-suplier');
+})->name('portofolio-suplier');
 
 Route::get('hubungi-kami', function () {
     return view('hubungi-kami');

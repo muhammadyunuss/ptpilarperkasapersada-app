@@ -5,40 +5,65 @@
     <div class="w-100 pb-80 position-relative">
         <div class="feat-wrap3 position-relative w-100">
             <div class="feat-caro3">
-            <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-6.jpg);"> </div>
-                    <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
-                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                    </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-A.jpg);"> </div>
+
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-4.png);"> </div>
-                    <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
-                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                    </div>
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-B.jpg);"> </div>
+
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-3.jpg);"></div>
-                    <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
-                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                    </div>
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-C.jpg);"></div>
+
                 </div>
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
-                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-5.jpg);"></div>
-                    <div class="feat-cap3 position-absolute">
-                        <h2 class="mb-0">PT PILARPERKASA PERSADA</h2>
-                        <a class="thm-btn thm-bg d-inline-block position-relative" href="about.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-                    </div>
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-D.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-E.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-F.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-G.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-H.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-I.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-J.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-K.jpg);"></div>
+
+                </div>
+                <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
+                    <div class="feat-img3 position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/resources/feat-img3-L.jpg);"></div>
+
                 </div>
             </div>
+            
         </div><!-- Featured Area Wrap 3 -->
+        <div class="view-all text-center w-100">
+            <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+        </div><!-- View All -->
+        
     </div>
 </section>
 <section>
-    <div class="w-100 pb-50 position-relative">
+    <div class="w-100 pt-70 pb-50 position-relative">
         <img class="img-fluid overlap-btm-shap200 sec-btm-rgt-shp opc-2 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap1.jpg" alt="Sec Shape 1">
         <div class="container">
             <div class="sec-title text-center w-100">
@@ -53,7 +78,7 @@
                         <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
                             <span class="position-absolute">01</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-11.jpeg" alt="Service Image 1"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-1.jpeg" alt="Service Image 1"></div>
                                 <div class="serv-info2 position-relative w-100">
                                     <h3 class="mb-0"><a href="services.html" title="">Tambang</a></h3>
                                     <p class="mb-0">Tambang batu andesit</p>
@@ -65,7 +90,7 @@
                         <div class="serv-box2-wrap position-relative d-block w-100">
                             <span class="position-absolute">02</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-12.jpg" alt="Service Image 2"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 2"></div>
                                 <div class="serv-info2 position-relative w-100">
                                     <h3 class="mb-0"><a href="services.html" title="">Konstruksi</a></h3>
                                     <p class="mb-0">Gedung, sipil, mekanikal dan elekterikal</p>
@@ -77,7 +102,7 @@
                         <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
                             <span class="position-absolute">03</span>
                             <div class="serv-box2 position-relative w-100">
-                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2-13.jpg" alt="Service Image 3"></div>
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="services.html" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 3"></div>
                                 <div class="serv-info2 position-relative w-100">
                                     <h3 class="mb-0"><a href="services.html" title="">Jalan Tol</a></h3>
                                     <p class="mb-0">Pembangunan jalan tol</p>
@@ -116,7 +141,7 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="proj-img2 position-relative w-100">
-                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg1-2.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-7.jpg" alt="Project Image 1"></a>
+                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg1-2.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img-1.jpg" alt="Project Image 1"></a>
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-12 col-lg-5">
@@ -140,12 +165,12 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-12 col-lg-7 order-md-1">
                         <div class="proj-img2 position-relative w-100">
-                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg2-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-8.jpg" alt="Project Image 2"></a>
+                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg2-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img-2.jpg" alt="Project Image 2"></a>
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-12 col-lg-5">
                         <div class="proj-info2 position-relative w-100">
-                            <h3 class="mb-0"><i class="icon-hotel thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Jembatan KBSB Kodim Bojonegoro</a></h3>
+                            <h3 class="mb-0"><i class="icon-hotel thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Jalan Tol Malang - Pandaan</a></h3>
                             <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
                             <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-start w-100">
@@ -164,12 +189,12 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="proj-img2 position-relative w-100">
-                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg3-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img2-10.jpg" alt="Project Image 3"></a>
+                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg3-1.png);"></div><a href="{{ route('portofolio-single') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img-3.jpeg" alt="Project Image 3"></a>
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-12 col-lg-5">
                         <div class="proj-info2 position-relative w-100">
-                            <h3 class="mb-0"><i class="icon-real-estate thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Tol Solo - Kertosono</a></h3>
+                            <h3 class="mb-0"><i class="icon-real-estate thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Konstruksi Rumah Ibu Lilik</a></h3>
                             <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
                             <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
@@ -186,7 +211,7 @@
             </div>
         </div><!-- Projects Wrap 2 -->
         <div class="view-all mt-60 text-center w-100">
-            <a class="thm-btn thm-bg d-inline-block position-relative" href="{{ route('portofolio') }}" title="">Semua Proyek<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
+            <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Semua Proyek<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
         </div><!-- View All -->
     </div>
 </div>
@@ -263,14 +288,14 @@
                     <div class="col-md-6 col-sm-6 col-lg-4">
                         <div class="blog-post-box-wrap position-relative w-100">
                             <div class="blog-post-box w-100">
-                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="{{ route('blog-detail') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img1-1.jpg" alt="Blog Post Image 1"></a></div>
+                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="{{ route('blog-detail') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-1.jpg" alt="Blog Post Image 1"></a></div>
                                 <div class="blog-post-info position-relative w-100">
                                     <a class="thm-bg position-absolute" href="{{ route('blog-detail') }}" title=""><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
                                             <path d="M21 8L0 8" stroke="#1e1e20" />
                                         </svg></a>
                                     <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Aug 02, 2021<b></b></span>
-                                    <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">What materials are popular</a></h3>
+                                    <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">Proyek Renovasi Koarmada 2</a></h3>
                                     <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
                                 </div>
                             </div>
@@ -279,14 +304,14 @@
                     <div class="col-md-6 col-sm-6 col-lg-4">
                         <div class="blog-post-box-wrap position-relative w-100">
                             <div class="blog-post-box w-100">
-                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="{{ route('blog-detail') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img1-2.jpg" alt="Blog Post Image 2"></a></div>
+                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="{{ route('blog-detail') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-2.jpg" alt="Blog Post Image 2"></a></div>
                                 <div class="blog-post-info position-relative w-100">
                                     <a class="thm-bg position-absolute" href="{{ route('blog-detail') }}" title=""><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
                                             <path d="M21 8L0 8" stroke="#1e1e20" />
                                         </svg></a>
                                     <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Jul 04, 2021<b></b></span>
-                                    <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">Library Smart Architecture</a></h3>
+                                    <h3 class="mb-0 text-center"><a href="{{ route('blog-detail') }}" title="">Selamatan untuk memulai Proyek Koarmada 2</a></h3>
                                     <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
                                 </div>
                             </div>
@@ -328,37 +353,32 @@
             <ul class="spnsrs-list justify-content-center align-items-center d-flex flex-wrap mb-0 list-unstyled">
                 <li>
                     <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img1-1.png" alt="Sponsor Image 1"></a>
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-1.png" alt="Sponsor Image 1"></a>
                     </div>
                 </li>
                 <li>
                     <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img2-1.png" alt="Sponsor Image 2"></a>
+                        <a href="javascript:void(0);" title=""><img class="img-fluid pt-5" src="{{ asset('front') }}/assets/images/resources/spnsr-img-2.png" alt="Sponsor Image 2"></a>
                     </div>
                 </li>
                 <li>
                     <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img3-1.png" alt="Sponsor Image 3"></a>
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-3.png" alt="Sponsor Image 3"></a>
                     </div>
                 </li>
                 <li>
                     <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img4-1.png" alt="Sponsor Image 4"></a>
+                        <a href="javascript:void(0);" title=""><img class="img-fluid pt-4" src="{{ asset('front') }}/assets/images/resources/spnsr-img-4.png" alt="Sponsor Image 4"></a>
                     </div>
                 </li>
                 <li>
                     <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img5-1.png" alt="Sponsor Image 5"></a>
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-5.png" alt="Sponsor Image 5"></a>
                     </div>
                 </li>
                 <li>
                     <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img6-1.png" alt="Sponsor Image 6"></a>
-                    </div>
-                </li>
-                <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img7-1.png" alt="Sponsor Image 7"></a>
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-6.jpg" alt="Sponsor Image 6"></a>
                     </div>
                 </li>
             </ul>
@@ -370,3 +390,12 @@
 <script>
 </script>
 @endpush
+
+<style>
+    .prototype {
+        font-family: prototype;
+        font-weight: 400;
+        font-style: normal;
+        transform: scale(1, 1.1);
+    }
+</style>
