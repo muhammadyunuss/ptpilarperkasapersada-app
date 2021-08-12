@@ -59,9 +59,9 @@
                         <h3 class="mb-0">Get in Touch</h3>
                         <p class="mb-0">But who has any right to find fault</p>
                     </div>
-                    <form class="w-100" id="email-form" method="post" action="#">
+                    <form class="w-100" action="mailto:admin@pilarperkasa.co.id" method="post" enctype="text/plain">
                         <div class="response w-100"></div>
-                        <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-user"></i><input class="fname" type="text" name="fname" placeholder="Your Name" required></span>
+                        <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-user"></i><input class="fname" type="text" name="name" placeholder="Your Name" required></span>
                         <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-envelope"></i><input class="email" type="email" name="email" placeholder="Your Email" required></span>
                         <span class="field-box d-block w-100 position-relative"><i class="thm-clr icon-phone"></i><input class="phone" type="tel" name="phone" placeholder="Your Phone" required></span>
                         <span class="field-box d-block w-100 h-500 position-relative"><i class="thm-clr icon-envelope"></i><input class="text" type="text" name="text" placeholder="Your Text Here" required></span>
