@@ -228,7 +228,7 @@
             <div class="why-choose-wrap position-relative w-100">
                 <div class="why-choose-caro">
                     <div class="why-choose-item position-relative d-block w-100">
-                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/why-choose-img1-1.jpg" alt="Why Choose Image 1"></div>
+                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/slogan/01P.png" alt="Why Choose Image 1"></div>
                         <div class="why-choose-info position-absolute">
                             <span>01<i class="icon-labor"></i></span>
                             <h1 class="mb-1 ml-3"><span style="color:#284592" ;>P</span><span style="color:#e14319" ;>erseverence</span></h1>
@@ -236,7 +236,7 @@
                         </div>
                     </div>
                     <div class="why-choose-item position-relative d-block w-100">
-                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/why-choose-img1-2.jpg" alt="Why Choose Image 2"></div>
+                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/slogan/01I.png" alt="Why Choose Image 2"></div>
                         <div class="why-choose-info position-absolute">
                             <span>02<i class="icon-brick"></i></span>
                             <h1 class="mb-1 ml-3"><span style="color:#284592" ;>I</span><span style="color:#e14319" ;>ntegrity</span></h1>
@@ -244,7 +244,7 @@
                         </div>
                     </div>
                     <div class="why-choose-item position-relative d-block w-100">
-                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/why-choose-img1-3.jpg" alt="Why Choose Image 3"></div>
+                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/slogan/01L.png" alt="Why Choose Image 3"></div>
                         <div class="why-choose-info position-absolute">
                             <span>03<i class="icon-male"></i></span>
                             <h1 class="mb-1 ml-3"><span style="color:#284592" ;>L</span><span style="color:#e14319" ;>eadership</span></h1>
@@ -252,7 +252,7 @@
                         </div>
                     </div>
                     <div class="why-choose-item position-relative d-block w-100">
-                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/why-choose-img1-3.jpg" alt="Why Choose Image 3"></div>
+                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/slogan/01A.png" alt="Why Choose Image 3"></div>
                         <div class="why-choose-info position-absolute">
                             <span>03<i class="icon-research"></i></span>
                             <h1 class="mb-1 ml-3"><span style="color:#284592" ;>A</span><span style="color:#e14319" ;>gile</span></h1>
@@ -260,7 +260,7 @@
                         </div>
                     </div>
                     <div class="why-choose-item position-relative d-block w-100">
-                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/why-choose-img1-3.jpg" alt="Why Choose Image 3"></div>
+                        <div class="why-choose-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/slogan/01R.png" alt="Why Choose Image 3"></div>
                         <div class="why-choose-info position-absolute">
                             <span>03<i class="icon-medal"></i></span>
                             <h1 class="mb-1 ml-3"><span style="color:#284592" ;>R</span><span style="color:#e14319" ;>esponsibility</span></h1>
@@ -288,12 +288,8 @@
                     <div class="col-md-6 col-sm-6 col-lg-4">
                         <div class="blog-post-box-wrap position-relative w-100">
                             <div class="blog-post-box w-100">
-                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="{{ route('blog-detail') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-1.jpg" alt="Blog Post Image 1"></a></div>
+                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="https://news.detik.com/berita/d-3240861/tni-al-segera-bangun-fasilitas-pelatihan-prajurit-di-surabaya?utm_source=copy_url&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=news" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-1.jpg" alt="Blog Post Image 1"></a></div>
                                 <div class="blog-post-info position-relative w-100">
-                                    <a class="thm-bg position-absolute" href="{{ route('blog-detail') }}" title=""><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
-                                            <path d="M21 8L0 8" stroke="#1e1e20" />
-                                        </svg></a>
                                     <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Aug 02, 2021<b></b></span>
                                     <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">Proyek Renovasi Koarmada 2</a></h3>
                                     <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
@@ -304,15 +300,11 @@
                     <div class="col-md-6 col-sm-6 col-lg-4">
                         <div class="blog-post-box-wrap position-relative w-100">
                             <div class="blog-post-box w-100">
-                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="{{ route('blog-detail') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-2.jpg" alt="Blog Post Image 2"></a></div>
+                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="https://news.detik.com/berita/d-3240861/tni-al-segera-bangun-fasilitas-pelatihan-prajurit-di-surabaya?utm_source=copy_url&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=news" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-2.jpg" alt="Blog Post Image 2"></a></div>
                                 <div class="blog-post-info position-relative w-100">
-                                    <a class="thm-bg position-absolute" href="{{ route('blog-detail') }}" title=""><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
-                                            <path d="M21 8L0 8" stroke="#1e1e20" />
-                                        </svg></a>
                                     <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Jul 04, 2021<b></b></span>
                                     <h3 class="mb-0 text-center"><a href="{{ route('blog-detail') }}" title="">Selamatan untuk memulai Proyek Koarmada 2</a></h3>
-                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
+                                    <p class="mb-0">Tasyakuran untuk memulai pelaksanaan pekerjaan pembangunan pusat isolasi pasien covid bertekanan negatif di Dinas kesehatan KOARMADA 2 TNI AL</p>
                                 </div>
                             </div>
                         </div>
@@ -320,14 +312,10 @@
                     <div class="col-md-6 col-sm-6 col-lg-4">
                         <div class="blog-post-box-wrap position-relative w-100">
                             <div class="blog-post-box w-100">
-                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="{{ route('blog-detail') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img1-3.jpg" alt="Blog Post Image 3"></a></div>
+                                <div class="blog-post-img position-relative overflow-hidden w-100"><a href="https://news.detik.com/berita/d-3240861/tni-al-segera-bangun-fasilitas-pelatihan-prajurit-di-surabaya?utm_source=copy_url&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=news" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-1.jpg" alt="Blog Post Image 1"></a></div>
                                 <div class="blog-post-info position-relative w-100">
-                                    <a class="thm-bg position-absolute" href="{{ route('blog-detail') }}" title=""><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
-                                            <path d="M21 8L0 8" stroke="#1e1e20" />
-                                        </svg></a>
-                                    <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Jan 15, 2021<b></b></span>
-                                    <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">What is modern Architecture?</a></h3>
+                                    <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Aug 02, 2021<b></b></span>
+                                    <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">Proyek Renovasi Koarmada 2</a></h3>
                                     <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
                                 </div>
                             </div>
@@ -368,6 +356,21 @@
                 </li>
                 <li>
                     <div class="spnsr-box text-center w-100">
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/klien/LOGO LANTAMAL V SURABAYA.png" alt="Sponsor Image 1"></a>
+                    </div>
+                </li>
+                <li>
+                    <div class="spnsr-box text-center w-100">
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-6.jpg" alt="Sponsor Image 6"></a>
+                    </div>
+                </li>
+                <li>
+                    <div class="spnsr-box text-center w-100">
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/klien/logo Diskes AL koarmada 2.png" alt="Sponsor Image 1"></a>
+                    </div>
+                </li>
+                <li>
+                    <div class="spnsr-box text-center w-100">
                         <a href="javascript:void(0);" title=""><img class="img-fluid pt-4" src="{{ asset('front') }}/assets/images/resources/spnsr-img-4.png" alt="Sponsor Image 4"></a>
                     </div>
                 </li>
@@ -378,9 +381,10 @@
                 </li>
                 <li>
                     <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-6.jpg" alt="Sponsor Image 6"></a>
+                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/klien/logo-BSM.jpeg" alt="Sponsor Image 1"></a>
                     </div>
                 </li>
+
             </ul>
         </div><!-- Sponsors Wrap -->
     </div>

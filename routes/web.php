@@ -67,7 +67,10 @@ Route::get('visi-misi', function () {
     return view('visi_misi');
 })->name('visi-misi');
 
-Route::get('/service', [ServiceController::class, 'index'])->name('service');
+Route::get('service', function () {
+    return view('service');
+})->name('service');
+
 Route::get('/kebijakan-k3-pdf', [KebijakanController::class, 'K3KebijakanPDF'])->name('K3KebijakanPDF');
 Route::get('/lihat-kebijakan-k3-pdf', [KebijakanController::class, 'LihatK3KebijakanPDF'])->name('LihatK3KebijakanPDF');
 Route::get('/pengalaman-pekerjaan-pdf', [KebijakanController::class, 'pengalamanPekerjaanPDF'])->name('pengalamanPekerjaanPDF');
