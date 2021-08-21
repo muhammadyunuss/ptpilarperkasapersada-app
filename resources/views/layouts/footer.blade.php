@@ -24,8 +24,8 @@
                         <div class="widget-box w-100">
                             <h3 class="widget-title">Contacts</h3>
                             <ul class="cont-list mb-0 list-unstyled w-100">
-                                <li><i class="thm-clr icon-map-marker-alt"></i>Jl. CIpta Menanggal, Sidoarjo, Jawa Timur, Indonesia</li>
-                                <li><i class="thm-clr icon-phone"></i>+ 62 821 1234 1234</li>
+                                <li><i class="thm-clr icon-map-marker-alt"></i>Sidoarjo, Jawa Timur</li>
+                                <li><i class="thm-clr icon-phone"></i>+ 62 </li>
                                 <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">admin@pilarperkasa.co.id</a></li>
                                 <li><i class="thm-clr icon-clock"></i>Senin - Minggu, 08:00 -  17:00</li>
                             </ul>

@@ -147,14 +147,13 @@
                     <div class="col-md-5 col-sm-12 col-lg-5">
                         <div class="proj-info2 position-relative w-100">
                             <h3 class="mb-0"><i class="icon-construction thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Gedung Dodiklatpur Situbondo</a></h3>
-                            <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
+                            <p class="mb-0">Gedung Dodiklatpur Situbondo</p>
                             <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
-                                    <li>Location: <span>Madrid</span></li>
-                                    <li>Building area: <span>1 300 m2</span></li>
-                                    <li>Deadlines: <span>22 mont h</span></li>
-                                    <li>Price: <span>5 000 000 $</span></li>
+                                    <li>Lokasi: <span>Situbondo</span></li>
+                                    <li>Area  Bangunan: <span>1 300 m2</span></li>
+                                    <li>Tahun: <span>-</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -171,14 +170,13 @@
                     <div class="col-md-5 col-sm-12 col-lg-5">
                         <div class="proj-info2 position-relative w-100">
                             <h3 class="mb-0"><i class="icon-hotel thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Jalan Tol Malang - Pandaan</a></h3>
-                            <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
+                            <p class="mb-0">Jalan Tol Malang - Pandaan</p>
                             <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-start w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
-                                    <li>Location: <span>New York</span></li>
-                                    <li>Building area: <span>650 m2</span></li>
-                                    <li>Deadlines: <span>12 month</span></li>
-                                    <li>Price: <span>1 800 000 $</span></li>
+                                <li>Lokasi: <span>Pandaan</span></li>
+                                    <li>Area  Bangunan: <span>1 300 m2</span></li>
+                                    <li>Tahun: <span>-</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -195,14 +193,13 @@
                     <div class="col-md-5 col-sm-12 col-lg-5">
                         <div class="proj-info2 position-relative w-100">
                             <h3 class="mb-0"><i class="icon-real-estate thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Konstruksi Rumah Ibu Lilik</a></h3>
-                            <p class="mb-0">Duis aute irure dolor pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
+                            <p class="mb-0">Konstruksi Rumah Ibu Lilik</p>
                             <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
-                                    <li>Location: <span>Miami</span></li>
-                                    <li>Building area: <span>196 m2</span></li>
-                                    <li>Deadlines: <span>7 month</span></li>
-                                    <li>Price: <span>900 000 $</span></li>
+                                <li>Lokasi: <span>Sidoarjo</span></li>
+                                    <li>Area  Bangunan: <span>1 300 m2</span></li>
+                                    <li>Tahun: <span>-</span></li>
                                 </ul>
                             </div>
                         </div>

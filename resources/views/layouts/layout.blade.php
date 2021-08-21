@@ -6,7 +6,7 @@
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <link rel="icon" href="{{ asset('front') }}/assets/images/favicon.png" sizes="35x35" type="image/png">
-    <title>PT PILAR PERKASA PERDANA</title>
+    <title>PT PILARPERKASA PERSADA</title>
 
     <link rel="stylesheet" href="{{ asset('front') }}/assets/css/all.min.css">
     <link rel="stylesheet" href="{{ asset('front') }}/assets/css/fontello.css">
