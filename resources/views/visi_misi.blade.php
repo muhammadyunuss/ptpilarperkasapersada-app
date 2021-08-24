@@ -14,7 +14,7 @@
                             <li class="breadcrumb-item active">Visi Misi</li>
                         </ol>
                     </div>
-                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg3.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">VisiMisi</span></div>
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">VisiMisi</span></div>
                 </div>
             </div>
         </div><!-- Page Top Wrap -->
@@ -65,7 +65,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-lg-3">
                         <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="{{ route('K3KebijakanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-1.jpg" alt="Team Image 1"></a></div>
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('K3KebijakanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/pdf.png" alt="Team Image 1"></a></div>
                             <div class="team-info2 position-relative w-100">
                                 <h3 class="mb-0"><a href="team-detail.html" title="">KEBIJAKAN KESELAMATAN DAN KESEHATAN KERJA</a></h3>
                                 <span class="d-block thm-clr">
@@ -77,7 +77,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-lg-3">
                         <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="{{ route('pengalamanPekerjaanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/team-img2-2.jpg" alt="Team Image 2"></a></div>
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('pengalamanPekerjaanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/pdf.png" alt="Team Image 2"></a></div>
                             <div class="team-info2 position-relative w-100">
                                 <h3 class="mb-0"><a href="team-detail.html" title="">Pengalaman <br> Pekerjaan</a></h3>
                                 <span class="d-block thm-clr">

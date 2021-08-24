@@ -17,7 +17,7 @@
                         </ol>
                     </div>
                     <div class="page-title-img position-absolute">
-                        <div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg3.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Direksi</span>
+                        <div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Direksi</span>
                     </div>
                 </div>
             </div>
@@ -31,7 +31,7 @@
             <div class="founder-wrap position-relative w-100">
                 <div class="row">
                     <div class="col-md-5 col-sm-12 col-lg-5">
-                        <div class="founder-img w-100"><img class="img-fluid w-100 pt-20" src="{{ asset('front') }}/assets/images/logo-.png" alt="Founder Image"></div>
+                        <div class="founder-img w-100"><img class="img-fluid w-100 pt-20" src="{{ asset('front') }}/assets/images/logofix-footer.png" alt="Founder Image"></div>
                     </div>
                     <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="founder-desc-wrap w-100">
@@ -66,7 +66,7 @@
             </div><!-- Sec Title -->
             <div class="roadmap-wrap position-relative w-100">
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-1.jpg" alt="Roadmap Image 1"></div>
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
                     <div class="roadmap-info-wrap position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Utama</span>
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-2.jpg" alt="Roadmap Image 2"></div>
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 2"></div>
                     <div class="roadmap-info-wrap position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Operation</span>
@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-1.jpg" alt="Roadmap Image 1"></div>
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
                     <div class="roadmap-info-wrap position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Teknik</span>
@@ -96,7 +96,7 @@
                     </div>
                 </div>
                 <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-2.jpg" alt="Roadmap Image 2"></div>
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 2"></div>
                     <div class="roadmap-info-wrap position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Keuangan</span>
@@ -106,7 +106,7 @@
                     </div>
                 </div>
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-1.jpg" alt="Roadmap Image 1"></div>
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
                     <div class="roadmap-info-wrap position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Pengembangan dan Pemasaran</span>

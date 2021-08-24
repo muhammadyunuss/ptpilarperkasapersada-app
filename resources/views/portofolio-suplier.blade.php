@@ -52,7 +52,7 @@
                     </div>
                     <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="why-choose-tabs-decs-wrap position-relative w-100">
-                            <div class="why-choose-bg position-absolute" style="background-image: url({{ asset('front') }}/assets/images/why-choose-bg.jpg);"></div>
+                            <div class="why-choose-bg position-absolute" style="background-image: url('https://ptbumiindonesia.co.id/userfiles/uploads/company-profile-pt--bumi-indonesia-terbaruhtmlm464e707a.jpg');"></div>
                             <div class="sec-title w-100">
                                 <div class="sec-title-inner d-inline-block">
                                     <span class="d-block thm-clr">Suplier</span>

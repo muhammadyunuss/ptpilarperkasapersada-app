@@ -14,7 +14,7 @@
                             <li class="breadcrumb-item active">Struktur Organisasi</li>
                         </ol>
                     </div>
-                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg3.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">DewanKomisaris</span></div>
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);""></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">DewanKomisaris</span></div>
                 </div>
             </div>
         </div><!-- Page Top Wrap -->
@@ -59,21 +59,21 @@
             </div><!-- Sec Title -->
             <div class="roadmap-wrap position-relative w-100">
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-1.jpg" alt="Roadmap Image 1"></div>
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
                     <div class="roadmap-info-wrap position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris Utama</span>
-                            <h1 class="d-inline-block position-relative">Anton Yulianto,ST.</h1>
+                            <h1 class="d-inline-block position-relative">Anton Yulianto, ST.</h1>
                             <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
                         </div>
                     </div>
                 </div>
                 <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/roadmap-img1-2.jpg" alt="Roadmap Image 2"></div>
+                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 2"></div>
                     <div class="roadmap-info-wrap position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris</span>
-                            <h1 class="d-inline-block position-relative">I Nyoman Timur Jaya Ambara,SH.</h1>
+                            <h1 class="d-inline-block position-relative">I Nyoman Timur Jaya Ambara, SH.</h1>
                             <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
                         </div>
                     </div>

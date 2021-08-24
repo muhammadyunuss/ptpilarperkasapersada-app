@@ -17,7 +17,7 @@
                         </ol>
                     </div>
                     <div class="page-title-img position-absolute">
-                        <div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Bisnis</span>
+                        <div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Bisnis</span>
                     </div>
                 </div>
             </div>
@@ -156,8 +156,7 @@
                         <div class="tab-content">
                             <div class="tab-pane fade show active" id="serv-tab1">
                                 <div class="serv-tab-carousel owl-carousel w-100" id="serv-tab-caro1">
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img1-1.jpg" alt="Service Tab Image 1"></div>
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img1-2.jpg" alt="Service Tab Image 2"></div>
+                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="https://mmc.tirto.id/image/otf/1024x535/2021/02/04/ilustrasi-pertambangan-istock1_ratio-16x9.jpg" alt="Service Tab Image 1"></div>
                                 </div>
                                 <div class="customBtns position-absolute">
                                     <div class="customNextBtn"><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -172,8 +171,7 @@
                             </div>
                             <div class="tab-pane fade" id="serv-tab2">
                                 <div class="serv-tab-carousel owl-carousel w-100" id="serv-tab-caro2">
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img2-1.jpg" alt="Service Tab Image 1"></div>
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img2-2.jpg" alt="Service Tab Image 2"></div>
+                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="https://images.unsplash.com/photo-1625722662233-297060231b85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Service Tab Image 1"></div>
                                 </div>
                                 <div class="customBtns position-absolute">
                                     <div class="customNextBtn"><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -188,8 +186,7 @@
                             </div>
                             <div class="tab-pane fade" id="serv-tab3">
                                 <div class="serv-tab-carousel owl-carousel w-100" id="serv-tab-caro3">
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img3-1.jpg" alt="Service Tab Image 1"></div>
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img3-2.jpg" alt="Service Tab Image 2"></div>
+                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="https://images.unsplash.com/photo-1601241736140-09172cd13fc6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=713&q=80" alt="Service Tab Image 1"></div>
                                 </div>
                                 <div class="customBtns position-absolute">
                                     <div class="customNextBtn"><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -204,8 +201,7 @@
                             </div>
                             <div class="tab-pane fade" id="serv-tab4">
                                 <div class="serv-tab-carousel owl-carousel w-100" id="serv-tab-caro4">
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img4-1.jpg" alt="Service Tab Image 1"></div>
-                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-tab-img4-2.jpg" alt="Service Tab Image 2"></div>
+                                    <div class="serv-tab-img w-100"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/bisnis/image3.jpg" alt="Service Tab Image 1"></div>
                                 </div>
                                 <div class="customBtns position-absolute">
                                     <div class="customNextBtn"><svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">

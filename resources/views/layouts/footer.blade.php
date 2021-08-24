@@ -13,16 +13,12 @@
                                 <h1 class="mb-0"><a href="index.html" title="Home"><img style="width:50%" class="img-fluid" src="{{ asset('front') }}/assets/images/logofix-footer.png" srcset="{{ asset('front') }}/assets/images/logofix-footer.png" alt="Logo 2"></a></h1>
                             </div><!-- Logo -->
                             <p class="mb-0">PT. Pilarperkasa Persada is a construction company based in (City), Indonesia. Established in (Year), the company started to expand its business as general contractor engaging in building construction and property</p>
-                            <div class="scl-links d-flex flex-wrap w-100">
-                                <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6 col-lg-3">
                         <div class="widget-box w-100">
-                            <h3 class="widget-title">Contacts</h3>
+                            <h3 class="widget-title">Kontak</h3>
                             <ul class="cont-list mb-0 list-unstyled w-100">
                                 <li><i class="thm-clr icon-map-marker-alt"></i>Sidoarjo, Jawa Timur</li>
                                 <li><i class="thm-clr icon-phone"></i>+ 62 </li>
@@ -33,7 +29,23 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-lg-3">
                         <div class="widget-box w-100">
-                            <h3 class="widget-title">Our Portfolio</h3>
+                            <h3 class="widget-title">Sosial Media</h3>
+                            <ul class="mb-0 list-unstyled w-100">
+                                <li>
+                                    <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"> www.facebook.com/pilarperkasa</i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"> pilarperkasa</i></a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i> pilarperkasa</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-3">
+                        <div class="widget-box w-100">
+                            <h3 class="widget-title">Portofolio Kami</h3>
                             <ul class="mb-0 list-unstyled w-100">
                                 <li><a href="portfolio-single.html" title="">Tambang</a></li>
                                 <li><a href="portfolio-single.html" title="">Konstruksi</a></li>
@@ -42,7 +54,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 col-lg-3">
+                    {{-- <div class="col-md-6 col-sm-6 col-lg-3">
                         <div class="widget-box w-100">
                             <h3 class="widget-title">Our Gallery</h3>
                             <div class="widget-gallery w-100">
@@ -59,7 +71,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div><!-- Footer Data -->
         </div>

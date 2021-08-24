@@ -27,8 +27,8 @@
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Tambang</span>
-                    <h2 class="mb-0">Tambang gallery<i></i></h2>
+                    <span class="d-block thm-clr">Kontruksi</span>
+                    <h2 class="mb-0">Kontruksi gallery<i></i></h2>
                 </div>
             </div>
             <div class="port-wrap2 position-relative w-100">
