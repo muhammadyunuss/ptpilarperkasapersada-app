@@ -66,8 +66,7 @@
             </div><!-- Sec Title -->
             <div class="roadmap-wrap position-relative w-100">
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
-                    <div class="roadmap-info-wrap position-relative">
+                    <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Utama</span>
                             <h1 class="d-inline-block position-relative">Teguh Irawan,ST</h1>
@@ -75,9 +74,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 2"></div>
-                    <div class="roadmap-info-wrap position-relative">
+                <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
+                    <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Operation</span>
                             <h1 class="d-inline-block position-relative">Hiksa Indra Gunawan,ST.</h1>
@@ -86,8 +84,7 @@
                     </div>
                 </div>
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
-                    <div class="roadmap-info-wrap position-relative">
+                    <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Teknik</span>
                             <h1 class="d-inline-block position-relative">Hasyim Mustofa</h1>
@@ -95,9 +92,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 2"></div>
-                    <div class="roadmap-info-wrap position-relative">
+                <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
+                    <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Keuangan</span>
                             <h1 class="d-inline-block position-relative">Kesit. J. Triyono </h1>
@@ -106,8 +102,7 @@
                     </div>
                 </div>
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
-                    <div class="roadmap-info-wrap position-relative">
+                    <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Pengembangan dan Pemasaran</span>
                             <h1 class="d-inline-block position-relative">Maicon Adri</h1>

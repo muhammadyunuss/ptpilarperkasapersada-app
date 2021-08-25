@@ -59,8 +59,7 @@
             </div><!-- Sec Title -->
             <div class="roadmap-wrap position-relative w-100">
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 1"></div>
-                    <div class="roadmap-info-wrap position-relative">
+                    <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris Utama</span>
                             <h1 class="d-inline-block position-relative">Anton Yulianto, ST.</h1>
@@ -68,9 +67,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="roadmap-box position-relative rev d-flex flex-wrap align-items-center w-100">
-                    <div class="roadmap-img position-relative"><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/hardhelmet.png" alt="Roadmap Image 2"></div>
-                    <div class="roadmap-info-wrap position-relative">
+                <div class="roadmap-box position-relative  d-flex flex-wrap align-items-center w-100">
+                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Komisaris</span>
                             <h1 class="d-inline-block position-relative">I Nyoman Timur Jaya Ambara, SH.</h1>

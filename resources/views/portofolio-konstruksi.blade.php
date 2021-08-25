@@ -27,8 +27,8 @@
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Kontruksi</span>
-                    <h2 class="mb-0">Kontruksi gallery<i></i></h2>
+                    <span class="d-block thm-clr">Konstruksi</span>
+                    <h2 class="mb-0">Konstruksi gallery<i></i></h2>
                 </div>
             </div>
             <div class="port-wrap2 position-relative w-100">
@@ -58,7 +58,7 @@
                                 <div class="port-cover-box text-center position-relative d-flex flex-wrap align-items-center justify-content-center w-100">
                                     <div class="port-cover-info position-relative d-inline-block">
                                         <i class="thm-clr icon-pictures-folder"></i>
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Gallery</a></h3>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Konstruksi Gallery</a></h3>
                                     </div>
                                 </div>
                             </div>

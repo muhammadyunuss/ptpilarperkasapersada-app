@@ -289,7 +289,7 @@
                                 <div class="blog-post-info position-relative w-100">
                                     <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Aug 02, 2021<b></b></span>
                                     <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">Proyek Renovasi Koarmada 2</a></h3>
-                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
+                                    <p class="mb-0">Tasyakuran untuk memulai pelaksanaan pekerjaan pembangunan pusat isolasi pasien covid bertekanan negatif di Dinas kesehatan KOARMADA 2 TNI AL</p>
                                 </div>
                             </div>
                         </div>
@@ -313,7 +313,7 @@
                                 <div class="blog-post-info position-relative w-100">
                                     <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Aug 02, 2021<b></b></span>
                                     <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">Proyek Renovasi Koarmada 2</a></h3>
-                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
+                                    <p class="mb-0">Tasyakuran untuk memulai pelaksanaan pekerjaan pembangunan pusat isolasi pasien covid bertekanan negatif di Dinas kesehatan KOARMADA 2 TNI AL</p>
                                 </div>
                             </div>
                         </div>
