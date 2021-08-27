@@ -8,13 +8,15 @@
                 <div class="page-top-inner d-flex flex-wrap align-items-center position-relative w-100">
                     <div class="page-title-info position-relative">
                         <i class="position-absolute"><svg viewBox="0 0 359 354" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M358.5 351H323V300.316L250.863 264.339V331.541H278.904V170.438L201.566 91.0182L200.661 327.921L223.727 351L224.179 71.1066L166.063 3V142.381L126.489 156.862L149.781 267.507L171.49 289.455V212.75H115.635L80.3576 331.541H171.49V306.651H34V351H0" stroke="#f1f1f1" stroke-width="2"/></svg></i>
-                        <h1 class="mb-0">Hubungi Kami</h1>
+                        <h1 class="mb-0 thm-clr">Hubungi Kami</h1>
                         <ol class="breadcrumb mb-0 list-unstyled">
                             <li class="breadcrumb-item"><a href="index.html" title=""><i class="icon-home"></i>Home</a></li>
                             <li class="breadcrumb-item active">Pilarperkasa Persada</li>
                         </ol>
                     </div>
                    <!-- <div class="page-title-img position-absolute"><iframe class="page-title-img-inner cont-map d-block w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193310.17249480143!2d-74.09645863243038!3d40.795632810892606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25907eddf79fb%3A0xed011b43b592fa2c!2s120%20Park%20Ave%2C%20New%20York%2C%20NY%2010017%2C%20USA!5e0!3m2!1sen!2s!4v1610634111327!5m2!1sen!2s"></iframe><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">PilarperkasaPersada</span></div> -->
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Blog</span></div>
+               
                 </div>
             </div>
         </div><!-- Page Top Wrap -->

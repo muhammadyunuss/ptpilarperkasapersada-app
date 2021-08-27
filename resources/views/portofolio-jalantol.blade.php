@@ -15,7 +15,7 @@
                             <li class="breadcrumb-item active">Portfolio</li>
                         </ol>
                     </div>
-                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Portofolio</span></div>
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Portofolio</span></div>
                 </div>
             </div>
         </div><!-- Page Top Wrap -->
@@ -27,7 +27,7 @@
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
-                    <span class="d-block thm-clr">Tambang</span>
+                    <span class="d-block thm-clr">Jalan Tol</span>
                     <h2 class="mb-0">Jalan Tol gallery<i></i></h2>
                 </div>
             </div>
@@ -37,8 +37,8 @@
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image21.jpg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN-MALANG (PAMAL)</a></h3>
-                                <span class="d-block position-relative">Architecture</span>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                <span class="d-block position-relative">Jalan Tol</span>
                             </div>
                         </div>
                     </div>
@@ -48,8 +48,8 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image20.jpg" alt="Portfolio Image 2">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN-MALANG (PAMAL)</a></h3>
-                                        <span class="d-block position-relative">Architecture</span>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                        <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
                             </div>
@@ -65,8 +65,8 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image22.jpg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN-MALANG (PAMAL)</a></h3>
-                                        <span class="d-block position-relative">Architecture</span>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                        <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
                             </div>
@@ -76,8 +76,8 @@
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image24.jpg" alt="Portfolio Image 8">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO-KERTOSONO (SOKER)</a></h3>
-                                <span class="d-block position-relative">Interior</span>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO - KERTOSONO (SOKER)</a></h3>
+                                <span class="d-block position-relative">Jalan Tol</span>
                             </div>
                         </div>
                     </div>
@@ -87,8 +87,8 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image23.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO-KERTOSONO (SOKER)</a></h3>
-                                        <span class="d-block position-relative">Interior</span>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO - KERTOSONO (SOKER)</a></h3>
+                                        <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
                             </div>
@@ -96,8 +96,8 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image25.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO-KERTOSONO (SOKER)</a></h3>
-                                        <span class="d-block position-relative">Interior</span>
+                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                        <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
                             </div>

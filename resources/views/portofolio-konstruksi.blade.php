@@ -15,7 +15,7 @@
                             <li class="breadcrumb-item active">Portfolio</li>
                         </ol>
                     </div>
-                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Portofolio</span></div>
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Portofolio</span></div>
                 </div>
             </div>
         </div><!-- Page Top Wrap -->
@@ -36,10 +36,10 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-lg-5">
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image5.jpg" alt="Portfolio Image 1">
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image9.jpg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
-                                <span class="d-block position-relative">Interior</span>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung R 81 Koarmada II</a></h3>
+                                <span class="d-block position-relative">Konstruksi</span>
                             </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image4.jpg" alt="Portfolio Image 2">
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
-                                        <span class="d-block position-relative">Interior</span>
+                                        <span class="d-block position-relative">Konstruksi</span>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image6.jpg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
                                         <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Dodiklatpur Situbondo</a></h3>
-                                        <span class="d-block position-relative">Architecture</span>
+                                        <span class="d-block position-relative">Konstruksi</span>
                                     </div>
                                 </div>
                             </div>
@@ -77,8 +77,8 @@
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image7.jpeg" alt="Portfolio Image 4">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
-                                <span class="d-block position-relative">Architecture</span>
+                                <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Rumah Tinggal Ibu Lilik</a></h3>
+                                <span class="d-block position-relative">Konstruksi</span>
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image8.jpg" alt="Portfolio Image 5">
                             <div class="port-info2 position-absolute">
                                 <h3 class="mb-0"><a href="portfolio-single.html" title="">Gedung Laboratorium Darah RS DKT Jember</a></h3>
-                                <span class="d-block position-relative">Interior</span>
+                                <span class="d-block position-relative">Konstruksi</span>
                             </div>
                         </div>
                     </div>

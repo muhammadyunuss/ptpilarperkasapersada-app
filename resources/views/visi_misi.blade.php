@@ -14,14 +14,14 @@
                             <li class="breadcrumb-item active">Visi Misi</li>
                         </ol>
                     </div>
-                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-1.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">VisiMisi</span></div>
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">VisiMisi</span></div>
                 </div>
             </div>
         </div><!-- Page Top Wrap -->
     </div>
 </section>
 <section>
-    <div class="w-100 pt-90 pb-120 position-relative">
+    <div class="w-100 pt-90 pb-50 position-relative">
         <img class="img-fluid overlap-btm-shap100 sec-btm-lft-shp opc-3 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap6.jpg" alt="Sec Shape 6">
         <div class="container">
             <div class="founder-wrap position-relative w-100">
@@ -50,7 +50,7 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-50 pb-130 position-relative">
+    <div class="w-100 pt-10 pb-130 position-relative">
         <img class="img-fluid overlap-tp-shap50 sec-tp-rgt-shp opc-4 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap7.jpg" alt="Sec Shape 7">
         <div class="container">
             <div class="sec-title text-center w-100">
