@@ -65,7 +65,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-lg-3">
                         <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="{{ route('K3KebijakanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/pdf.png" alt="Team Image 1"></a></div>
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('K3KebijakanPDF') }}" title=""><img class="img-fluid w-50" src="{{ asset('front') }}/assets/images/resources/pdf.png" alt="Team Image 1"></a></div>
                             <div class="team-info2 position-relative w-100">
                                 <h3 class="mb-0"><a href="team-detail.html" title="">KEBIJAKAN KESELAMATAN DAN KESEHATAN KERJA</a></h3>
                                 <span class="d-block thm-clr">
@@ -77,7 +77,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4 col-lg-3">
                         <div class="team-box2 w-100">
-                            <div class="team-img2 position-relative w-100"><a href="{{ route('pengalamanPekerjaanPDF') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/pdf.png" alt="Team Image 2"></a></div>
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('pengalamanPekerjaanPDF') }}" title=""><img class="img-fluid w-50" src="{{ asset('front') }}/assets/images/resources/pdf.png" alt="Team Image 2"></a></div>
                             <div class="team-info2 position-relative w-100">
                                 <h3 class="mb-0"><a href="team-detail.html" title="">Pengalaman <br> Pekerjaan</a></h3>
                                 <span class="d-block thm-clr">

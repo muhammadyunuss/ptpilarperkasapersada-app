@@ -30,7 +30,7 @@
 
     @yield('content')
 
-    @include('layouts.footer')
+    @include('layouts._footer')
 
 </div>
 <!-- ./wrapper -->

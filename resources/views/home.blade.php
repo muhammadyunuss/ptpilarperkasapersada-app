@@ -3,6 +3,7 @@
 @section('content')
 <section>
     <div class="w-100 pb-80 position-relative">
+
         <div class="feat-wrap3 position-relative w-100">
             <div class="feat-caro3">
                 <div class="feat-item3 text-center overflow-hidden position-relative d-block w-100">
@@ -54,16 +55,21 @@
 
                 </div>
             </div>
-
         </div><!-- Featured Area Wrap 3 -->
-        <div class="view-all text-center w-100">
-            <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-        </div><!-- View All -->
-
     </div>
 </section>
 <section>
     <div class="w-100 pt-70 pb-50 position-relative">
+        <svg class="sec-tp-lft-shp opc-6 stroke-clr position-absolute overlap-tp-shap10" width="358" height="721" viewBox="0 0 358 721" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g>
+                <path d="M356.475 355.943L239.925 93.594L64.2729 93.594L180.823 355.943L356.475 355.943Z" stroke="#000000"></path>
+                <path d="M-248.231 652.782L-131.68 390.433L43.9714 390.433L-72.579 652.782L-248.231 652.782Z" stroke="#000000"></path>
+                <path d="M199.647 262.849L83.0971 0.49999L-92.5547 0.499974L23.9957 262.849L199.647 262.849Z" stroke="#000000"></path>
+                <path d="M-92.5555 559.688L23.9949 297.339L199.647 297.339L83.0963 559.688L-92.5555 559.688Z" stroke="#000000"></path>
+                <path d="M123.64 423.661L7.08952 161.312L-168.562 161.312L-52.0119 423.661L123.64 423.661Z" stroke="#000000"></path>
+                <path d="M-15.3953 720.5L101.155 458.151L276.807 458.151L160.256 720.5L-15.3953 720.5Z" stroke="#000000"></path>
+            </g>
+        </svg>
         <img class="img-fluid overlap-btm-shap200 sec-btm-rgt-shp opc-2 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap1.jpg" alt="Sec Shape 1">
         <div class="container">
             <div class="sec-title text-center w-100">
@@ -125,9 +131,29 @@
                 </div>
             </div><!-- Services Wrap 2 -->
         </div>
+        <svg class="sec-btm-rgt-shp overlap-btmshap150 opc-6 stroke-clr position-absolute" width="444" height="721" viewBox="0 0 444 721" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g>
+                <path d="M0.769252 365.057L117.32 627.406H292.971L176.421 365.057H0.769252Z" stroke="#000000"></path>
+                <path d="M605.475 68.2185L488.925 330.567L313.273 330.567L429.823 68.2185H605.475Z" stroke="#000000"></path>
+                <path d="M157.597 458.151L274.147 720.5H449.799L333.249 458.151H157.597Z" stroke="#000000"></path>
+                <path d="M449.8 161.312L333.249 423.661L157.598 423.661L274.148 161.312H449.8Z" stroke="#000000"></path>
+                <path d="M233.605 297.339L350.155 559.688H525.807L409.256 297.339H233.605Z" stroke="#000000"></path>
+                <path d="M372.64 0.499969L256.089 262.849L80.4375 262.849L196.988 0.499969H372.64Z" stroke="#000000"></path>
+            </g>
+        </svg>
     </div>
 </section>
 <div class="w-100 pt-50 pb-130 position-relative">
+    <svg class="sec-btm-rgt-shp overlap-btmshap150 opc-6 stroke-clr position-absolute" width="444" height="721" viewBox="0 0 444 721" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g>
+            <path d="M0.769252 365.057L117.32 627.406H292.971L176.421 365.057H0.769252Z" stroke="#000000"></path>
+            <path d="M605.475 68.2185L488.925 330.567L313.273 330.567L429.823 68.2185H605.475Z" stroke="#000000"></path>
+            <path d="M157.597 458.151L274.147 720.5H449.799L333.249 458.151H157.597Z" stroke="#000000"></path>
+            <path d="M449.8 161.312L333.249 423.661L157.598 423.661L274.148 161.312H449.8Z" stroke="#000000"></path>
+            <path d="M233.605 297.339L350.155 559.688H525.807L409.256 297.339H233.605Z" stroke="#000000"></path>
+            <path d="M372.64 0.499969L256.089 262.849L80.4375 262.849L196.988 0.499969H372.64Z" stroke="#000000"></path>
+        </g>
+    </svg>
     <img class="img-fluid sec-btm-lft-shp opc-4 position-absolute" src="{{ asset('front') }}/assets/images/sec-shap2.jpg" alt="Sec Shape 2">
     <div class="container">
         <div class="sec-title text-center w-100">
@@ -148,12 +174,12 @@
                         <div class="proj-info2 position-relative w-100">
                             <h3 class="mb-0"><i class="icon-construction thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Gedung Dodiklatpur Situbondo</a></h3>
                             <p class="mb-0">Gedung Dodiklatpur Situbondo</p>
-                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
+                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title=""></a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
                                     <li>Lokasi: <span>Situbondo</span></li>
-                                    <li>Area  Bangunan: <span>1 300 m2</span></li>
-                                    <li>Tahun: <span>-</span></li>
+                                    <li>Tahun: <span>2020</span></li>
+                                    <li>Client: <span>-</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -171,12 +197,12 @@
                         <div class="proj-info2 position-relative w-100">
                             <h3 class="mb-0"><i class="icon-hotel thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Jalan Tol Malang - Pandaan</a></h3>
                             <p class="mb-0">Jalan Tol Malang - Pandaan</p>
-                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
+                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title=""></a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-start w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
-                                <li>Lokasi: <span>Pandaan</span></li>
-                                    <li>Area  Bangunan: <span>1 300 m2</span></li>
-                                    <li>Tahun: <span>-</span></li>
+                                    <li>Lokasi: <span>Pandaan</span></li>
+                                    <li>Tahun: <span>2020</span></li>
+                                    <li>Client: <span>-</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -194,12 +220,12 @@
                         <div class="proj-info2 position-relative w-100">
                             <h3 class="mb-0"><i class="icon-real-estate thm-clr"></i><a href="{{ route('portofolio-single') }}" title="">Konstruksi Rumah Ibu Lilik</a></h3>
                             <p class="mb-0">Konstruksi Rumah Ibu Lilik</p>
-                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title="">Lebih Lanjut</a>
+                            <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title=""></a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
-                                <li>Lokasi: <span>Sidoarjo</span></li>
-                                    <li>Area  Bangunan: <span>1 300 m2</span></li>
-                                    <li>Tahun: <span>-</span></li>
+                                    <li>Lokasi: <span>Sidoarjo</span></li>
+                                    <li>Tahun: <span>2020</span></li>
+                                    <li>Client: <span>Rumah Ibu Lilik</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -207,14 +233,22 @@
                 </div>
             </div>
         </div><!-- Projects Wrap 2 -->
-        <div class="view-all mt-60 text-center w-100">
-            <a class="thm-btn thm-bg d-inline-block position-relative" href="javascript:void(0);" title="">Semua Proyek<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
-        </div><!-- View All -->
     </div>
 </div>
 </section>
 <section>
     <div class="w-100 pb-110 position-relative">
+        <img class="img-fluid sec-btm-lft-shp opc-4 position-absolute" src="http://127.0.0.1:8000/front/assets/images/sec-shap2.jpg" alt="Sec Shape 2">
+        <svg class="sec-tp-lft-shp opc-6 stroke-clr position-absolute overlap-tp-shap10" width="358" height="721" viewBox="0 0 358 721" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g>
+                <path d="M356.475 355.943L239.925 93.594L64.2729 93.594L180.823 355.943L356.475 355.943Z" stroke="#000000"></path>
+                <path d="M-248.231 652.782L-131.68 390.433L43.9714 390.433L-72.579 652.782L-248.231 652.782Z" stroke="#000000"></path>
+                <path d="M199.647 262.849L83.0971 0.49999L-92.5547 0.499974L23.9957 262.849L199.647 262.849Z" stroke="#000000"></path>
+                <path d="M-92.5555 559.688L23.9949 297.339L199.647 297.339L83.0963 559.688L-92.5555 559.688Z" stroke="#000000"></path>
+                <path d="M123.64 423.661L7.08952 161.312L-168.562 161.312L-52.0119 423.661L123.64 423.661Z" stroke="#000000"></path>
+                <path d="M-15.3953 720.5L101.155 458.151L276.807 458.151L160.256 720.5L-15.3953 720.5Z" stroke="#000000"></path>
+            </g>
+        </svg>
         <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
@@ -335,50 +369,50 @@
                     <h2 class="mb-0">Siapa saja klien kita<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
-            <ul class="spnsrs-list justify-content-center align-items-center d-flex flex-wrap mb-0 list-unstyled">
+            <ul class="spnsrs-list justify-content-center align-items-center d-flex flex-wrap list-unstyled">
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-1.png" alt="Sponsor Image 1"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-1.png" alt="Sponsor Image 1"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid pt-5" src="{{ asset('front') }}/assets/images/resources/spnsr-img-2.png" alt="Sponsor Image 2"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid pt-5" src="{{ asset('front') }}/assets/images/resources/spnsr-img-2.png" alt="Sponsor Image 2"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-3.png" alt="Sponsor Image 3"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-3.png" alt="Sponsor Image 3"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/klien/LOGO LANTAMAL V SURABAYA.png" alt="Sponsor Image 1"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid" src="{{ asset('front') }}/assets/images/klien/LOGO LANTAMAL V SURABAYA.png" alt="Sponsor Image 1"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-6.jpg" alt="Sponsor Image 6"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-6.jpg" alt="Sponsor Image 6"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/klien/logo Diskes AL koarmada 2.png" alt="Sponsor Image 1"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid" src="{{ asset('front') }}/assets/images/klien/logo Diskes AL koarmada 2.png" alt="Sponsor Image 1"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid pt-4" src="{{ asset('front') }}/assets/images/resources/spnsr-img-4.png" alt="Sponsor Image 4"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid pt-4" src="{{ asset('front') }}/assets/images/resources/spnsr-img-4.png" alt="Sponsor Image 4"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-5.png" alt="Sponsor Image 5"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80" class="img-fluid" src="{{ asset('front') }}/assets/images/resources/spnsr-img-5.png" alt="Sponsor Image 5"></a>
                     </div>
                 </li>
                 <li>
-                    <div class="spnsr-box text-center w-100">
-                        <a href="javascript:void(0);" title=""><img class="img-fluid" src="{{ asset('front') }}/assets/images/klien/logo-BSM.jpeg" alt="Sponsor Image 1"></a>
+                    <div class="text-center w-100">
+                        <a href="javascript:void(0);" title=""><img width="80" height="80"class="img-fluid" src="{{ asset('front') }}/assets/images/klien/logo-BSM.jpeg" alt="Sponsor Image 1"></a>
                     </div>
                 </li>
 

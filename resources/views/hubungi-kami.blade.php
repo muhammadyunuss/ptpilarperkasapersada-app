@@ -16,7 +16,7 @@
                     </div>
                    <!-- <div class="page-title-img position-absolute"><iframe class="page-title-img-inner cont-map d-block w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193310.17249480143!2d-74.09645863243038!3d40.795632810892606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25907eddf79fb%3A0xed011b43b592fa2c!2s120%20Park%20Ave%2C%20New%20York%2C%20NY%2010017%2C%20USA!5e0!3m2!1sen!2s!4v1610634111327!5m2!1sen!2s"></iframe><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">PilarperkasaPersada</span></div> -->
                     <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Blog</span></div>
-               
+
                 </div>
             </div>
         </div><!-- Page Top Wrap -->
@@ -41,8 +41,8 @@
                         <div class="cont-info-box-wrap position-relative w-100">
                                 <ul class="cont-info-list mb-0 list-unstyled w-100">
                                     <li><i class="thm-clr icon-map-marker-alt"></i>Sidoarjo, Jawa Timur</li>
-                                    <li><i class="thm-clr icon-phone"></i>+ 62</li>
-                                    <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">admin@pilarperkasa.co.id</a></li>
+                                    <li><i class="thm-clr icon-phone"></i>+62 319 9690 633</li>
+                                    <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">pilarperkasapersada@gmail.com</a></li>
                                     <li><i class="thm-clr icon-clock"></i>Senin - Minggu, 08:00 -  17:00</li>
                                 </ul>
                         </div>

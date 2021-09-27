@@ -7,13 +7,11 @@
                         <path d="M8 7L8 28" stroke="#1E1E20" />
                     </svg></a>
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 col-lg-3">
-                        <div class="widget-box w-100">
+                    <div class="col-md-6 col-sm-6 col-lg-3 mt-5">
+                        <div class="widget-box w-100 mt-5">
                             <div class="logo">
                                 <h1 class="mb-0"><a href="index.html" title="Home"><img style="width:50%" class="img-fluid" src="{{ asset('front') }}/assets/images/logofix-footer.png" srcset="{{ asset('front') }}/assets/images/logofix-footer.png" alt="Logo 2"></a></h1>
                             </div><!-- Logo -->
-                            <p class="mb-0">PT. Pilarperkasa Persada is a construction company based in (City), Indonesia. Established in (Year), the company started to expand its business as general contractor engaging in building construction and property</p>
-
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6 col-lg-3">
@@ -21,8 +19,8 @@
                             <h3 class="widget-title">Kontak</h3>
                             <ul class="cont-list mb-0 list-unstyled w-100">
                                 <li><i class="thm-clr icon-map-marker-alt"></i>Sidoarjo, Jawa Timur</li>
-                                <li><i class="thm-clr icon-phone"></i>+ 62 </li>
-                                <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">admin@pilarperkasa.co.id</a></li>
+                                <li><i class="thm-clr icon-phone"></i>+62 319 9690 633 </li>
+                                <li><i class="thm-clr icon-envelope"></i><a href="mailto:inspire@mail.com" title="">pilarperkasapersada@gmail.com</a></li>
                                 <li><i class="thm-clr icon-clock"></i>Senin - Minggu, 08:00 -  17:00</li>
                             </ul>
                         </div>
@@ -54,24 +52,6 @@
                             </ul>
                         </div>
                     </div>
-                    {{-- <div class="col-md-6 col-sm-6 col-lg-3">
-                        <div class="widget-box w-100">
-                            <h3 class="widget-title">Our Gallery</h3>
-                            <div class="widget-gallery w-100">
-                                <div class="row mrg5">
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-1.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-1.jpg" alt="Widget Gallery Image 1"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-2.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-2.jpg" alt="Widget Gallery Image 2"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-3.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-3.jpg" alt="Widget Gallery Image 3"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-4.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-4.jpg" alt="Widget Gallery Image 4"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-5.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-5.jpg" alt="Widget Gallery Image 5"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-6.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-6.jpg" alt="Widget Gallery Image 6"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-7.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-7.jpg" alt="Widget Gallery Image 7"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-8.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-8.jpg" alt="Widget Gallery Image 8"></a></div>
-                                    <div class="col-md-4 col-sm-4 col-lg-4"><a class="d-block overflow-hidden position-relative w-100 mb-05" href="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-9.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/wdgt-gal-img1-9.jpg" alt="Widget Gallery Image 9"></a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> --}}
                 </div>
             </div><!-- Footer Data -->
         </div>

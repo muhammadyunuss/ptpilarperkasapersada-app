@@ -11,7 +11,7 @@
                         <i class="position-absolute"><svg viewBox="0 0 359 354" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M358.5 351H323V300.316L250.863 264.339V331.541H278.904V170.438L201.566 91.0182L200.661 327.921L223.727 351L224.179 71.1066L166.063 3V142.381L126.489 156.862L149.781 267.507L171.49 289.455V212.75H115.635L80.3576 331.541H171.49V306.651H34V351H0" stroke="#f1f1f1" stroke-width="2"/></svg></i>
                         <h1 class="mb-0 thm-clr">Portfolio</h1>
                         <ol class="breadcrumb mb-0 list-unstyled">
-                            <li class="breadcrumb-item"><a href="index.html" title=""><i class="icon-home"></i>Home</a></li>
+                            <li class="breadcrumb-item"><a href="#" title=""><i class="icon-home"></i>Home</a></li>
                             <li class="breadcrumb-item active">Portfolio</li>
                         </ol>
                     </div>
@@ -37,7 +37,7 @@
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image21.jpg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                <h3 class="mb-0">TOL PANDAAN - MALANG (PAMAL)</h3>
                                 <span class="d-block position-relative">Jalan Tol</span>
                             </div>
                         </div>
@@ -48,7 +48,7 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image20.jpg" alt="Portfolio Image 2">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                        <h3 class="mb-0">TOL PANDAAN - MALANG (PAMAL)</h3>
                                         <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
@@ -57,7 +57,7 @@
                                 <div class="port-cover-box text-center position-relative d-flex flex-wrap align-items-center justify-content-center w-100">
                                     <div class="port-cover-info position-relative d-inline-block">
                                         <i class="thm-clr icon-pictures-folder"></i>
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">Jalan Tol Gallery</a></h3>
+                                        <h3 class="mb-0">Jalan Tol Gallery</h3>
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image22.jpg" alt="Portfolio Image 3">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                        <h3 class="mb-0">TOL PANDAAN - MALANG (PAMAL)</h3>
                                         <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image24.jpg" alt="Portfolio Image 8">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO - KERTOSONO (SOKER)</a></h3>
+                                <h3 class="mb-0">TOL SOLO - KERTOSONO (SOKER)</h3>
                                 <span class="d-block position-relative">Jalan Tol</span>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image23.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL SOLO - KERTOSONO (SOKER)</a></h3>
+                                        <h3 class="mb-0">TOL SOLO - KERTOSONO (SOKER)</h3>
                                         <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
@@ -96,7 +96,7 @@
                                 <div class="port-box2 text-center position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image25.jpg" alt="Portfolio Image 7">
                                     <div class="port-info2 position-absolute">
-                                        <h3 class="mb-0"><a href="portfolio-single.html" title="">TOL PANDAAN - MALANG (PAMAL)</a></h3>
+                                        <h3 class="mb-0">TOL PANDAAN - MALANG (PAMAL)</h3>
                                         <span class="d-block position-relative">Jalan Tol</span>
                                     </div>
                                 </div>
