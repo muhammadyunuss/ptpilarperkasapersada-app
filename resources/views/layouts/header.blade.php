@@ -26,7 +26,6 @@
                                 <li><a href="{{ route('portofolio-suplier') }}" title=""><span>Suplier</span></a></li>
                             </ul>
                         </li>
-                        <li><a href="{{ route('blog') }}" title=""><span>Blog</span></a></li>
                         <li><a href="{{ route('hubungi-kami') }}" title=""><span>Hubungi Kami</span></a></li>
                     </ul>
                 </div>

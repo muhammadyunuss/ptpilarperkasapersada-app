@@ -15,7 +15,7 @@
                         </ol>
                     </div>
                    <!-- <div class="page-title-img position-absolute"><iframe class="page-title-img-inner cont-map d-block w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193310.17249480143!2d-74.09645863243038!3d40.795632810892606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25907eddf79fb%3A0xed011b43b592fa2c!2s120%20Park%20Ave%2C%20New%20York%2C%20NY%2010017%2C%20USA!5e0!3m2!1sen!2s!4v1610634111327!5m2!1sen!2s"></iframe><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">PilarperkasaPersada</span></div> -->
-                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Blog</span></div>
+                    <div class="page-title-img position-absolute"><div class="page-title-img-inner d-block w-100" style="background-image: url({{ asset('front') }}/assets/images/page-title-bg1-2.jpg);"></div><span class="position-absolute sec-watermark center-watermark overlap-btm-shap88 font-200">Hubungi Kami</span></div>
 
                 </div>
             </div>
@@ -23,9 +23,13 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-80 pb-100 position-relative">
-        <img class="img-fluid z-3 overlap-tp-shap200 pos-lft--100 sec-tp-lft-shp opc-03 position-absolute" src="assets/images/sec-shap8.jpg" alt="Sec Shape 8">
-        <div class="container">
+        <div class="w-100 pt-90 white-layer opc4 pb-90 position-relative">
+          <div
+            class="fixed-bg"
+            style="background-image: url(assets/images/parallax-bg1.jpg)"
+          ></div>
+          <span class="frame thm-brd-clr position-absolute"></span>
+          <div class="container">
             <div class="sec-title text-center w-100">
                 <div class="sec-title-inner d-inline-block">
                     <span class="d-block thm-clr">Kantor Pusat</span>
@@ -53,11 +57,11 @@
                 </div>
             </div><!-- Contact Info Wrap -->
         </div>
-    </div>
-</section>
+        </div>
+      </section>
 <section>
     <div class="w-100 pt-80 pb-90 position-relative">
-        <div class="fixed-bg" style="background-image: url({{ asset('front') }}/assets/images/resources/photo-info-img-1.jpg);"></div>
+        <div class="fixed-bg" style="background-image: url({{ asset('front') }}/assets/images/resources/photo-info-img-2.jpg);"></div>
         <div class="container">
             <div class="cont-wrap mt-05 d-flex flex-wrap justify-content-end position-relative w-100">
                 <div class="cont-inner position-relative text-center d-inline-block">
