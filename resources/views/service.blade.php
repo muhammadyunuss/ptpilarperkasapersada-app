@@ -60,30 +60,6 @@
                         <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image3.jpg);"></div>
                     </div>
                 </div>
-                <div class="col-md-6 col-sm-6 col-lg-3">
-                    <div class="serv-banner-info position-absolute">
-                        <h3 class="thm-clr mb-0 position-relative"><span>Konstruksi</span></h3>
-                    </div>
-                    <div class="serv-banner-box v2 right-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image2.jpg);"></div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-lg-3">
-                    <div class="serv-banner-info position-absolute">
-                        <h3 class="thm-clr mb-0 position-relative"><span>Jalan Tol</span></h3>
-                    </div>
-                    <div class="serv-banner-box mt-160 left-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image4.jpg);"></div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-lg-3">
-                    <div class="serv-banner-info position-absolute">
-                        <h3 class="thm-clr mb-0 position-relative"><span>Supplier</span></h3>
-                    </div>
-                    <div class="serv-banner-box v2 right-cont position-relative w-100">
-                        <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image3.jpg);"></div>
-                    </div>
-                </div> 
             </div>
         </div><!-- Banners Wrap -->
     </div>
