@@ -251,7 +251,7 @@
                   "
                 ></div>
                 <div class="exc-proj-img-caro">
-                  <div class="exc-proj-img d-block w-100 pt-150">
+                  <div class="exc-proj-img d-block w-100 pt-200">
                     <img
                       class="img-fluid w-100"
                       src="{{ asset('front') }}/assets/images/slogan/logointi.png"
