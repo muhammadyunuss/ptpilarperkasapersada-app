@@ -224,7 +224,7 @@
                             <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title=""></a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-end w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
-                                    <li>Lokasi: <span>Bojonegoro</span></li>
+                                    <li>Lokasi: <span>Surabaya</span></li>
                                     <li>Tahun: <span>2020</span></li>
                                     <li>Client: <span>Koarmada 2</span></li>
                                 </ul>
