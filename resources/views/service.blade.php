@@ -60,7 +60,7 @@
                         <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image3.jpg);"></div>
                     </div>
                 </div>
-                {{-- <div class="col-md-6 col-sm-6 col-lg-3">
+                <div class="col-md-6 col-sm-6 col-lg-3">
                     <div class="serv-banner-info position-absolute">
                         <h3 class="thm-clr mb-0 position-relative"><span>Konstruksi</span></h3>
                     </div>
@@ -78,12 +78,12 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-lg-3">
                     <div class="serv-banner-info position-absolute">
-                        <h3 class="thm-clr mb-0 position-relative"><span>Suplier</span></h3>
+                        <h3 class="thm-clr mb-0 position-relative"><span>Supplier</span></h3>
                     </div>
                     <div class="serv-banner-box v2 right-cont position-relative w-100">
                         <div class="serv-banner-img position-relative w-100" style="background-image: url({{ asset('front') }}/assets/images/bisnis/image3.jpg);"></div>
                     </div>
-                </div> --}}
+                </div> 
             </div>
         </div><!-- Banners Wrap -->
     </div>

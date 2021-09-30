@@ -59,7 +59,7 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-70 pb-50 position-relative">
+    <div class="w-100 pt-70 pb-50 position-relative" >
         <svg class="sec-tp-lft-shp opc-6 stroke-clr position-absolute overlap-tp-shap10" width="358" height="721" viewBox="0 0 358 721" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g>
                 <path d="M356.475 355.943L239.925 93.594L64.2729 93.594L180.823 355.943L356.475 355.943Z" stroke="#000000"></path>
@@ -167,7 +167,8 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="proj-img2 position-relative w-100">
-                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg1-2.png);"></div><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img-1.jpg" alt="Project Image 1"></a>
+                            <div class="proj-bg opc-6 position-absolute" style="background-image: url({{ asset('front') }}/assets/images/resources/proj-bg1-2.png);"></div>
+                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/proj-img-1.jpg" alt="Project Image 1"></a>
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-12 col-lg-5">
@@ -237,7 +238,7 @@
 </div>
 </section>
 <section>
-    <div class="w-100 pt-50 bg-color3 pb-50 position-relative">
+    <div class="w-100 pt-50 bg-color3 pb-50 position-relative " style="background-image: url({{ asset('front') }}/assets/images/sec-shap13.png);">
       <div class="container">
         <div class="exc-proj-wrap w-100">
           <div class="row">
@@ -263,8 +264,8 @@
             <div class="col-md-6 col-sm-12 col-lg-6">
               <div class="sec-title w-100">
                 <div class="sec-title-inner d-inline-block">
-                  <span class="d-block thm-clr">Slogan</span>
-                  <h2 class="mb-0">Kenapa harus memilih kami<i></i></h2>
+                  <span class="d-block" style="color:white">Slogan</span>
+                  <h2 class="mb-0" style="color:white">Kenapa harus memilih kami<i></i></h2>
                 </div>
               </div>
               <!-- Sec Title -->
@@ -283,7 +284,7 @@
                         />
                         <path d="M21 8L0 8" stroke="#1e1e20" /></svg
                     ></span>
-                    <p class="mb-0">
+                    <p class="mb-0" style="color:white" >
                         Kami mempunyai ketekunan dan kegigihan untuk melaksanakan kepercayaan dari para pelanggan
                     </p>
                   </li>
@@ -300,7 +301,7 @@
                         />
                         <path d="M21 8L0 8" stroke="#1e1e20" /></svg
                     ></span>
-                    <p class="mb-0">
+                    <p class="mb-0" style="color:white">
                         Kami melaksanakan tanggung jawab kepada para pelanggan dengan didasari ketulusan hati untuk mendapatkan hasil terbaik
                     </p>
                   </li>
@@ -317,7 +318,7 @@
                         />
                         <path d="M21 8L0 8" stroke="#1e1e20" /></svg
                     ></span>
-                    <p class="mb-0">
+                    <p class="mb-0" style="color:white">
                         Setiap Insan PILAR adalah mempunyai fungsi manajemen untuk mempengaruhi, mengarahkan memotivasi dan mengawasi untuk mencapai tujuan dan hasil maksimal untuk kepuasan para pelanggan
                     </p>
                   </li>
@@ -334,7 +335,7 @@
                         />
                         <path d="M21 8L0 8" stroke="#1e1e20" /></svg
                     ></span>
-                    <p class="mb-0">
+                    <p class="mb-0" style="color:white">
                         Kami menyelesaikan semua kepercayaan para pelanggan dengan selalu mengedepankan kecerdasan dalam segala hal untuk mendapatkan hasil terbaik
                     </p>
                   </li>
@@ -351,7 +352,7 @@
                         />
                         <path d="M21 8L0 8" stroke="#1e1e20" /></svg
                     ></span>
-                    <p class="mb-0">
+                    <p class="mb-0" style="color:white">
                         Setiap Insan PILAR mempunyai Tanggung Jawab yang sama untuk mendapat hasil terbaik bagi para pelanggan
                     </p>
                   </li>
@@ -442,7 +443,8 @@
         </div>
 </section>
 <section>       
-    <div class="w-100 pb-90 bg-color3 position-relative">
+    <div class="w-100 pb-90 bg-color3 position-relative" >
+    <span class="frame thm-brd-clr position-absolute"></span>
         <div class="spnsrs-wrap position-relative w-100">
             <div class="sec-title text-center w-100 pt-40">
                 <div class="sec-title-inner d-inline-block">

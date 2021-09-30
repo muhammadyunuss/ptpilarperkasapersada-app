@@ -36,6 +36,7 @@
 /*=== Google Fonts ===*/
 @import url(https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100;400&family=Quando&display=swap');
 
 /*=== General Variables ===*/
 :root {
@@ -199,8 +200,8 @@ html {
 }
 body {
     margin: 0;
-    font-family: Roboto;
-    font-weight: 300;
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: 500;
     position: relative;
     width: 100%;
     max-width: 100%;
@@ -215,12 +216,12 @@ h4,
 h5,
 h6 {
     color: var(--color1);
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-weight: 400;
 }
 p {
-    font-family: Roboto;
-    font-weight: 300;
+    font-family: 'Noto Sans Display', sans-serif;
+    font-weight: 500;
     font-size: 1.125rem;
     line-height: 1.875rem;
 }
@@ -658,7 +659,7 @@ footer {
 .sec-watermark {
     bottom: 0;
     font-size: 15.625rem;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     line-height: 1;
     color: var(--color3);
     letter-spacing: 1rem;
@@ -2139,13 +2140,13 @@ a.play-btn:hover svg .stroke-dotted {
     position: absolute;
     left: 50%;
     bottom: 0;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-size: 1rem;
     font-weight: 600;
     color: var(--color1);
 }
 .pagiInfo:first-letter {
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-size: 6.25rem;
     font-weight: 400;
 }
@@ -2402,7 +2403,7 @@ nav > div:not(.nav-right) ul > li.menu-item-has-children > a::before {
     position: absolute;
     right: 0;
     top: 0;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-size: 1rem;
     line-height: inherit;
 }
@@ -2619,7 +2620,7 @@ nav ul ul.minicart-dropdown-list::before {
     padding-right: 0.9375rem;
 }
 .minicart-info > h6 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -2990,12 +2991,12 @@ header.sticky nav > div:not(.nav-right) > ul > li {
 }
 .about-img-cap > h3 {
     font-size: 14px;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     letter-spacing: 2.5px;
 }
 .about-img-cap > h3 span {
-    font-weight: 300;
+    font-weight: 500;
 }
 .about-img-cap > h3 i {
     width: 2.8125rem;
@@ -3127,7 +3128,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
     line-height: 3.125rem;
     width: 3.125rem;
     text-align: center;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-weight: 400;
     font-size: 1.875rem;
     bottom: 0;
@@ -3220,7 +3221,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
 .serv-info > h3 {
     font-size: 1.125rem;
     line-height: 1.875rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -3342,7 +3343,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
 }
 .proj-calc-head > h2 small {
     font-size: 1rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
 }
 .proj-calc-box:hover .proj-calc-head > h2 {
@@ -3368,7 +3369,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
 }
 .proj-calc-body-box > h4 {
     margin-bottom: 0;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     text-transform: uppercase;
     font-size: 1.125rem;
     font-weight: 500;
@@ -3381,7 +3382,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
 }
 .slc-box:before {
     content: "+";
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     position: absolute;
     right: 0.9375rem;
     pointer-events: none;
@@ -3397,7 +3398,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
     background-color: transparent;
     color: #737176;
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 500;
     border-bottom: 2px solid rgba(115, 113, 118, 0.5);
     padding: 3.5px 1.875rem 4.5px 0.9375rem;
 }
@@ -3716,7 +3717,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
 }
 .fact-box > h5 {
     position: relative;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     font-size: 1.125rem;
     text-transform: uppercase;
@@ -3755,7 +3756,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
     bottom: 12px;
 }
 .package-head > h4 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 1.125rem;
@@ -3768,7 +3769,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
 }
 .package-head > h2 small {
     font-size: 1rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
 }
 .package-head + .package-body {
@@ -3984,7 +3985,7 @@ header.sticky nav > div:not(.nav-right) > ul > li {
     color: #fff;
 }
 .widget-title {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-size: 1.125rem;
     text-transform: uppercase;
     font-weight: 500;
@@ -4159,7 +4160,7 @@ footer + .copyright {
 }
 .serv-box2-wrap > span {
     background-color: #fff;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     top: 0;
     font-size: 6.25rem;
     line-height: 1;
@@ -4309,7 +4310,7 @@ footer + .copyright {
     margin-top: 6.5625rem;
 }
 .proj-info2 > h3 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-size: 1.125rem;
     text-transform: uppercase;
     font-weight: 500;
@@ -4455,7 +4456,7 @@ footer + .copyright {
     margin-top: 2.8125rem;
 }
 .team-info > h3 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 1.125rem;
@@ -4548,7 +4549,7 @@ footer + .copyright {
     max-width: 5.625rem;
     background-color: var(--color5);
     text-align: center;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-size: 3.125rem;
     line-height: 2.8125rem;
     position: relative;
@@ -4567,7 +4568,7 @@ footer + .copyright {
 .step-box-info > h4 {
     position: relative;
     padding-left: 2.625rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 1.125rem;
@@ -4801,12 +4802,12 @@ footer + .copyright {
 }
 .about-fact-box > span {
     font-size: 5.3125rem;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-weight: 400;
     line-height: 1;
 }
 .about-fact-box > h5 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 1.125rem;
@@ -4948,7 +4949,7 @@ footer + .copyright {
 }
 .photo-info-box-inner > h3 {
     font-size: 1.125rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     position: relative;
@@ -5017,7 +5018,7 @@ footer + .copyright {
 
 /*===== Why Choose Us Style =====*/
 .why-choose-wrap .pagiInfo {
-    font-weight: 300;
+    font-weight: 500;
     bottom: 4.25rem;
     left: auto;
     right: 12rem;
@@ -5026,7 +5027,7 @@ footer + .copyright {
 }
 .why-choose-wrap .pagiInfo:first-letter {
     font-size: 1rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
 }
 .why-choose-caro > button.slick-prev {
@@ -5091,7 +5092,7 @@ footer + .copyright {
     position: relative;
     flex: 0 0 5.3125rem;
     max-width: 5.3125rem;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-size: 1.25rem;
     z-index: 1;
     padding-left: 10px;
@@ -5120,7 +5121,7 @@ footer + .copyright {
     padding-left: 1.5625rem;
 }
 .why-choose-info > h3 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 1.125rem;
@@ -5284,7 +5285,7 @@ footer + .copyright {
 .stage-head > span {
     font-size: 6.25rem;
     line-height: 0.7;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     display: inline-block;
 }
 .stage-head > span + i {
@@ -5445,7 +5446,7 @@ footer + .copyright {
 .team-info2 > h3 {
     font-size: 1.125rem;
     font-weight: 500;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     text-transform: uppercase;
     line-height: 1.875rem;
 }
@@ -5498,7 +5499,7 @@ footer + .copyright {
     max-width: calc(100% - 4.8125rem);
 }
 .reviw-info-inner > h4 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     font-size: 1.125rem;
 }
@@ -5847,7 +5848,7 @@ iframe.cont-map {
     margin-top: 1.1875rem;
 }
 .about-serv-info > h3 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     font-size: 1.125rem;
     line-height: 1.875rem;
@@ -6023,7 +6024,7 @@ iframe.cont-map {
 }
 .progress-wrap > h5 {
     margin-bottom: 2px;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
     font-size: 1.125rem;
@@ -6121,7 +6122,7 @@ iframe.cont-map {
 .serv-create-box > span {
     font-size: 6.25rem;
     line-height: 0.5;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     left: 0;
     top: -1.875rem;
     max-width: 8.4375rem;
@@ -6217,11 +6218,11 @@ iframe.cont-map {
     padding-left: 3.21875rem;
 }
 .timeline-box-head > h4 i {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     display: block;
     font-style: normal;
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 500;
 }
 .timeline-box-head > h4 + span {
     margin-top: 2.5rem;
@@ -6361,7 +6362,7 @@ iframe.cont-map {
     font-size: 1.125rem;
     font-weight: 500;
     text-transform: uppercase;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
 }
 .timeline-box > h4 + .loc {
     margin-top: 6px;
@@ -6442,7 +6443,7 @@ iframe.cont-map {
     top: 0;
     background-color: var(--color3);
     line-height: 2.8125rem;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-size: 3.125rem;
     font-weight: 400;
 }
@@ -6477,7 +6478,7 @@ iframe.cont-map {
     width: 100%;
     background-color: #fff;
     left: 0;
-    font-weight: 300;
+    font-weight: 500;
     text-align: center;
     padding: 1.4375rem 5rem;
 }
@@ -6534,7 +6535,7 @@ iframe.cont-map {
     background-color: #fff;
 }
 .faq-que-box > span.qu {
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-size: 1.25rem;
     font-weight: 400;
     left: 1.5625rem;
@@ -6553,7 +6554,7 @@ iframe.cont-map {
 }
 .faq-que-box > h4 {
     font-size: 1.125rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     line-height: 1.875rem;
@@ -6693,7 +6694,7 @@ blockquote.blockquote > i {
     font-size: 1.625rem;
     line-height: 2.5rem;
     font-weight: 400;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
 }
 .why-choose-tabs-wrap ul.nav-tabs > li.nav-item + li.nav-item {
     margin-top: 2.1875rem;
@@ -6721,7 +6722,7 @@ blockquote.blockquote > i {
 }
 .why-choose-tabs-wrap ul.nav-tabs > li.nav-item a.nav-link span {
     left: 14px;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-weight: 400;
     font-size: 1.25rem;
     line-height: 1;
@@ -6766,7 +6767,7 @@ blockquote.blockquote > i {
 }
 .why-choose-tabs-decs-wrap .tab-content h4 {
     font-weight: 500;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     text-transform: uppercase;
     font-size: 1.125rem;
     line-height: 1.875rem;
@@ -6919,7 +6920,7 @@ blockquote.blockquote > i {
     margin-top: -7.8125rem;
 }
 .roadmap-info-wrap > span {
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     color: #fff;
     font-size: 3.125rem;
     min-width: 5rem;
@@ -7042,7 +7043,7 @@ blockquote.blockquote > i {
     padding: 5.125rem 3.75rem 3.75rem;
 }
 .package-box2 > span {
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-size: 6.25rem;
     line-height: 1;
     left: 0;
@@ -7079,14 +7080,14 @@ blockquote.blockquote > i {
     top: 0;
 }
 .package-head2 > h4 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 1.125rem;
     line-height: 1.875rem;
 }
 .package-head2 > span {
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-size: 1.5rem;
     line-height: 1;
 }
@@ -7167,7 +7168,7 @@ blockquote.blockquote > i {
     line-height: 2.8125rem;
     color: #fff;
     font-size: 3.125rem;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-weight: 400;
     left: 0;
     top: 1.875rem;
@@ -7734,7 +7735,7 @@ blockquote.blockquote > i {
     padding: 1.875rem 3.75rem;
 }
 .blog-post-info2 > h3 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     font-size: 1.375rem;
     text-transform: uppercase;
@@ -7971,7 +7972,7 @@ blockquote.blockquote > i {
 .search_widget form input {
     border: 1px solid var(--color5);
     height: 3.875rem;
-    font-weight: 300;
+    font-weight: 500;
     color: #737176;
     width: 100%;
     font-size: 1rem;
@@ -8024,7 +8025,7 @@ blockquote.blockquote > i {
     display: inline-block;
     position: relative;
     padding-bottom: 6px;
-    font-weight: 300;
+    font-weight: 500;
 }
 .widget-box2 ul li a span {
     color: #737176;
@@ -8032,7 +8033,7 @@ blockquote.blockquote > i {
     display: inline-block;
     margin-left: 5px;
     opacity: 0;
-    font-weight: 300;
+    font-weight: 500;
 }
 .widget-box2 ul li a:before {
     content: "";
@@ -8076,7 +8077,7 @@ blockquote.blockquote > i {
 .popular-post-info > h4,
 .top-product-info > h4 {
     font-size: 1rem;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -8208,7 +8209,7 @@ blockquote.blockquote > i {
     width: 100%;
     top: 3.5px;
     line-height: 1.4375rem;
-    font-family: Arapey;
+    font-family: 'Quando', serif;
     font-weight: 400;
     background-color: var(--color3);
     font-size: 1.25rem;
@@ -8275,7 +8276,7 @@ blockquote.blockquote > i {
 }
 .comments-wrap > h3,
 .comment-reply > h3 {
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
     font-size: 1.125rem;
@@ -8299,7 +8300,7 @@ blockquote.blockquote > i {
 .comment-meta > h4 {
     font-size: 1.125rem;
     font-weight: 500;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
 }
 .comment-meta > h4 + span {
     margin-top: 8px;
@@ -8333,7 +8334,7 @@ blockquote.blockquote > i {
     padding: 1.3rem 2.5rem;
     color: #737176;
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 500;
     height: 7.8125rem;
     margin-bottom: 0.9375rem;
 }
@@ -8342,7 +8343,7 @@ blockquote.blockquote > i {
     border-right: 0;
     border-top: 0;
     border-color: #737176;
-    font-weight: 300;
+    font-weight: 500;
     padding: 10px 2.5rem;
 }
 .comment-reply form .field-box i {
@@ -8436,7 +8437,7 @@ blockquote.blockquote > i {
     font-size: 1.375rem;
     line-height: 1.875rem;
     text-transform: uppercase;
-    font-family: Roboto;
+    font-family: 'Noto Sans Display', sans-serif;
     font-weight: 500;
 }
 .shop-info > h3 + span {
@@ -8454,7 +8455,7 @@ span.price {
     font-weight: 500;
 }
 span.price del {
-    font-weight: 300;
+    font-weight: 500;
     color: var(--color5);
     margin-right: 8px;
 }
