@@ -91,7 +91,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-3">
                                 <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 1"></a></div>
+                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-konstruksi') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 1"></a></div>
                                         <div class="team-info2 position-relative w-100">
                                             <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">KONSTRUKSI</a></h3>
                                             <span class="d-block thm-clr">Gedung, sipil, mekanikal dan elekterikal</span>
@@ -100,7 +100,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-3">
                                 <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 1"></a></div>
+                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-jalantol') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 1"></a></div>
                                         <div class="team-info2 position-relative w-100">
                                             <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">JALAN TOL</a></h3>
                                             <span class="d-block thm-clr">Pembangunan jalan tol</span>
@@ -109,7 +109,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-4 col-lg-3">
                                 <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-4.jpg" alt="Service Image 1"></a></div>
+                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-suplier') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-4.jpg" alt="Service Image 1"></a></div>
                                         <div class="team-info2 position-relative w-100">
                                             <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">SUPPLIER</a></h3>
                                             <span class="d-block thm-clr">Alat berat dan material</span>

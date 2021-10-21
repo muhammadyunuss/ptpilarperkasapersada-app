@@ -6692,7 +6692,7 @@ blockquote.blockquote > i {
     margin-bottom: 0;
     flex: 0 0 100%;
     max-width: 100%;
-    font-size: 1.625rem;
+    font-size: 1rem;
     line-height: 2.5rem;
     font-weight: 400;
     font-family: 'Quando', serif;
@@ -6734,11 +6734,9 @@ blockquote.blockquote > i {
     left: 3rem;
     font-size: 3rem;
     line-height: 1;
-    top: 1.875rem;
 }
 .why-choose-tabs-wrap ul.nav-tabs > li.nav-item a.nav-link svg {
     max-width: 1.75rem;
-    top: 50%;
     margin-top: -7.5px;
     right: -0.25rem;
     opacity: 0;

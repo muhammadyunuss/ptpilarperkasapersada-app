@@ -30,7 +30,7 @@
         <div class="container">
             <div class="why-choose-tabs-wrap position-relative w-100">
                 <div class="row align-items-end">
-                    <div class="col-md-6 col-sm-12 col-lg-6">
+                    <div class="col-md-5 col-sm-12 col-lg-6">
                         <ul class="nav nav-tabs">
                             <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab1"><span class="position-absolute">01</span><i class="thm-clr icon-build"></i>Pengadaan Material KBSB (Kodam 0813 Kabupaten Bojonegoro) 2019<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
@@ -58,14 +58,14 @@
                             </svg></a></li>
                         </ul>
                     </div>
-                    <div class="col-md-6 col-sm-12 col-lg-6">
-                    <ul class="nav nav-tabs">
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab1"><span class="position-absolute">01</span>Mempunyai Nilai Total Kontrak Sebesar Rp. 16.000.000.000,-</a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab2"><span class="position-absolute">02</span>Mempunyai Nilai Total Kontrak Sebesar Rp. 18.008.000.000,-</a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab3"><span class="position-absolute">03</span>Mempunyai Nilai Total Kontrak Sebesar Rp. 13.156.000.000,-</a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab4"><span class="position-absolute">04</span>Mempunyai Nilai Total Kontrak Sebesar Rp. 14.277.685.000,-</a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab5"><span class="position-absolute">05</span>Mempunyai Nilai Total Kontrak Sebesar Rp. 19.012.536.000,-</a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab6"><span class="position-absolute">06</span>Mempunyai Nilai Total Kontrak Sebesar Rp. 26.660.000.000,-</a></li>
+                    <div class="col-md-5 col-sm-12 col-lg-6">
+                        <ul class="nav nav-tabs">
+                            <li class="nav-item"><a class="nav-link">Nilai Total Kontrak Rp. 16.000.000.000,-</a></li>
+                            <li class="nav-item"><a class="nav-link">Nilai Total Kontrak Rp. 18.008.000.000,-</a></li>
+                            <li class="nav-item"><a class="nav-link">Nilai Total Kontrak Rp. 13.156.000.000,-</a></li>
+                            <li class="nav-item"><a class="nav-link">Nilai Total Kontrak Rp. 14.277.685.000,-</a></li>
+                            <li class="nav-item"><a class="nav-link">Nilai Total Kontrak Rp. 19.012.536.000,-</a></li>
+                            <li class="nav-item"><a class="nav-link">Nilai Total Kontrak Rp. 26.660.000.000,-</a></li>
                         </ul>
                     </div>
                 </div>

@@ -148,7 +148,7 @@
                             <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#serv-tab1">Tambang</a></li>
                             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#serv-tab2">Konstruksi</a></li>
                             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#serv-tab3">Jalan Tol</a></li>
-                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#serv-tab4">Suplier</a></li>
+                            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#serv-tab4">Supplier</a></li>
                         </ul>
                     </div>
                     <div class="col-md-8 col-sm-12 col-lg-8">
