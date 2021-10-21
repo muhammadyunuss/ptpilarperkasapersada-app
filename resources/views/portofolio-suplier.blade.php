@@ -36,11 +36,11 @@
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
                                         <path d="M21 8L0 8" stroke="#1E1E20" />
                             </svg></a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab2"><span class="position-absolute">02</span><i class="thm-clr icon-build"></i>Pengadaan Material Rutilahu (Kodam 5 Brawijaya) 2019<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab2"><span class="position-absolute">02</span><i class="thm-clr icon-build"></i>Pengadaan Material Rutilahu (Kodam V Brawijaya) 2019<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
                                         <path d="M21 8L0 8" stroke="#1E1E20" />
                             </svg></a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab3"><span class="position-absolute">03</span><i class="thm-clr icon-build"></i>Pengadaan Material Rutilahu (Kodam 5 Brawijaya) 2019<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab3"><span class="position-absolute">03</span><i class="thm-clr icon-build"></i>Pengadaan Material Rutilahu (Kodam V Brawijaya) 2019<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
                                         <path d="M21 8L0 8" stroke="#1E1E20" />
                             </svg></a></li>

@@ -4,23 +4,14 @@
         <span>Hubungi kami melalui sosial media atau telpon langsung disaat jam kerja berlangsung :</span>
       </div>
       <div>
-        <a href="#" class="me-4 mr-2 text-reset">
+        <a href="https://www.facebook.com/profile.php?id=100070698257090" class="me-4 mr-2 text-reset">
           <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="#" class="me-4 mr-2 text-reset">
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a href="#" class="me-4 mr-2 text-reset">
-          <i class="fab fa-google"></i>
-        </a>
-        <a href="#" class="me-4 mr-2 text-reset">
+        </a>        
+        <a href="https://www.instagram.com/pilar_perkasa/" class="me-4 mr-2 text-reset">
           <i class="fab fa-instagram"></i>
         </a>
-        <a href="#" class="me-4 mr-2 text-reset">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        <a href="#" class="me-4 mr-2 text-reset">
-          <i class="fab fa-github"></i>
+        <a href="https://www.youtube.com/channel/UCWT-lBNGQG8EPx-4ZjhBgzw" class="me-4 mr-2 text-reset">
+          <i class="fab fa-youtube"></i>
         </a>
       </div>
     </section>

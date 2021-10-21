@@ -2,7 +2,7 @@
 
 @section('content')
 <section>
-    <div class="w-100 pb-60 position-relative">
+    <div class="w-100 pb-80 position-relative">
 
         <div class="feat-wrap3 position-relative w-100">
             <div class="feat-caro3">
@@ -59,7 +59,7 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-20 pb-50 position-relative" >
+    <div class="w-100 pt-70 pb-50 position-relative" >
         <svg class="sec-tp-lft-shp opc-6 stroke-clr position-absolute overlap-tp-shap10" width="358" height="721" viewBox="0 0 358 721" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g>
                 <path d="M356.475 355.943L239.925 93.594L64.2729 93.594L180.823 355.943L356.475 355.943Z" stroke="#000000"></path>
@@ -78,46 +78,58 @@
                     <h2 class="mb-0">Bisnis PT Pilarperkasa Persada<i></i></h2>
                 </div>
             </div><!-- Sec Title -->
-            <div class="team-wrap2 res-row position-relative w-100">
-                            <div class="row mrg55">
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                    <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-1.jpeg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">TAMBANG</a></h3>
-                                            <span class="d-block thm-clr">Tambang batu andesit</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">KONSTRUKSI</a></h3>
-                                            <span class="d-block thm-clr">Gedung, sipil, mekanikal dan elekterikal</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">JALAN TOL</a></h3>
-                                            <span class="d-block thm-clr">Pembangunan jalan tol</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-4.jpg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">SUPPLIER</a></h3>
-                                            <span class="d-block thm-clr">Alat berat dan material</span>
-                                        </div>
-                                    </div>
+            <div class="serv-wrap2 position-relative w-100">
+                <div class="row align-items-end serv-caro">
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
+                            <span class="position-absolute">01</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-tambang') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-1.jpeg" alt="Service Image 1"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">TAMBANG</a></h3>
+                                    <p class="mb-0">Tambang batu andesit</p>
                                 </div>
                             </div>
-                        </div><!-- Blog Wrap -->
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap position-relative d-block w-100">
+                            <span class="position-absolute">02</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-konstruksi') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 2"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-konstruksi') }}" title="">KONSTRUKSI</a></h3>
+                                    <p class="mb-0">Gedung, sipil, mekanikal dan elekterikal</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap mt-100 position-relative d-block w-100">
+                            <span class="position-absolute">03</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-jalantol') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 3"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-jalantol') }}" title="">JALAN TOL</a></h3>
+                                    <p class="mb-0">Pembangunan jalan tol</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="serv-box2-wrap position-relative d-block w-100">
+                            <span class="position-absolute">04</span>
+                            <div class="serv-box2 position-relative w-100">
+                                <div class="serv-img2 position-relative overflow-hidden w-100"><a class="thm-btn thm-bg d-inline-block position-absolute" href="{{ route('portofolio-suplier') }}" title="">Lebih Lanjut<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/.jpg" alt="Service Image 4"></div>
+                                <div class="serv-info2 position-relative w-100">
+                                    <h3 class="mb-0"><a href="{{ route('portofolio-suplier') }}" title="">SUPPLIER</a></h3>
+                                    <p class="mb-0">Alat berat dan material</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Services Wrap 2 -->
         </div>
         <svg class="sec-btm-rgt-shp overlap-btmshap150 opc-6 stroke-clr position-absolute" width="444" height="721" viewBox="0 0 444 721" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g>
