@@ -59,7 +59,7 @@
     </div>
 </section>
 <section>
-    <div class="w-100 pt-20 pb-50 position-relative" >
+    <div class="w-100 pt-20 pb-50 position-relative">
         <svg class="sec-tp-lft-shp opc-6 stroke-clr position-absolute overlap-tp-shap10" width="358" height="721" viewBox="0 0 358 721" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g>
                 <path d="M356.475 355.943L239.925 93.594L64.2729 93.594L180.823 355.943L356.475 355.943Z" stroke="#000000"></path>
@@ -79,45 +79,45 @@
                 </div>
             </div><!-- Sec Title -->
             <div class="team-wrap2 res-row position-relative w-100">
-                            <div class="row mrg55">
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                    <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-1.jpeg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">TAMBANG</a></h3>
-                                            <span class="d-block thm-clr">Tambang batu andesit</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-konstruksi') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">KONSTRUKSI</a></h3>
-                                            <span class="d-block thm-clr">Gedung, sipil, mekanikal dan elekterikal</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-jalantol') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">JALAN TOL</a></h3>
-                                            <span class="d-block thm-clr">Pembangunan jalan tol</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-4 col-lg-3">
-                                <div class="team-box2 w-100">
-                                        <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-suplier') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-4.jpg" alt="Service Image 1"></a></div>
-                                        <div class="team-info2 position-relative w-100">
-                                            <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">SUPPLIER</a></h3>
-                                            <span class="d-block thm-clr">Alat berat dan material</span>
-                                        </div>
-                                    </div>
-                                </div>
+                <div class="row mrg55">
+                    <div class="col-md-4 col-sm-4 col-lg-3">
+                        <div class="team-box2 w-100">
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-tambang') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-0.jpeg" alt="Service Image 1"></a></div>
+                            <div class="team-info2 position-relative w-100">
+                                <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">TAMBANG</a></h3>
+                                <span class="d-block thm-clr">Tambang batu andesit</span>
                             </div>
-                        </div><!-- Blog Wrap -->
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-lg-3">
+                        <div class="team-box2 w-100">
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-konstruksi') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-2.jpg" alt="Service Image 1"></a></div>
+                            <div class="team-info2 position-relative w-100">
+                                <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">KONSTRUKSI</a></h3>
+                                <span class="d-block thm-clr">Gedung, sipil, mekanikal dan elekterikal</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-lg-3">
+                        <div class="team-box2 w-100">
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-jalantol') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-3.jpg" alt="Service Image 1"></a></div>
+                            <div class="team-info2 position-relative w-100">
+                                <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">JALAN TOL</a></h3>
+                                <span class="d-block thm-clr">Pembangunan jalan tol</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-lg-3">
+                        <div class="team-box2 w-100">
+                            <div class="team-img2 position-relative w-100"><a href="{{ route('portofolio-suplier') }}" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/serv-img-4.jpg" alt="Service Image 1"></a></div>
+                            <div class="team-info2 position-relative w-100">
+                                <h3 class="mb-0"><a href="{{ route('portofolio-tambang') }}" title="">SUPPLIER</a></h3>
+                                <span class="d-block thm-clr">Alat berat dan material</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Blog Wrap -->
         </div>
         <svg class="sec-btm-rgt-shp overlap-btmshap150 opc-6 stroke-clr position-absolute" width="444" height="721" viewBox="0 0 444 721" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g>
@@ -227,146 +227,88 @@
 </section>
 <section>
     <div class="w-100 pt-50 bg-color3 pb-50 position-relative " style="background-image: url({{ asset('front') }}/assets/images/sec-shap13.png);">
-      <div class="container">
-        <div class="exc-proj-wrap w-100">
-          <div class="row">
-            <div class="col-md-6 col-sm-12 col-lg-6 order-md-1">
-              <div class="exc-proj-imgs-wrap position-relative w-100">
-                <div
-                  class="exc-proj-img-bg position-absolute"
-                  style="
+        <div class="container">
+            <div class="exc-proj-wrap w-100">
+                <div class="row">
+                    <div class="col-md-6 col-sm-12 col-lg-6 order-md-1">
+                        <div class="exc-proj-imgs-wrap position-relative w-100">
+                            <div class="exc-proj-img-bg position-absolute" style="
                     background-image: url(assets/images/exc-proj-img-bg.jpg);
-                  "
-                ></div>
-                <div class="exc-proj-img-caro">
-                  <div class="exc-proj-img d-block w-100 pt-200">
-                    <img
-                      class="img-fluid w-100"
-                      src="{{ asset('front') }}/assets/images/slogan/logointi.png"
-                      alt="Excellent Project Image 1"
-                    />
-                  </div>
+                  "></div>
+                            <div class="exc-proj-img-caro">
+                                <div class="exc-proj-img d-block w-100 pt-200">
+                                    <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/slogan/logointi.png" alt="Excellent Project Image 1" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12 col-lg-6">
+                        <div class="sec-title w-100">
+                            <div class="sec-title-inner d-inline-block">
+                                <span class="d-block" style="color:white">Slogan</span>
+                                <h2 class="mb-0" style="color:white">Kenapa harus memilih kami<i></i></h2>
+                            </div>
+                        </div>
+                        <!-- Sec Title -->
+                        <div class="exc-porj-desc position-relative w-100">
+                            <ul class="exc-proj-list mb-0 list-unstyled w-100">
+                                <li>
+                                    <span class="position-absolute text-center">P<svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
+                                            <path d="M21 8L0 8" stroke="#1e1e20" />
+                                        </svg></span>
+                                    <p class="mb-0" style="color:white">
+                                        Kami mempunyai ketekunan dan kegigihan untuk melaksanakan kepercayaan dari para pelanggan
+                                    </p>
+                                </li>
+                                <li>
+                                    <span class="position-absolute text-center">I<svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
+                                            <path d="M21 8L0 8" stroke="#1e1e20" />
+                                        </svg></span>
+                                    <p class="mb-0" style="color:white">
+                                        Kami melaksanakan tanggung jawab kepada para pelanggan dengan didasari ketulusan hati untuk mendapatkan hasil terbaik
+                                    </p>
+                                </li>
+                                <li>
+                                    <span class="position-absolute text-center">L<svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
+                                            <path d="M21 8L0 8" stroke="#1e1e20" />
+                                        </svg></span>
+                                    <p class="mb-0" style="color:white">
+                                        Setiap Insan PILAR adalah mempunyai fungsi manajemen untuk mempengaruhi, mengarahkan memotivasi dan mengawasi untuk mencapai tujuan dan hasil maksimal untuk kepuasan para pelanggan
+                                    </p>
+                                </li>
+                                <li>
+                                    <span class="position-absolute text-center">A<svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
+                                            <path d="M21 8L0 8" stroke="#1e1e20" />
+                                        </svg></span>
+                                    <p class="mb-0" style="color:white">
+                                        Kami menyelesaikan semua kepercayaan para pelanggan dengan selalu mengedepankan kecerdasan dalam segala hal untuk mendapatkan hasil terbaik
+                                    </p>
+                                </li>
+                                <li>
+                                    <span class="position-absolute text-center">R<svg viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1e1e20" />
+                                            <path d="M21 8L0 8" stroke="#1e1e20" />
+                                        </svg></span>
+                                    <p class="mb-0" style="color:white">
+                                        Setiap Insan PILAR mempunyai Tanggung Jawab yang sama untuk mendapat hasil terbaik bagi para pelanggan
+                                    </p>
+                                </li>
+                            </ul>
+                            <svg class="position-absolute" width="359" height="354" viewBox="0 0 359 354" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M358.5 351H323V300.316L250.863 264.339V331.541H278.904V170.438L201.566 91.0182L200.661 327.921L223.727 351L224.179 71.1066L166.063 3V142.381L126.489 156.862L149.781 267.507L171.49 289.455V212.75H115.635L80.3576 331.541H171.49V306.651H34V351H0" stroke="#F1F1F1" stroke-width="2" />
+                            </svg>
+                        </div>
+                    </div>
                 </div>
-              </div>
             </div>
-            <div class="col-md-6 col-sm-12 col-lg-6">
-              <div class="sec-title w-100">
-                <div class="sec-title-inner d-inline-block">
-                  <span class="d-block" style="color:white">Slogan</span>
-                  <h2 class="mb-0" style="color:white">Kenapa harus memilih kami<i></i></h2>
-                </div>
-              </div>
-              <!-- Sec Title -->
-              <div class="exc-porj-desc position-relative w-100">
-                <ul class="exc-proj-list mb-0 list-unstyled w-100">
-                  <li>
-                    <span class="position-absolute text-center"
-                      >P<svg
-                        viewBox="0 0 28 16"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z"
-                          fill="#1e1e20"
-                        />
-                        <path d="M21 8L0 8" stroke="#1e1e20" /></svg
-                    ></span>
-                    <p class="mb-0" style="color:white" >
-                        Kami mempunyai ketekunan dan kegigihan untuk melaksanakan kepercayaan dari para pelanggan
-                    </p>
-                  </li>
-                  <li>
-                    <span class="position-absolute text-center"
-                      >I<svg
-                        viewBox="0 0 28 16"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z"
-                          fill="#1e1e20"
-                        />
-                        <path d="M21 8L0 8" stroke="#1e1e20" /></svg
-                    ></span>
-                    <p class="mb-0" style="color:white">
-                        Kami melaksanakan tanggung jawab kepada para pelanggan dengan didasari ketulusan hati untuk mendapatkan hasil terbaik
-                    </p>
-                  </li>
-                  <li>
-                    <span class="position-absolute text-center"
-                      >L<svg
-                        viewBox="0 0 28 16"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z"
-                          fill="#1e1e20"
-                        />
-                        <path d="M21 8L0 8" stroke="#1e1e20" /></svg
-                    ></span>
-                    <p class="mb-0" style="color:white">
-                        Setiap Insan PILAR adalah mempunyai fungsi manajemen untuk mempengaruhi, mengarahkan memotivasi dan mengawasi untuk mencapai tujuan dan hasil maksimal untuk kepuasan para pelanggan
-                    </p>
-                  </li>
-                  <li>
-                    <span class="position-absolute text-center"
-                      >A<svg
-                        viewBox="0 0 28 16"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z"
-                          fill="#1e1e20"
-                        />
-                        <path d="M21 8L0 8" stroke="#1e1e20" /></svg
-                    ></span>
-                    <p class="mb-0" style="color:white">
-                        Kami menyelesaikan semua kepercayaan para pelanggan dengan selalu mengedepankan kecerdasan dalam segala hal untuk mendapatkan hasil terbaik
-                    </p>
-                  </li>
-                  <li>
-                    <span class="position-absolute text-center"
-                      >R<svg
-                        viewBox="0 0 28 16"
-                        fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path
-                          d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z"
-                          fill="#1e1e20"
-                        />
-                        <path d="M21 8L0 8" stroke="#1e1e20" /></svg
-                    ></span>
-                    <p class="mb-0" style="color:white">
-                        Setiap Insan PILAR mempunyai Tanggung Jawab yang sama untuk mendapat hasil terbaik bagi para pelanggan
-                    </p>
-                  </li>
-                </ul>
-                <svg
-                  class="position-absolute"
-                  width="359"
-                  height="354"
-                  viewBox="0 0 359 354"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M358.5 351H323V300.316L250.863 264.339V331.541H278.904V170.438L201.566 91.0182L200.661 327.921L223.727 351L224.179 71.1066L166.063 3V142.381L126.489 156.862L149.781 267.507L171.49 289.455V212.75H115.635L80.3576 331.541H171.49V306.651H34V351H0"
-                    stroke="#F1F1F1"
-                    stroke-width="2"
-                  />
-                </svg>
-              </div>
-            </div>
-          </div>
+            <!-- Excellent Pfojects Wrap -->
         </div>
-        <!-- Excellent Pfojects Wrap -->
-      </div>
     </div>
-  </section>
+</section>
 <section>
     <svg class="sec-btm-rgt-shp overlap-btmshap150 opc-6 stroke-clr position-absolute" width="444" height="721" viewBox="0 0 444 721" fill="none" xmlns="http://www.w3.org/2000/svg">
         <g>
@@ -428,11 +370,11 @@
                 </div>
             </div><!-- Blog Wrap -->
         </div>
-        </div>
+    </div>
 </section>
-<section>       
-    <div class="w-100 pb-90 bg-color3 position-relative" >
-    <span class="frame thm-brd-clr position-absolute"></span>
+<section>
+    <div class="w-100 pb-90 bg-color3 position-relative">
+        <span class="frame thm-brd-clr position-absolute"></span>
         <div class="spnsrs-wrap position-relative w-100">
             <div class="sec-title text-center w-100 pt-40">
                 <div class="sec-title-inner d-inline-block">
@@ -483,7 +425,7 @@
                 </li>
                 <li>
                     <div class="text-center w-100">
-                        <a href="javascript:void(0);" title=""><img width="90" height="90"class="img-fluid pt-60" src="{{ asset('front') }}/assets/images/klien/logo-BSM.jpeg" alt="Sponsor Image 1"></a>
+                        <a href="javascript:void(0);" title=""><img width="90" height="90" class="img-fluid pt-60" src="{{ asset('front') }}/assets/images/klien/logo-BSM.jpeg" alt="Sponsor Image 1"></a>
                     </div>
                 </li>
 

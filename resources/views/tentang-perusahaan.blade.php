@@ -37,20 +37,14 @@
             </g>
         </svg>
         <div class="container">
-            <div class="about-me-wrap w-100">
+            <div class="founder-wrap position-relative w-100">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 col-lg-6">
-                        <div class="about-me-img position-relative w-100">
-                            <div class="about-me-bg position-absolute" style="background-image: url({{ asset('front') }}/assets/images/about-me-img-bg-1.png);"></div>
-                            <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/about-me-img-1.jpg" alt="About Me Image">
-                            <div class="scl-links v2 w-100">
-                                <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
-                            </div>
+                    <div class="col-md-5 col-sm-12 col-lg-5">
+                        <div class="founder-img w-100">
+                            <img class="img-fluid w-100 pt-20" src="{{ asset('front') }}/assets/images/logofix-footer.png" alt="Founder Image">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 col-lg-6">
+                    <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="sec-title w-100">
                             <div class="sec-title-inner d-inline-block">
                                 <span class="d-block">Tentang Perusahaan</span>
@@ -60,13 +54,13 @@
 
                         <div class="about-me-desc w-100">
                             <p class="mb-0">Perseroan yang didirikan oleh pemilik untuk berkonsentrasi dalam bidang Jasa Pelaksana Pekerjaan Bangunan Gedung , Jasa Pelaksana Pekerjaan Sipil dan Supplier.
-                                Pendiri/Pemilik memiliki pengalaman dibisnis Pertambangan Batubara dan Pertambangan Batu Adesit yang telah dilakukan oleh pendiri/pemilik sejak tahun 1999. Dengan berkembangnya kegiatan bisnis yang dilakukan dibidang Pertambangan yang juga banyak aktivitas pekerjaan Konstruksi dan infrastruktur maka pendiri/pemilik mengembangkan usaha dengan menitik beratkan bidang usaha Pekerjaan Pelaksana Jasa Konstruksi Bangunan Gedung, Pelaksana Konstruksi Bangunan Sipil ,Instalasi Mekanikal dan Elektrikal serta Supplier Barang dan Alat Berat dengan mendirikan
+                                Pendiri/Pemilik memiliki pengalaman dibisnis Pertambangan Batubara dan Pertambangan Batu Andesit yang telah dilakukan oleh pendiri/pemilik sejak tahun 1999. Dengan berkembangnya kegiatan bisnis yang dilakukan dibidang Pertambangan yang juga banyak aktivitas pekerjaan Konstruksi dan infrastruktur maka pendiri/pemilik mengembangkan usaha dengan menitik beratkan bidang usaha Pekerjaan Pelaksana Jasa Konstruksi Bangunan Gedung, Pelaksana Konstruksi Bangunan Sipil ,Instalasi Mekanikal dan Elektrikal serta Supplier Barang dan Alat Berat dengan mendirikan
                                 <strong>PT.PILARPERKASA PERSADA yang disingkat dengan PTPILAR </strong>
                             </p>
                         </div>
                     </div>
                 </div>
-            </div><!-- About Me Wrap -->
+            </div><!-- Founder Wrap -->
         </div>
     </div>
 </section>
@@ -81,10 +75,9 @@
             </div><!-- Sec Title -->
             <div class="serv-create-wrap res-row position-relative w-100">
                 <div class="row">
-                <div class="col-md-5 col-sm-5 col-lg-3">
+                    <div class="col-md-5 col-sm-5 col-lg-3">
                         <div class="serv-create-box text-center position-relative w-100">
-                            <span class="position-absolute">01</span>
-                            <i class="icon-interior-design thm-clr"></i>
+                            <i class="icon-competitor thm-clr"></i>
                             <h3 class="mb-0">Tambang</h3>
                             <p class="mb-0">Tambang batu andesit</p>
                             <a class="thm-btn bg-color1 d-inline-block position-relative" href="services.html" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
@@ -92,7 +85,6 @@
                     </div>
                     <div class="col-md-5 col-sm-5 col-lg-3">
                         <div class="serv-create-box text-center position-relative w-100">
-                            <span class="position-absolute">02</span>
                             <i class="icon-interior-design thm-clr"></i>
                             <h3 class="mb-0">Konstruksi</h3>
                             <p class="mb-0">Gedung, Sipil, Mekanikal dan Elektrikal</p>
@@ -101,7 +93,6 @@
                     </div>
                     <div class="col-md-5 col-sm-5 col-lg-3">
                         <div class="serv-create-box text-center position-relative w-100">
-                            <span class="position-absolute">03</span>
                             <i class="icon-build thm-clr"></i>
                             <h3 class="mb-0">Jalan Tol</h3>
                             <p class="mb-0">Pembangunan</p>
@@ -110,8 +101,7 @@
                     </div>
                     <div class="col-md-5 col-sm-5 col-lg-3">
                         <div class="serv-create-box text-center position-relative w-100">
-                            <span class="position-absolute">04</span>
-                            <i class="icon-brick thm-clr"></i>
+                            <i class="icon-labor thm-clr"></i>
                             <h3 class="mb-0">Supplier</h3>
                             <p class="mb-0">Alat berat dan material</p>
                             <a class="thm-btn bg-color1 d-inline-block position-relative" href="services.html" title="">More<span class="brd-tp-lft"></span><span class="brd-btm-rgt"></span></a>
