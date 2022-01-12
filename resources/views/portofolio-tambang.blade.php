@@ -42,7 +42,7 @@
                         <div class="port-box2 text-center position-relative overflow-hidden w-100">
                             <img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/portofolio/image1.jpeg" alt="Portfolio Image 1">
                             <div class="port-info2 position-absolute">
-                                <h3 class="mb-0">Tambang Andesit Lampungo</h3>
+                                <h3 class="mb-0">Tambang Andesit Lampung</h3>
                                 <span class="d-block position-relative">Tambang</span>
                             </div>
                         </div>

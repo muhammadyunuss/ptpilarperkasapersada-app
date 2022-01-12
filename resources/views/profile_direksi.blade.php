@@ -104,8 +104,8 @@
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
-                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Pengembangan dan Pemasaran</span>
-                            <h1 class="d-inline-block position-relative">Maicon Adri</h1>
+                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Human Capital General Affair & Corporate</span>
+                            <h1 class="d-inline-block position-relative">Edi Supriyanto</h1>
                             <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
                         </div>
                     </div>

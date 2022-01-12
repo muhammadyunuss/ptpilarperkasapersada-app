@@ -44,15 +44,15 @@
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
                                         <path d="M21 8L0 8" stroke="#1E1E20" />
                                     </svg></a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab4"><span class="position-absolute">04</span><i class="thm-clr icon-build"></i>Pengadaan Material KBSB (Kodam 0813 Kabupaten Bojonegoro) 2020<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab4"><span class="position-absolute">04</span><i class="thm-clr icon-build"></i>Pengadaan Material KBSB (Kodim 0813 Kabupaten Bojonegoro) 2020<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
                                         <path d="M21 8L0 8" stroke="#1E1E20" />
                                     </svg></a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab5"><span class="position-absolute">05</span><i class="thm-clr icon-build"></i>Pengadaan Material KBSB (Kodam 0813 Kabupaten Bojonegoro) 2020<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab5"><span class="position-absolute">05</span><i class="thm-clr icon-build"></i>Pengadaan Material KBSB (Kodim 0813 Kabupaten Bojonegoro) 2020<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
                                         <path d="M21 8L0 8" stroke="#1E1E20" />
                                     </svg></a></li>
-                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab6"><span class="position-absolute">06</span><i class="thm-clr icon-build"></i>Pengadaan Material KBSB (Kodam 0813 Kabupaten Bojonegoro) 2021<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#why-choose-tab6"><span class="position-absolute">06</span><i class="thm-clr icon-build"></i>Pengadaan Material Rutilahu (Kodam V Brawijaya) 2021<svg class="position-absolute" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M28 8L20.5 14.9282L20.5 1.0718L28 8Z" fill="#1E1E20" />
                                         <path d="M21 8L0 8" stroke="#1E1E20" />
                                     </svg></a></li>

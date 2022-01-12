@@ -189,9 +189,9 @@
                             <a class="d-inline-block thm-clr" href="{{ route('portofolio-single') }}" title=""></a>
                             <div class="proj-info-list-wrap d-flex flex-wrap justify-content-start w-100">
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
-                                    <li>Lokasi: <span>Pandaan</span></li>
+                                    <li>Lokasi: <span>Section 1, 2 dan 4A</span></li>
                                     <li>Tahun: <span>2018</span></li>
-                                    <li>Client: <span>PP</span></li>
+                                    <li>Client: <span>PT. PP Tbk.</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -214,7 +214,7 @@
                                 <ul class="proj-info-list2 mb-0 list-unstyled">
                                     <li>Lokasi: <span>Surabaya</span></li>
                                     <li>Tahun: <span>2020</span></li>
-                                    <li>Client: <span>Koarmada 2</span></li>
+                                    <li>Client: <span>Pangkalan TNI AL Koarmada 2</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -360,7 +360,7 @@
                             <div class="blog-post-box w-100">
                                 <div class="blog-post-img position-relative overflow-hidden w-100"><a href="https://news.detik.com/berita/d-3240861/tni-al-segera-bangun-fasilitas-pelatihan-prajurit-di-surabaya?utm_source=copy_url&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=news" title=""><img class="img-fluid w-100" src="{{ asset('front') }}/assets/images/resources/blog-post-img-3.jpg" alt="Blog Post Image 1"></a></div>
                                 <div class="blog-post-info position-relative w-100">
-                                    <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>Aug 02, 2021<b></b></span>
+                                    <span class="blog-post-data d-block"><i class="icon-calendar-alt thm-clr"></i>June 23, 2016<b></b></span>
                                     <h3 class="mb-0"><a href="{{ route('blog-detail') }}" title="">Pembangunan Fasilitas Prajurit TNI AL Surabaya</a></h3>
                                     <p class="mb-0">(TNI AL) menyiapkan lahan untuk mendukung fasilitas dan pelatihan para prajurit. Pusat fasilitas dan pelatihan prajurit itu akan di atas lahan 24,6 hektare</p>
                                 </div>
