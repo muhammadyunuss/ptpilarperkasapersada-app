@@ -69,7 +69,7 @@
                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Utama</span>
-                            <h1 class="d-inline-block position-relative">Teguh Irawan,ST</h1>
+                            <h1 class="d-inline-block position-relative">Teguh Irawan, ST.</h1>
                             <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
                         </div>
                     </div>
@@ -77,8 +77,17 @@
                 <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
-                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Operation</span>
-                            <h1 class="d-inline-block position-relative">Hiksa Indra Gunawan,ST.</h1>
+                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Operation 1</span>
+                            <h1 class="d-inline-block position-relative">Marthen, ST.</h1>
+                            <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="roadmap-box position-relative d-flex flex-wrap align-items-center w-100">
+                    <div class=" position-relative">
+                        <div class="roadmap-info w-100">
+                            <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Operation 2</span>
+                            <h1 class="d-inline-block position-relative">Aminudin</h1>
                             <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
                         </div>
                     </div>
@@ -87,7 +96,7 @@
                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Teknik</span>
-                            <h1 class="d-inline-block position-relative">Hasyim Mustofa</h1>
+                            <h1 class="d-inline-block position-relative">Hiksa Indra Gunawan,ST.</h1>
                             <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
                         </div>
                     </div>
@@ -105,7 +114,7 @@
                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Human Capital General Affair & Corporate</span>
-                            <h1 class="d-inline-block position-relative">Edi Supriyanto</h1>
+                            <h1 class="d-inline-block position-relative">Indra Kaswara Mahar Kusuma, SH</h1>
                             <p class="mb-0">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system</p>
                         </div>
                     </div>
