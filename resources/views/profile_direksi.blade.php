@@ -87,7 +87,7 @@
                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Operation 2</span>
-                            <h1 class="d-inline-block position-relative">Aminudin</h1>
+                            <h1 class="d-inline-block position-relative">Maicon Adri</h1>
                             <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                     <div class=" position-relative">
                         <div class="roadmap-info w-100">
                             <span class="d-inline-block position-relative thm-clr"><i class="thm-clr icon-calendar position-absolute"></i>Direktur Keuangan</span>
-                            <h1 class="d-inline-block position-relative">Kesit. J. Triyono </h1>
+                            <h1 class="d-inline-block position-relative">Berni Haris </h1>
                             <p class="mb-0">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which</p>
                         </div>
                     </div>
